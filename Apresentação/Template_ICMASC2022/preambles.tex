@@ -1,0 +1,70 @@
+\usepackage[utf8]{inputenc}
+\usepackage[font=footnotesize]{caption}
+\usepackage{hyperref}
+
+\usefonttheme[onlymath]{serif}
+
+\definecolor{universityblue}{RGB}{0, 48, 135}
+\definecolor{secondaryblue}{RGB}{65, 182, 230}
+\definecolor{universitygray}{RGB}{137, 141, 141}
+\definecolor{lightgray}{RGB}{180, 180, 180}
+
+\useinnertheme{circles}
+\useoutertheme[right]{sidebar}
+\usecolortheme{sidebartab}
+\usecolortheme[named=universityblue]{structure}
+
+\setbeamercolor{title}{bg=white, fg=universityblue}
+\setbeamercolor{author in head/foot}{bg=universitygray, fg=white}
+\setbeamercolor{sidebar right}{bg=universityblue, fg=white}
+\setbeamercolor{title in sidebar}{fg=white}
+\setbeamercolor{author in sidebar}{fg=white}
+\setbeamercolor{section in sidebar shaded}{fg=lightgray}
+\setbeamercolor{section in sidebar}{fg=white,bg=secondaryblue}
+\setbeamercolor{subsection in sidebar shaded}{fg=lightgray}
+\setbeamercolor{subsection in sidebar}{fg=white,bg=secondaryblue}
+\setbeamercolor{navigation symbols dimmed}{fg=white}
+
+\setbeamertemplate{navigation symbols}{}
+\makeatletter
+\setbeamertemplate{footline}{%
+    \leavevmode%
+    \hbox{%
+        \begin{beamercolorbox}[wd=0.6\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+            \usebeamerfont{title in head/foot}%
+            \insertshortauthor ~ -- ~\insertshorttitle
+        \end{beamercolorbox}%
+        \begin{beamercolorbox}[wd=0.3\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+            \usebeamerfont{title in head/foot}%
+            \vspace{-1.5pt}
+            \insertslidenavigationsymbol%
+            \insertframenavigationsymbol%
+            \insertsubsectionnavigationsymbol%
+            \insertsectionnavigationsymbol%
+            \insertdocnavigationsymbol%
+            \insertbackfindforwardnavigationsymbol%
+        \end{beamercolorbox}%
+        \begin{beamercolorbox}[wd=0.1\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+            \usebeamerfont{title in head/foot}\insertframenumber/\inserttotalframenumber
+        \end{beamercolorbox}%
+    }
+}
+\makeatother
+
+% University logo and wordmark
+\logo{\includegraphics[scale=0.1]{icmaase_logo.png}}
+
+
+% Section title page
+%\AtBeginSection[]{
+ %   \begin{frame}
+  %      \centering
+   %     \begin{beamercolorbox}[sep=16pt,center]{title}
+    %        \usebeamerfont{title}\insertsectionhead\par%
+     %   \end{beamercolorbox}
+    %\end{frame}
+%}
+
+% Superscript removal for hyperref recognition in pdf string
+\newcommand{\supersc}[1]{\texorpdfstring{\textsuperscript{#1}}{}}
+
