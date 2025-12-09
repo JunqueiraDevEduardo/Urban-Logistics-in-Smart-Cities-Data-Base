@@ -35,3 +35,6 @@ Artigo 4:
 Artigo 5:
 Artigo 6:
 Artigo 7:
+
+
+-Caso de estudos  moodle pdf Mobilidade_e_Transformação_Orquestrada.pdf -Urban Cities Smart Cities e video explicativo feito peelo NotebookLM
