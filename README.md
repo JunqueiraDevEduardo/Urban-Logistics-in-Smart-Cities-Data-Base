@@ -9,7 +9,7 @@ Link Excel da query 536 resultados com a escolha dos artigos!
 Cada pessoa vai ter de ter 7 artigos! 3 x 7 = 21 artigos 
 
 
-Eduardo: 
+Eduardo 7 artigos: 
 Artigo 1:Designing new models for energy efficiency in urban freight transport for smart cities and its application to the Spanish case.
 Artigo 2:Interaction with City Logistics Stakeholders as a Factor of the Development of Polish Cities on the Way to Becoming Smart Cities.
 Artigo 3:Shortening the Last Mile in Urban Areas: Optimizing a Smart Logistics Concept for E-Grocery Operations.
@@ -17,24 +17,5 @@ Artigo 4:AI-Driven Optimization of Urban Logistics in Smart Cities: Integrating 
 Artigo 5:Fulfilment of last-mile urban logistics for sustainable and inclusive smart cities: a case study conducted in Portugal.
 Artigo 6:Collaborative urban transportation: Recent advances in theory and practice.
 Artigo 7:A Review of Technical Standards for Smart Cities.
-
-Luís:
-Artigo 1: Developing an assessment governance framework for urban digital twins: Insights from smart cities.
-Artigo 2:
-Artigo 3:
-Artigo 4:
-Artigo 5:
-Artigo 6:
-Artigo 7:
-
-Paulo:
-Artigo 1:
-Artigo 2:
-Artigo 3:
-Artigo 4:
-Artigo 5:
-Artigo 6:
-Artigo 7:
-
 
 -Caso de estudos  moodle pdf Mobilidade_e_Transformação_Orquestrada.pdf -Urban Cities Smart Cities e video explicativo feito peelo NotebookLM
