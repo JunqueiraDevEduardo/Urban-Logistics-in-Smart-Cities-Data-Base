@@ -1,0 +1,126 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% MAIN SETTINGS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[
+MEECAS,			% Use this option to select your DEE degree, options: MEECAS, MEECSA, MEECPI, MEECTE
+portuguese,		% Select document language, options: portuguese or english
+%draft,			% Uncomment for draft mode (no pictures, no links, overfull hboxes) 
+]{DEEclass}
+
+% Use the 'preamble.tex' file (root folder) do add packages and macros. Keep your main.tex file clean.
+\include{preamble}		 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% DISSERTATION INFORMATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% === METADADOS ===
+\thesistitle{Urban Logistics in Smart Cities}
+\author{Eduardo Miguel Moreira Junqueira}
+\studentnumber{1251561}
+\studentemail{1251561@isep.ipp.pt}
+\advisor{António Amaral}{sal@isep.ipp.pt}
+% (opcional)
+% \coadvisor{Nome do Coorientador}{https://exemplo.com}
+% \company{Nome da Empresa}
+% \supervisor{Nome do Supervisor}{https://exemplo.com}
+\subdate{Janeiro 2026}
+		
+\usepackage[acronym]{glossaries}
+\makeglossaries
+\input{front/0_acronyms}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}		
+% Páginas iniciais com numeração romana
+
+
+% Include the chapters of the dissertation as separate files from the 'chapters' folder
+
+%Estrutura Eduardo Junqueira
+%Normalmente, as páginas iniciais ou preliminares - agradecimentos, resumos, índice, etc. devem ser numeradas em algarismos romanos minúsculos;
+\pagenumbering{roman}% Inicia a numeração romana
+\include{front/title}
+\include{front/4_frontmatterlists}
+\include{front/abstract}%Abstract
+\include{front/0_acronyms}
+% Usa apenas uma quebra simples
+\renewcommand{\checktoopen}{%
+  \clearpage
+  \ifdef{\phantomsection}{\phantomsection}{}
+}
+\include{front/abstract_eng}
+\pagenumbering{arabic}%% Inicia a numeração arábica a partir daqui
+\include{chapters/chapter1}
+\include{chapters/chapter2}						
+\include{chapters/chapter3}
+\include{chapters/chapter4}
+%\include{chapters/appendixA}
+\include{chapters/chapter5}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Print the bibliographic references using the ieeetr format from the 'sampleRefs.bib' file (root folder)
+
+\printrefereces{sampleRefs}		% Change the 'sampleRefs' name to match your .bib file name,
+								% a good option to make bib files is https://www.jabref.org/
+% --- Início da secção de anexos ---
+\beginannexes
+
+% Agora adiciona cada anexo:
+\addsec{Anexo A — Filtro  e Resultados da \gls{query}}
+\label{anexo:base_dados_resultados_query}
+% Conteúdo do Anexo A...
+\textbf{\gls{query}}: ("urban logistics*" OR "urban areas*") AND ("smart cities*" OR "city logistics*" OR "smart logistics*") AND (sustainab* OR efficien* OR innovat*) AND ("transportation*" OR "economics*" OR "management*") \cite{JunqueiraDevEduardoRepositório}.
+
+Decomposicação da \gls{query} em vários filtros:
+\begin{itemize}
+    \item \textbf{("urban logistics*" OR "urban areas*")}
+    \item \textbf{AND ("smart cities*" OR "city logistics*" OR "smart logistics*")}
+    \item \textbf{AND (sustainab* OR efficien* OR innovat*)}
+    \item \textbf{AND ("transportation*" OR "economics*" OR "management*")}
+    \item  * é uma \textit{wildcard} para incluir variações do filtro base como por exemplo,  "urban logistics", "urban logistics",etc, que existem em diferentes artigos.
+\end{itemize}
+\addsec{Anexo B — Figuras complementares \gls{wos}}
+\label{anexo:figuras_complementares_wos}
+% Conteúdo do Anexo B...
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.22\textwidth]{figures/appendixA/visualization-web-of-science-category.jpg}
+    \caption{Resultados das Categorias das áreas de estudo obtidas no \gls{wos} com a query definida\cite{JunqueiraDevEduardoRepositório}.}
+    \label{fig:wos_query_results}
+\end{figure}    
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.25\textwidth]{figures/appendixA/visualizationpublication-years.jpg}
+    \caption{Resultados dos Anos de Publicação dos artigos obtidos no \gls{wos} com a query definida\cite{JunqueiraDevEduardoRepositório}.}
+    \label{fig:wos_query_years}
+\end{figure}
+\newpage
+
+\addsec{Anexo C — Figuras complementares \gls{vosviewer}}
+\label{anexo:figuras_complementares_vosviewer}
+% Conteúdo do Anexo C...
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.3\textwidth]{figures/Co-authorship/test1.png}
+    \caption{\textit{Map Co-authorship} apenas para análise,  obtida com a ferramenta \gls{vosviewer} com base nos 536 artigos obtidos no \gls{wos}, onde existe um filtro de mínimo de 9 citações de autores\cite{VOSviewer2026}.}
+    \label{fig:vosviewer_final-authorship}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.3\textwidth]{figures/Co-ocurrence/teste2-52keywords.png}
+    \caption{\textit{Map Co-occurrence} intermédio \gls{vosviewer} com base nos 536 artigos obtidos no \gls{wos} com 52 keywords\cite{VOSviewer2026}.}
+    \label{fig:vosviewer_interm-co-occurrence}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1.15\textwidth]{figures/Co-ocurrence/VOSviewer-screenshot-final-test.png}
+    \caption{\textit{Map Co-occurrence} final obtida com a ferramenta \gls{vosviewer} com base nos 536 artigos obtidos no \gls{wos}, destancando apeans 22 \textit{keywords}\cite{VosViewerResult2025}.}
+    \label{fig:vosviewer_network-final-co-occurrence}
+\end{figure}
+\end{document}  
+
+                

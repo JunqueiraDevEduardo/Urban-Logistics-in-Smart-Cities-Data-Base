@@ -1,0 +1,251 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 29,
+				"label": "cities",
+				"x": -0.7796,
+				"y": 0.3695,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2500,
+					"Avg. citations": 2.5000,
+					"Avg. norm. citations": 0.4022
+				}
+			},
+			{
+				"id": 32,
+				"label": "city logistics",
+				"x": -0.0532,
+				"y": -0.1648,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 20.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.9524,
+					"Avg. citations": 19.0476,
+					"Avg. norm. citations": 0.9755
+				}
+			},
+			{
+				"id": 89,
+				"label": "framework",
+				"x": -0.0855,
+				"y": 0.5855,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000,
+					"Avg. citations": 25.2000,
+					"Avg. norm. citations": 0.4940
+				}
+			},
+			{
+				"id": 93,
+				"label": "freight transport",
+				"x": 0.3927,
+				"y": 0.5379,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 34.0000,
+					"Avg. norm. citations": 0.8340
+				}
+			},
+			{
+				"id": 156,
+				"label": "model",
+				"x": 0.7062,
+				"y": 0.0910,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 21.5000,
+					"Avg. norm. citations": 1.3733
+				}
+			},
+			{
+				"id": 176,
+				"label": "optimization",
+				"x": -0.7515,
+				"y": -0.6016,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 5.6667,
+					"Avg. norm. citations": 0.6802
+				}
+			},
+			{
+				"id": 250,
+				"label": "transport",
+				"x": -0.6716,
+				"y": -0.0689,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 0.6003
+				}
+			},
+			{
+				"id": 269,
+				"label": "urban freight transport",
+				"x": 0.8231,
+				"y": -0.3239,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.4000,
+					"Avg. citations": 23.2000,
+					"Avg. norm. citations": 1.5098
+				}
+			},
+			{
+				"id": 273,
+				"label": "urban logistics",
+				"x": 0.4193,
+				"y": -0.4247,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.9000,
+					"Avg. citations": 14.4000,
+					"Avg. norm. citations": 1.4216
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 29,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 250,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 176,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 250,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 269,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 273,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 93,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 176,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 250,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 273,
+				"strength": 1.0000
+			}
+		]
+	}
+}

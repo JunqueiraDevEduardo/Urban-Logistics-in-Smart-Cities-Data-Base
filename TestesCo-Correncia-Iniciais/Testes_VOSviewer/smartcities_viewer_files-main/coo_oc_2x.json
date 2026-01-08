@@ -1,0 +1,1926 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 8,
+				"label": "algorithm",
+				"x": 0.3151,
+				"y": 0.8263,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 10.0000,
+					"Avg. norm. citations": 0.7895
+				}
+			},
+			{
+				"id": 16,
+				"label": "bicycles",
+				"x": 0.3810,
+				"y": -0.5142,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 58.0000,
+					"Avg. norm. citations": 0.7985
+				}
+			},
+			{
+				"id": 17,
+				"label": "big data",
+				"x": -0.5902,
+				"y": -0.5389,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.0000,
+					"Avg. citations": 9.5000,
+					"Avg. norm. citations": 0.7917
+				}
+			},
+			{
+				"id": 25,
+				"label": "case study",
+				"x": 0.1233,
+				"y": 0.8374,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.4179
+				}
+			},
+			{
+				"id": 29,
+				"label": "cities",
+				"x": 0.3409,
+				"y": -0.0381,
+				"cluster": 3,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.2500,
+					"Avg. citations": 2.5000,
+					"Avg. norm. citations": 0.4022
+				}
+			},
+			{
+				"id": 31,
+				"label": "city distribution",
+				"x": 0.1748,
+				"y": -0.2311,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.5000,
+					"Avg. citations": 56.0000,
+					"Avg. norm. citations": 1.2500
+				}
+			},
+			{
+				"id": 32,
+				"label": "city logistics",
+				"x": -0.1037,
+				"y": -0.2702,
+				"cluster": 1,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 54.0000,
+					"Occurrences": 21.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.9524,
+					"Avg. citations": 19.0476,
+					"Avg. norm. citations": 0.9755
+				}
+			},
+			{
+				"id": 35,
+				"label": "city logistics measures",
+				"x": -0.8067,
+				"y": 0.1777,
+				"cluster": 5,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.5000,
+					"Avg. citations": 25.0000,
+					"Avg. norm. citations": 2.9904
+				}
+			},
+			{
+				"id": 41,
+				"label": "collaboration",
+				"x": -0.0316,
+				"y": 0.8143,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.4179
+				}
+			},
+			{
+				"id": 58,
+				"label": "design",
+				"x": -0.2933,
+				"y": -0.6768,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.5000,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 0.7871
+				}
+			},
+			{
+				"id": 64,
+				"label": "digital twin",
+				"x": -1.0904,
+				"y": -0.3464,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 10.5000,
+					"Avg. norm. citations": 0.8750
+				}
+			},
+			{
+				"id": 69,
+				"label": "e-commerce",
+				"x": 1.0056,
+				"y": -0.3077,
+				"cluster": 3,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.0000,
+					"Avg. citations": 2.5000,
+					"Avg. norm. citations": 0.2985
+				}
+			},
+			{
+				"id": 75,
+				"label": "electric vehicles",
+				"x": 0.2992,
+				"y": -0.4515,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0000,
+					"Avg. citations": 58.0000,
+					"Avg. norm. citations": 0.7985
+				}
+			},
+			{
+				"id": 77,
+				"label": "emissions",
+				"x": 0.2073,
+				"y": 0.4054,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 0.7929
+				}
+			},
+			{
+				"id": 89,
+				"label": "framework",
+				"x": 0.3552,
+				"y": 0.1487,
+				"cluster": 4,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 21.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.4000,
+					"Avg. citations": 25.2000,
+					"Avg. norm. citations": 0.4940
+				}
+			},
+			{
+				"id": 93,
+				"label": "freight transport",
+				"x": 0.4273,
+				"y": -0.2867,
+				"cluster": 4,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 34.0000,
+					"Avg. norm. citations": 0.8340
+				}
+			},
+			{
+				"id": 103,
+				"label": "goods",
+				"x": 1.0185,
+				"y": -0.1033,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.5000,
+					"Avg. citations": 1.5000,
+					"Avg. norm. citations": 0.3333
+				}
+			},
+			{
+				"id": 105,
+				"label": "governance",
+				"x": -0.1143,
+				"y": 0.7251,
+				"cluster": 2,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.6667,
+					"Avg. citations": 5.6667,
+					"Avg. norm. citations": 0.5418
+				}
+			},
+			{
+				"id": 109,
+				"label": "hybrid",
+				"x": -0.4286,
+				"y": 0.6298,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5000,
+					"Avg. citations": 5.0000,
+					"Avg. norm. citations": 1.1111
+				}
+			},
+			{
+				"id": 110,
+				"label": "impact",
+				"x": -0.2224,
+				"y": 0.2235,
+				"cluster": 5,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 14.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 0.9422
+				}
+			},
+			{
+				"id": 116,
+				"label": "infrastructure and environment",
+				"x": 1.3728,
+				"y": -0.2539,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 117,
+				"label": "innovation",
+				"x": -0.7183,
+				"y": -0.5941,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 9.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5000,
+					"Avg. citations": 9.5000,
+					"Avg. norm. citations": 0.7917
+				}
+			},
+			{
+				"id": 122,
+				"label": "iot",
+				"x": -0.7391,
+				"y": -0.3369,
+				"cluster": 1,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.5000,
+					"Avg. citations": 16.5000,
+					"Avg. norm. citations": 3.1250
+				}
+			},
+			{
+				"id": 128,
+				"label": "last mile",
+				"x": -0.5864,
+				"y": -0.6970,
+				"cluster": 1,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.5000,
+					"Avg. citations": 22.0000,
+					"Avg. norm. citations": 1.2038
+				}
+			},
+			{
+				"id": 134,
+				"label": "location",
+				"x": -0.2148,
+				"y": 0.7817,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 11.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2023.6667,
+					"Avg. citations": 2.3333,
+					"Avg. norm. citations": 0.2786
+				}
+			},
+			{
+				"id": 139,
+				"label": "logistics centres",
+				"x": 1.3799,
+				"y": -0.1836,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 145,
+				"label": "management",
+				"x": 1.1845,
+				"y": -0.2825,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333,
+					"Avg. citations": 2.3333,
+					"Avg. norm. citations": 0.2786
+				}
+			},
+			{
+				"id": 155,
+				"label": "mobility",
+				"x": -0.8727,
+				"y": 0.0306,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 15.5000,
+					"Avg. norm. citations": 2.5244
+				}
+			},
+			{
+				"id": 156,
+				"label": "model",
+				"x": -0.6159,
+				"y": -0.3099,
+				"cluster": 1,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 15.0000,
+					"Occurrences": 4.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.2500,
+					"Avg. citations": 21.5000,
+					"Avg. norm. citations": 1.3733
+				}
+			},
+			{
+				"id": 159,
+				"label": "models",
+				"x": 0.3617,
+				"y": 0.3303,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 13.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.6667,
+					"Avg. citations": 37.0000,
+					"Avg. norm. citations": 0.3333
+				}
+			},
+			{
+				"id": 166,
+				"label": "multi-objective",
+				"x": -0.2769,
+				"y": 0.5494,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 0.4179
+				}
+			},
+			{
+				"id": 170,
+				"label": "networks",
+				"x": -0.0528,
+				"y": -0.0048,
+				"cluster": 4,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 6.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 3.5000,
+					"Avg. norm. citations": 1.4167
+				}
+			},
+			{
+				"id": 176,
+				"label": "optimization",
+				"x": 0.0393,
+				"y": 0.6804,
+				"cluster": 2,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 18.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 5.6667,
+					"Avg. norm. citations": 0.6802
+				}
+			},
+			{
+				"id": 207,
+				"label": "simulation",
+				"x": 0.4887,
+				"y": -0.3843,
+				"cluster": 4,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 0.6735
+				}
+			},
+			{
+				"id": 209,
+				"label": "smart cities",
+				"x": -0.5941,
+				"y": 0.1348,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2024.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 2.3333
+				}
+			},
+			{
+				"id": 210,
+				"label": "smart city",
+				"x": -1.0004,
+				"y": -0.1658,
+				"cluster": 5,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.0000,
+					"Avg. citations": 7.5000,
+					"Avg. norm. citations": 1.6667
+				}
+			},
+			{
+				"id": 211,
+				"label": "smart city logistics",
+				"x": 0.6659,
+				"y": -0.0114,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 8.5000,
+					"Avg. norm. citations": 0.9167
+				}
+			},
+			{
+				"id": 212,
+				"label": "smart logistics",
+				"x": -0.8670,
+				"y": -0.5164,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.5000,
+					"Avg. citations": 10.5000,
+					"Avg. norm. citations": 1.0139
+				}
+			},
+			{
+				"id": 217,
+				"label": "stakeholders",
+				"x": -0.5661,
+				"y": 0.3335,
+				"cluster": 5,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.5000,
+					"Avg. citations": 14.0000,
+					"Avg. norm. citations": 1.4747
+				}
+			},
+			{
+				"id": 222,
+				"label": "strategies",
+				"x": -0.9404,
+				"y": 0.0899,
+				"cluster": 5,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 15.5000,
+					"Avg. norm. citations": 2.5244
+				}
+			},
+			{
+				"id": 229,
+				"label": "sustainability",
+				"x": 0.7548,
+				"y": -0.1744,
+				"cluster": 3,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 7.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2022.3333,
+					"Avg. citations": 9.3333,
+					"Avg. norm. citations": 0.8379
+				}
+			},
+			{
+				"id": 230,
+				"label": "sustainable development",
+				"x": 1.2522,
+				"y": -0.1857,
+				"cluster": 3,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.3333,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 233,
+				"label": "sustainable mobility",
+				"x": 0.4482,
+				"y": -0.1003,
+				"cluster": 4,
+				"weights": {
+					"Links": 10.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 2.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.5000,
+					"Avg. citations": 58.5000,
+					"Avg. norm. citations": 0.8600
+				}
+			},
+			{
+				"id": 239,
+				"label": "systems",
+				"x": 0.2249,
+				"y": 0.5702,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 12.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 5.3333,
+					"Avg. norm. citations": 0.5032
+				}
+			},
+			{
+				"id": 250,
+				"label": "transport",
+				"x": 0.2044,
+				"y": -0.0037,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 17.0000,
+					"Occurrences": 6.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 0.6003
+				}
+			},
+			{
+				"id": 260,
+				"label": "urban",
+				"x": -0.0331,
+				"y": 0.5415,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.6667,
+					"Avg. citations": 3.3333,
+					"Avg. norm. citations": 0.2632
+				}
+			},
+			{
+				"id": 267,
+				"label": "urban freight",
+				"x": -0.0604,
+				"y": -0.6773,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Occurrences": 3.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.6667,
+					"Avg. citations": 25.3333,
+					"Avg. norm. citations": 0.9792
+				}
+			},
+			{
+				"id": 269,
+				"label": "urban freight transport",
+				"x": -0.4875,
+				"y": -0.0272,
+				"cluster": 5,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 16.0000,
+					"Occurrences": 5.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.4000,
+					"Avg. citations": 23.2000,
+					"Avg. norm. citations": 1.5098
+				}
+			},
+			{
+				"id": 273,
+				"label": "urban logistics",
+				"x": -0.7183,
+				"y": -0.1566,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 22.0000,
+					"Occurrences": 10.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2020.9000,
+					"Avg. citations": 14.4000,
+					"Avg. norm. citations": 1.4216
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 8,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 176,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 75,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 207,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 117,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 212,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 176,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 103,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 250,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 170,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 58,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 69,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 75,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 89,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 117,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 128,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 159,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 170,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 176,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 207,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 210,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 212,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 230,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 233,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 250,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 260,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 267,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 269,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 273,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 260,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 58,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 273,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 69,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 207,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 207,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 93,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 105,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 207,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 233,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 89,
+				"target_id": 260,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 207,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 93,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 116,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 139,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 230,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 103,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 134,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 105,
+				"target_id": 260,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 110,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 109,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 134,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 155,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 110,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 139,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 116,
+				"target_id": 230,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 122,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 212,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 117,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 128,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 212,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 122,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 212,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 128,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 166,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 134,
+				"target_id": 176,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 139,
+				"target_id": 145,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 139,
+				"target_id": 230,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 145,
+				"target_id": 230,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 210,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 222,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 155,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 212,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 217,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 159,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 159,
+				"target_id": 233,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 159,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 159,
+				"target_id": 260,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 166,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 166,
+				"target_id": 209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 170,
+				"target_id": 176,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 170,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 170,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 176,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 176,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 207,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 207,
+				"target_id": 267,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 209,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 212,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 210,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 229,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 222,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 260,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 217,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 269,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 222,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 230,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 239,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 233,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 250,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 239,
+				"target_id": 260,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 250,
+				"target_id": 273,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 267,
+				"target_id": 273,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 269,
+				"target_id": 273,
+				"strength": 1.0000
+			}
+		]
+	}
+}

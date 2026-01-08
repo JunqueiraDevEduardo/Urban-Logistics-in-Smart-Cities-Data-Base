@@ -1,0 +1,34 @@
+{
+    "latex-workshop.latex.tools": [
+       
+{
+  "name": "latexmk (pdflatex)",
+  "command": "latexmk",
+  "args": [
+    "-pdf",
+    "-synctex=1",
+    "-interaction=nonstopmode",
+    "-file-line-error",
+    "%DOC%"
+  ]
+},
+        {
+            "name": "biber",
+            "command": "biber",
+            "args": [
+                "%DOCFILE%"
+            ]
+        },
+    ],
+   
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk (pdfLaTeX)",
+      "tools": [
+        "latexmk (pdflatex)"
+      ]
+    }
+  ],
+
+    "latex-workshop.view.pdf.viewer": "tab"
+}
