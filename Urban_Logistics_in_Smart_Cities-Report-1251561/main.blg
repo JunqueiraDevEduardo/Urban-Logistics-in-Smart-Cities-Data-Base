@@ -13,44 +13,44 @@ A level-1 auxiliary file: chapters/chapter4.aux
 A level-1 auxiliary file: chapters/chapter5.aux
 The style file: ieeetr.bst
 Database file #1: sampleRefs.bib
-You've used 12 entries,
+You've used 22 entries,
             1876 wiz_defined-function locations,
-            568 strings with 6597 characters,
-and the built_in function-call counts, 2785 in all, are:
-= -- 263
-> -- 127
+            620 strings with 8479 characters,
+and the built_in function-call counts, 3983 in all, are:
+= -- 371
+> -- 158
 < -- 0
-+ -- 48
-- -- 36
-* -- 199
-:= -- 420
-add.period$ -- 16
-call.type$ -- 12
-change.case$ -- 11
++ -- 65
+- -- 43
+* -- 243
+:= -- 568
+add.period$ -- 27
+call.type$ -- 22
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 123
-empty$ -- 270
-format.name$ -- 36
-if$ -- 675
+cite$ -- 22
+duplicate$ -- 166
+empty$ -- 447
+format.name$ -- 43
+if$ -- 992
 int.to.chr$ -- 0
-int.to.str$ -- 12
+int.to.str$ -- 22
 missing$ -- 9
-newline$ -- 43
-num.names$ -- 12
-pop$ -- 37
+newline$ -- 74
+num.names$ -- 19
+pop$ -- 95
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 86
+skip$ -- 142
 stack$ -- 0
-substring$ -- 135
-swap$ -- 44
+substring$ -- 144
+swap$ -- 48
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 24
-width$ -- 14
-write$ -- 120
+while$ -- 30
+width$ -- 24
+write$ -- 189

@@ -1,7 +1,7 @@
 \begin{thebibliography}{10}
 
 \bibitem{MoodleEnunciado}
-A.~Amaral, ``Moodle enunciado teorias de suporte à investigação em gestão de projetos.'' https://moodle.isep.ipp.pt/pluginfile.php/49004/modresource/content/0/2.%20LOGISMEECAn%C3%A1lise%20Bibliom%C3%A9trica.pdf.
+A.~Amaral, ``Moodle enunciado teorias de suporte à investigação em gestão de projetos.'' https://moodle.isep.ipp.pt/pluginfile.php/49004/modresource/content/0/2.%20LOGISMEECAn%C3%A1lise%20Bibliom%C3%A9.
 
 \bibitem{INE2022Censos}
 I.~N. de~Estatística, {\em Censos 2021. XVI Recenseamento Geral da População. VI Recenseamento Geral da Habitação: Resultados definitivos}.
@@ -11,11 +11,11 @@ I.~N. de~Estatística, {\em Censos 2021. XVI Recenseamento Geral da População.
 E.~Junqueira, ``Github - junqueiradeveduardo urban-logistics-in-smart-cities-data-base.'' https://github.com/JunqueiraDevEduardo/Urban-Logistics-in-Smart-Cities-Data-Base.git.
 
 \bibitem{VOSviewer2026}
-N.~J. van Eck and L.~Waltman, ``Vosviewer.'' \url{https://www.vosviewer.com}, 2026.
+N.~J. van Eck and L.~Waltman, ``Vosviewer.'' {https://www.vosviewer.com}, 2026.
 \newblock Centre for Science and Technology Studies (CWTS), Leiden University, The Netherlands. Copyright \textcopyright{} 2026.
 
 \bibitem{VosViewerResult2025}
-{VOSviewer}, ``Resultado da análise bibliométrica com vosviewer.'' \url{https://tinyurl.com/23fbn4ay}, 2025.
+{VOSviewer}, ``Resultado da análise bibliométrica com vosviewer.'' {https://tinyurl.com/23fbn4ay}, 2025.
 \newblock Filtro aplicado para análise plain text file (.txt) obtido do Web of Science (WoS) com a query definida no trabalho académico. Copyright \textcopyright{} 2025.
 
 \bibitem{article}
@@ -27,6 +27,9 @@ B.~M. Mohsen, ``Ai-driven optimization of urban logistics in smart cities: Integ
 \bibitem{CLEOPHAS2019801}
 C.~Cleophas, C.~Cottrill, J.~F. Ehmke, and K.~Tierney, ``Collaborative urban transportation: Recent advances in theory and practice,'' {\em European Journal of Operational Research}, vol.~273, no.~3, pp.~801--816, 2019.
 
+\bibitem{article2}
+M.~Leyerer, M.-O. Sonneberg, M.~Heumann, and M.~Breitner, ``Shortening the last mile in urban areas: Optimizing a smart logistics concept for e-grocery operations,'' {\em Smart Cities}, vol.~3, pp.~585--603, 07 2020.
+
 \bibitem{NAVARRO2016314}
 C.~Navarro, M.~Roca-Riu, S.~Furió, and M.~Estrada, ``Designing new models for energy efficiency in urban freight transport for smart cities and its application to the spanish case,'' {\em Transportation Research Procedia}, vol.~12, pp.~314--324, 2016.
 \newblock Tenth International Conference on City Logistics 17-19 June 2015, Tenerife, Spain.
@@ -37,7 +40,35 @@ D.~Correia, C.~Vagos, J.~L. Marques, and L.~Teixeira, ``Fulfilment of last-mile 
 \bibitem{en15114103}
 K.~Dohn, M.~Kramarz, and E.~Przybylska, ``Interaction with city logistics stakeholders as a factor of the development of polish cities on the way to becoming smart cities,'' {\em Energies}, vol.~15, no.~11, 2022.
 
-\bibitem{GonzalezRomero06102024}
-I.~González-Romero, Ángel Ortiz-Bas, J.~C. Prado-Prado, and A.~Lyons, ``A stakeholder-led sustainability framework for analysing last-mile transport and delivery,'' {\em International Journal of Logistics Research and Applications}, vol.~0, no.~0, pp.~1--31, 2024.
+\bibitem{JunqueiraDevEduardoNoteBookKLM}
+E.~Junqueira, ``Notebooklm - logis-projeto-smart logistics: Urban-logistics-in-smart-cities-data-base.'' https://notebooklm.google.com/notebook/eb27afdf-3c76-417b-98f0-3ad6684ec4a6?artifactId=e140c83b-fb49-4895-860c-87dda03122c3.
+
+\bibitem{IEC}
+I.~E. Commission, ``Smart cities, international electrotechnical commission.'' https://www.iec.ch/whatwedo/visionmission.
+
+\bibitem{EnergiaSolar}
+EDP, ``Edp -energia solar.'' https://www.edp.pt/particulares/servicos/energia-solar/.
+
+\bibitem{FreighttransporttoLaRochelle}
+``Freight transport to la rochelle.'' https://www.instantfreight.ai/roadfreighttransport/france/larochelle.
+\newblock International Road Logistics, InstantFreight.
+
+\bibitem{FundacionValenciaport_2020}
+F.~Valenciaport, ``Smile - smart green innovative urban logistics for energy efficient mediterranean cities - fundación valenciaport.'' https://www.fundacion.valenciaport.com/en/project/smile-smart-green-innovative-urban-logistics-for-energy-efficient-mediterranean-cities/, Sept. 2020.
+
+\bibitem{FundacionValenciaport2015}
+F.~Valenciaport, ``Smart green innovative urban logistics for energy efficient mediterranean cities - smile.'' https://www.youtube.com/watch?v=s-Bw-IZwUz8, Mar. 2015.
+
+\bibitem{BeÁgueda}
+{CM Águeda}, ``beÁgueda - mobilidade sustentável em bicicleta.'' https://www.cm-agueda.pt/pages/1086.
+
+\bibitem{Águeda_vence_prémio_European_Green_Leaf_2026}
+https://www.cm-agueda.pt/viver/comunicacao/noticias-agueda/noticia/agueda-vence-premio-european-green-leaf-2026.
+
+\bibitem{EuropeanNetworkofOpenLivingLabs2025}
+E.~N. of~Open Living~Labs, ``Living labs enoll,'' Dec. 2025.
+
+\bibitem{CIVITAS_2025}
+https://civitas.eu/about, Oct. 2025.
 
 \end{thebibliography}

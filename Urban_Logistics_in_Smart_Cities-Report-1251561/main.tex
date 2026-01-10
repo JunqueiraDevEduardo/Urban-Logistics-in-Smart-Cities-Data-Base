@@ -13,7 +13,7 @@ portuguese,		% Select document language, options: portuguese or english
 
 
 % === METADADOS ===
-\thesistitle{Urban Logistics in Smart Cities}
+\thesistitle{\textit{Urban Logistics in Smart Cities}}
 \author{Eduardo Miguel Moreira Junqueira}
 \studentnumber{1251561}
 \studentemail{1251561@isep.ipp.pt}
@@ -71,14 +71,16 @@ portuguese,		% Select document language, options: portuguese or english
 % Conteúdo do Anexo A...
 \textbf{\gls{query}}: ("urban logistics*" OR "urban areas*") AND ("smart cities*" OR "city logistics*" OR "smart logistics*") AND (sustainab* OR efficien* OR innovat*) AND ("transportation*" OR "economics*" OR "management*") \cite{JunqueiraDevEduardoRepositório}.
 
-Decomposicação da \gls{query} em vários filtros:
-\begin{itemize}
-    \item \textbf{("urban logistics*" OR "urban areas*")}
+Decomposição da \gls{query} em vários filtros:
+%numeração com numeros
+
+\begin{enumerate}
+    \item\textbf{("urban logistics*" OR "urban areas*")}
     \item \textbf{AND ("smart cities*" OR "city logistics*" OR "smart logistics*")}
     \item \textbf{AND (sustainab* OR efficien* OR innovat*)}
     \item \textbf{AND ("transportation*" OR "economics*" OR "management*")}
-    \item  * é uma \textit{wildcard} para incluir variações do filtro base como por exemplo,  "urban logistics", "urban logistics",etc, que existem em diferentes artigos.
-\end{itemize}
+\end{enumerate}
+O uso de * é uma \textit{wildcard} para incluir variações do filtro base como por exemplo,  "urban logistics", "urban logistics",etc, que existem em diferentes artigos.
 \addsec{Anexo B — Figuras complementares \gls{wos}}
 \label{anexo:figuras_complementares_wos}
 % Conteúdo do Anexo B...
@@ -86,19 +88,19 @@ Decomposicação da \gls{query} em vários filtros:
 \begin{figure}[H]
     \centering
     \includegraphics[width=1.22\textwidth]{figures/appendixA/visualization-web-of-science-category.jpg}
-    \caption{Resultados das Categorias das áreas de estudo obtidas no \gls{wos} com a query definida\cite{JunqueiraDevEduardoRepositório}.}
+    \caption{Resultados das categorias das áreas de estudo obtidas no \gls{wos} com a \gls{query} definida\cite{JunqueiraDevEduardoRepositório}.}
     \label{fig:wos_query_results}
 \end{figure}    
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=1.25\textwidth]{figures/appendixA/visualizationpublication-years.jpg}
-    \caption{Resultados dos Anos de Publicação dos artigos obtidos no \gls{wos} com a query definida\cite{JunqueiraDevEduardoRepositório}.}
+    \caption{Resultados dos anos de publicação dos artigos obtidos no \gls{wos} com a \gls{query} definida\cite{JunqueiraDevEduardoRepositório}.}
     \label{fig:wos_query_years}
 \end{figure}
 \newpage
 
-\addsec{Anexo C — Figuras complementares \gls{vosviewer}}
+\addsec{Anexo C — Figuras complementares ferramenta \gls{vosviewer}}
 \label{anexo:figuras_complementares_vosviewer}
 % Conteúdo do Anexo C...
 
@@ -115,10 +117,11 @@ Decomposicação da \gls{query} em vários filtros:
     \caption{\textit{Map Co-occurrence} intermédio \gls{vosviewer} com base nos 536 artigos obtidos no \gls{wos} com 52 keywords\cite{VOSviewer2026}.}
     \label{fig:vosviewer_interm-co-occurrence}
 \end{figure}
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=1.15\textwidth]{figures/Co-ocurrence/VOSviewer-screenshot-final-test.png}
-    \caption{\textit{Map Co-occurrence} final obtida com a ferramenta \gls{vosviewer} com base nos 536 artigos obtidos no \gls{wos}, destancando apeans 22 \textit{keywords}\cite{VosViewerResult2025}.}
+    \caption{\textit{Map Co-occurrence} final obtida com a ferramenta \gls{vosviewer} com base nos 536 artigos obtidos no \gls{wos}, destancando apenas 22 \textit{keywords}\cite{VosViewerResult2025}.}
     \label{fig:vosviewer_network-final-co-occurrence}
 \end{figure}
 \end{document}  

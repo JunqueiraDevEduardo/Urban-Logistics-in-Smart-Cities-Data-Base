@@ -3,12 +3,18 @@
 \babel@toc {portuguese}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Gráfico de comunicação de dados entre normas, conceitos, colaboração e estudo de caso, ferramenta online \textit {infographic Notebook KLM}\cite {JunqueiraDevEduardoNoteBookKLM}.}}{6}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Conceito logístico de transporte de \gls {egc}, adaptado na cidade de Hanover, Alemanha citado neste artigo: \cite {article2}.}}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Novo modelo de eficiência energética no transporte de mercadorias em cidades inteligentes citado no vídeo: \cite {FundacionValenciaport2015}.}}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Serviço de mobilidade sustentável no Município de Águeda, Portugal citado na página do município: \cite {Águeda_vence_prémio_European_Green_Leaf_2026}.}}{13}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Análise detalhada de províncias da Polónia \cite {JunqueiraDevEduardoRepositório}.}}{15}{figure.caption.15}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Setores dos membros da \gls {enoll} citado em: \cite {EuropeanNetworkofOpenLivingLabs2025}.}}{17}{figure.caption.16}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Perfil Eduardo Junqueira\cite {JunqueiraDevEduardoRepositório}}}{8}{figure.caption.11}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Resultados das Categorias das áreas de estudo obtidas no \gls {wos} com a query definida\cite {JunqueiraDevEduardoRepositório}.}}{11}{figure.caption.17}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Resultados dos Anos de Publicação dos artigos obtidos no \gls {wos} com a query definida\cite {JunqueiraDevEduardoRepositório}.}}{12}{figure.caption.18}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces \textit {Map Co-authorship} apenas para análise, obtida com a ferramenta \gls {vosviewer} com base nos 536 artigos obtidos no \gls {wos}, onde existe um filtro de mínimo de 9 citações de autores\cite {VOSviewer2026}.}}{13}{figure.caption.20}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces \textit {Map Co-occurrence} intermédio \gls {vosviewer} com base nos 536 artigos obtidos no \gls {wos} com 52 keywords\cite {VOSviewer2026}.}}{14}{figure.caption.21}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces \textit {Map Co-occurrence} final obtida com a ferramenta \gls {vosviewer} com base nos 536 artigos obtidos no \gls {wos}, destancando apeans 22 \textit {keywords}\cite {VosViewerResult2025}.}}{15}{figure.caption.22}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Estudante ISEP 1251561 - Eduardo Junqueira\cite {JunqueiraDevEduardoRepositório}}}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Resultados das categorias das áreas de estudo obtidas no \gls {wos} com a \gls {query} definida\cite {JunqueiraDevEduardoRepositório}.}}{23}{figure.caption.23}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Resultados dos anos de publicação dos artigos obtidos no \gls {wos} com a \gls {query} definida\cite {JunqueiraDevEduardoRepositório}.}}{24}{figure.caption.24}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \textit {Map Co-authorship} apenas para análise, obtida com a ferramenta \gls {vosviewer} com base nos 536 artigos obtidos no \gls {wos}, onde existe um filtro de mínimo de 9 citações de autores\cite {VOSviewer2026}.}}{25}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces \textit {Map Co-occurrence} intermédio \gls {vosviewer} com base nos 536 artigos obtidos no \gls {wos} com 52 keywords\cite {VOSviewer2026}.}}{26}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces \textit {Map Co-occurrence} final obtida com a ferramenta \gls {vosviewer} com base nos 536 artigos obtidos no \gls {wos}, destancando apenas 22 \textit {keywords}\cite {VosViewerResult2025}.}}{27}{figure.caption.28}%

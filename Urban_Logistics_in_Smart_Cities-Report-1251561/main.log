@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.5)  8 JAN 2026 19:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.5)  10 JAN 2026 22:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -897,7 +897,7 @@ Package scrbase Info: activating portuguese \symbolsUnits on input line 32.
 \openout2 = `front/title.aux'.
 
 (./front/title.tex
-<front/isep_wordmark_expanded_vintage.pdf, id=92, 6097.78125pt x 745.35966pt>
+<front/isep_wordmark_expanded_vintage.pdf, id=124, 6097.78125pt x 745.35966pt>
 File: front/isep_wordmark_expanded_vintage.pdf Graphic file (type pdf)
 <use front/isep_wordmark_expanded_vintage.pdf>
 Package pdftex.def Info: front/isep_wordmark_expanded_vintage.pdf  used on input line 3.
@@ -982,17 +982,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [4
 
-])
+]
 
 [5
 
-] (./main.lof)
+])
+
+[6] (./main.lof
+Overfull \hbox (0.28528pt too wide) in paragraph at lines 17--17
+ [][] [][]\T1/lmr/m/n/10.95 Resultados dos anos de pu-bli-ca-ção dos ar-ti-gos ob-ti-dos no [][]WoS[] com a [][]Query[] definida[[]][].[] [][]  
+ []
+
+)
 \tf@lof=\write9
 \openout9 = `main.lof'.
 
 
 
-[6
+[7
 
 ] (./main.lot)
 \tf@lot=\write10
@@ -1000,7 +1007,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 )
 
-[7
+[8
 
 ]
 \openout2 = `front/abstract.aux'.
@@ -1073,43 +1080,88 @@ Package glossaries Warning: Entry `txt' has already been defined in the preamble
 Package glossaries Warning: Entry `csv' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 23.
 
 
-Package glossaries Warning: Entry `github' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 26.
+Package glossaries Warning: Entry `hindex' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 25.
 
 
-Package glossaries Warning: Entry `vosviewer' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 28.
+Package glossaries Warning: Entry `github' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 28.
 
 
-Package glossaries Warning: Entry `iso' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 31.
+Package glossaries Warning: Entry `vosviewer' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 30.
 
 
-Package glossaries Warning: Entry `iec' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 32.
+Package glossaries Warning: Entry `iec' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 33.
 
 
-Package glossaries Warning: Entry `itu' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 33.
+Package glossaries Warning: Entry `iso' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 34.
 
 
-Package glossaries Warning: Entry `ieee' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 34.
+Package glossaries Warning: Entry `itu' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 35.
 
 
-Package glossaries Warning: Entry `iot' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 36.
+Package glossaries Warning: Entry `ieee' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 36.
 
 
-Package glossaries Warning: Entry `bigdata' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 37.
+Package glossaries Warning: Entry `ejor' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 38.
 
 
-Package glossaries Warning: Entry `ai' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 38.
+Package glossaries Warning: Entry `iot' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 39.
 
 
-Package glossaries Warning: Entry `ml' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 39.
+Package glossaries Warning: Entry `bigdata' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 40.
 
 
-Package glossaries Warning: Entry `dl' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 40.
+Package glossaries Warning: Entry `ai' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 41.
 
 
-Package glossaries Warning: Entry `bct' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 42.
+Package glossaries Warning: Entry `ml' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 42.
 
 
-Package glossaries Warning: Entry `kpi' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 44.
+Package glossaries Warning: Entry `dl' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 43.
+
+
+Package glossaries Warning: Entry `5g' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 44.
+
+
+Package glossaries Warning: Entry `va' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 46.
+
+
+Package glossaries Warning: Entry `egc' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 48.
+
+
+Package glossaries Warning: Entry `co2' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 50.
+
+
+Package glossaries Warning: Entry `ue' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 52.
+
+
+Package glossaries Warning: Entry `smile' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 55.
+
+
+Package glossaries Warning: Entry `dbscan' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 57.
+
+
+Package glossaries Warning: Entry `bce' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 58.
+
+
+Package glossaries Warning: Entry `ersc' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 60.
+
+
+Package glossaries Warning: Entry `ipvc' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 62.
+
+
+Package glossaries Warning: Entry `citylab' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 64.
+
+
+Package glossaries Warning: Entry `bct' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 66.
+
+
+Package glossaries Warning: Entry `kpi' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 68.
+
+
+Package glossaries Warning: Entry `civitas' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 70.
+
+
+Package glossaries Warning: Entry `enoll' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 72.
 
 )
 \openout2 = `front/abstract_eng.aux'.
@@ -1167,28 +1219,110 @@ Cap\'{\i }tulo 2.
 
 
 
-])
+]
 
 [5]
+<figures/LKM/review_all.png, id=489, 2762.32pt x 1541.76pt>
+File: figures/LKM/review_all.png Graphic file (type png)
+<use figures/LKM/review_all.png>
+Package pdftex.def Info: figures/LKM/review_all.png  used on input line 80.
+(pdftex.def)             Requested size: 510.16086pt x 284.7271pt.
+
+Overfull \hbox (46.38083pt too wide) in paragraph at lines 80--81
+ [][] 
+ []
+
+
+
+[6 <./figures/LKM/review_all.png>]
+
+[7]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 123.
+
+
+
+[8]
+
+[9]
+<figures/Artigo4-metodologia-entregas-cacifo.png, id=589, 498.663pt x 278.84175pt>
+File: figures/Artigo4-metodologia-entregas-cacifo.png Graphic file (type png)
+<use figures/Artigo4-metodologia-entregas-cacifo.png>
+Package pdftex.def Info: figures/Artigo4-metodologia-entregas-cacifo.png  used on input line 182.
+(pdftex.def)             Requested size: 579.72504pt x 324.1927pt.
+
+Overfull \hbox (115.945pt too wide) in paragraph at lines 182--183
+ [][] 
+ []
+
+
+
+[10]
+<figures/smile.png, id=611, 1444.64719pt x 609.77812pt>
+File: figures/smile.png Graphic file (type png)
+<use figures/smile.png>
+Package pdftex.def Info: figures/smile.png  used on input line 203.
+(pdftex.def)             Requested size: 579.72504pt x 244.6978pt.
+
+Overfull \hbox (115.945pt too wide) in paragraph at lines 203--204
+ [][] 
+ []
+
+
+
+[11 <./figures/Artigo4-metodologia-entregas-cacifo.png>]
+
+[12 <./figures/smile.png>]
+<figures/greenleaf_1_2500_2500.jpeg, id=637, 973.38657pt x 647.41875pt>
+File: figures/greenleaf_1_2500_2500.jpeg Graphic file (type jpg)
+<use figures/greenleaf_1_2500_2500.jpeg>
+Package pdftex.def Info: figures/greenleaf_1_2500_2500.jpeg  used on input line 234.
+(pdftex.def)             Requested size: 533.3442pt x 354.73788pt.
+
+Overfull \hbox (69.56416pt too wide) in paragraph at lines 234--235
+ [][] 
+ []
+
+
+
+[13 <./figures/greenleaf_1_2500_2500.jpeg>]
+<figures/article7.drawio.pdf, id=651, 421.575pt x 597.19106pt>
+File: figures/article7.drawio.pdf Graphic file (type pdf)
+<use figures/article7.drawio.pdf>
+Package pdftex.def Info: figures/article7.drawio.pdf  used on input line 249.
+(pdftex.def)             Requested size: 463.78003pt x 656.99422pt.
+
+
+[14])
+
+[15 <./figures/article7.drawio.pdf>]
 \openout2 = `chapters/chapter3.aux'.
 
  (./chapters/chapter3.tex
 Cap\'{\i }tulo 3.
+<figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png, id=700, 889.52325pt x 487.8225pt>
+File: figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png Graphic file (type png)
+<use figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png>
+Package pdftex.def Info: figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png  used on input line 19.
+(pdftex.def)             Requested size: 463.78003pt x 254.34651pt.
 
 
-[6
+[16
 
 
 
 
 ])
+
+[17 <./figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png>]
 \openout2 = `chapters/chapter4.aux'.
 
  (./chapters/chapter4.tex
 Cap\'{\i }tulo 4.
 )
 
-[7
+[18
 
 
 
@@ -1198,14 +1332,14 @@ Cap\'{\i }tulo 4.
 
  (./chapters/chapter5.tex
 Cap\'{\i }tulo 5.
-<figures/perfil/Perfil_Eduardo.png, id=394, 342.27875pt x 337.26pt>
+<figures/perfil/Perfil_Eduardo.png, id=728, 342.27875pt x 337.26pt>
 File: figures/perfil/Perfil_Eduardo.png Graphic file (type png)
 <use figures/perfil/Perfil_Eduardo.png>
 Package pdftex.def Info: figures/perfil/Perfil_Eduardo.png  used on input line 9.
 (pdftex.def)             Requested size: 92.75458pt x 91.39076pt.
 )
 
-[8
+[19
 
 
 
@@ -1225,119 +1359,178 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\T1/lmr/m/n/10.95 VOSviewer, ``Re-sul-tado da aná-lise bi-bli-o-mé-trica com vos-vi-ewer.''
+ []
 
-[9
+
+
+[20
 
 
 
-])
+]
+Underfull \hbox (badness 2717) in paragraph at lines 45--45
+[]\T1/lmr/m/n/10.95 E. Jun-queira, ``No-te-bo-o-klm - logis-projeto-smart lo-gis-tics: Urban-logistics-in-smart-
+ []
 
-[10]
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/lmr/m/n/10.95 cities-data-base.'' https://notebooklm.google.com/notebook/eb27afdf-3c76-417b-98f0-
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 45--45
+\T1/lmr/m/n/10.95 3ad6684ec4a6?artifactId=e140c83b-fb49-4895-860c-87dda03122c3.  \T1/lmr/m/n/9 [Ci-tado nas pá-gi-nas []vii[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\T1/lmr/m/n/10.95 I. E. Com-mis-sion, ``Smart ci-ties, in-ter-na-ti-o-nal elec-tro-te-ch-ni-cal com-mis-sion.''
+ []
+
+
+Overfull \hbox (48.24876pt too wide) in paragraph at lines 55--55
+[]\T1/lmr/m/n/10.95 ``Freight trans-port to la ro-chelle.'' https://www.instantfreight.ai/roadfreighttransport/france/larochelle.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\T1/lmr/m/n/10.95 F. Va-len-ci-a-port, ``Smile - smart green in-no-va-tive ur-ban lo-gis-tics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\T1/lmr/m/n/10.95 for energy ef-fi-ci-ent me-di-ter-ra-nean ci-ties - fun-da-ción va-len-ci-a-port.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\T1/lmr/m/n/10.95 https://www.fundacion.valenciaport.com/en/project/smile-smart-green-innovative-urban-
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 64--64
+[]\T1/lmr/m/n/10.95 CM Águeda, ``be-Á-gueda - mo-bi-li-dade sus-ten-tá-vel em bi-ci-cleta.'' https://www.cm-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]\T1/lmr/m/n/10.95 https://www.cm-agueda.pt/viver/comunicacao/noticias-agueda/noticia/agueda-vence-
+ []
+
+)
+
+[21]
+
+[22
+
+]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 82.
+(hyperref)                removing `\gls' on input line 84.
 
-<figures/appendixA/visualization-web-of-science-category.jpg, id=460, 1967.35pt x 963.6pt>
+<figures/appendixA/visualization-web-of-science-category.jpg, id=834, 1967.35pt x 963.6pt>
 File: figures/appendixA/visualization-web-of-science-category.jpg Graphic file (type jpg)
 <use figures/appendixA/visualization-web-of-science-category.jpg>
-Package pdftex.def Info: figures/appendixA/visualization-web-of-science-category.jpg  used on input line 88.
+Package pdftex.def Info: figures/appendixA/visualization-web-of-science-category.jpg  used on input line 90.
 (pdftex.def)             Requested size: 565.8122pt x 277.12842pt.
 
-Overfull \hbox (102.03217pt too wide) in paragraph at lines 88--89
+Overfull \hbox (102.03217pt too wide) in paragraph at lines 90--91
  [][] 
  []
 
-<figures/appendixA/visualizationpublication-years.jpg, id=465, 1967.35pt x 963.6pt>
+<figures/appendixA/visualizationpublication-years.jpg, id=841, 1967.35pt x 963.6pt>
 File: figures/appendixA/visualizationpublication-years.jpg Graphic file (type jpg)
 <use figures/appendixA/visualizationpublication-years.jpg>
-Package pdftex.def Info: figures/appendixA/visualizationpublication-years.jpg  used on input line 95.
+Package pdftex.def Info: figures/appendixA/visualizationpublication-years.jpg  used on input line 97.
 (pdftex.def)             Requested size: 579.72504pt x 283.95076pt.
 
-Overfull \hbox (115.945pt too wide) in paragraph at lines 95--96
+Overfull \hbox (115.945pt too wide) in paragraph at lines 97--98
  [][] 
  []
 
 
 
-[11
-
+[23
 
  <./figures/appendixA/visualization-web-of-science-category.jpg>]
 
-[12 <./figures/appendixA/visualizationpublication-years.jpg>]
+[24 <./figures/appendixA/visualizationpublication-years.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\gls' on input line 101.
+(hyperref)                removing `\gls' on input line 103.
 
-<figures/Co-authorship/test1.png, id=479, 3015.265pt x 2142.0025pt>
+<figures/Co-authorship/test1.png, id=862, 3015.265pt x 2142.0025pt>
 File: figures/Co-authorship/test1.png Graphic file (type png)
 <use figures/Co-authorship/test1.png>
-Package pdftex.def Info: figures/Co-authorship/test1.png  used on input line 107.
+Package pdftex.def Info: figures/Co-authorship/test1.png  used on input line 109.
 (pdftex.def)             Requested size: 602.91545pt x 428.29486pt.
 
-Overfull \hbox (139.13542pt too wide) in paragraph at lines 107--108
+Overfull \hbox (139.13542pt too wide) in paragraph at lines 109--110
  [][] 
  []
 
-<figures/Co-ocurrence/teste2-52keywords.png, id=486, 3015.265pt x 2142.0025pt>
+<figures/Co-ocurrence/teste2-52keywords.png, id=869, 3015.265pt x 2142.0025pt>
 File: figures/Co-ocurrence/teste2-52keywords.png Graphic file (type png)
 <use figures/Co-ocurrence/teste2-52keywords.png>
-Package pdftex.def Info: figures/Co-ocurrence/teste2-52keywords.png  used on input line 114.
+Package pdftex.def Info: figures/Co-ocurrence/teste2-52keywords.png  used on input line 116.
 (pdftex.def)             Requested size: 602.91545pt x 428.29486pt.
 
-Overfull \hbox (139.13542pt too wide) in paragraph at lines 114--115
- [][] 
- []
-
-<figures/Co-ocurrence/VOSviewer-screenshot-final-test.png, id=493, 1927.2pt x 1050.92625pt>
-File: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png Graphic file (type png)
-<use figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>
-Package pdftex.def Info: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png  used on input line 120.
-(pdftex.def)             Requested size: 533.3442pt x 290.82568pt.
-
-Overfull \hbox (69.56416pt too wide) in paragraph at lines 120--121
+Overfull \hbox (139.13542pt too wide) in paragraph at lines 116--117
  [][] 
  []
 
 
 
-[13 <./figures/Co-authorship/test1.png
+[25 <./figures/Co-authorship/test1.png
 
 pdfTeX warning: pdflatex (file ./figures/Co-authorship/test1.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
+<figures/Co-ocurrence/VOSviewer-screenshot-final-test.png, id=881, 1927.2pt x 1050.92625pt>
+File: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png Graphic file (type png)
+<use figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>
+Package pdftex.def Info: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png  used on input line 123.
+(pdftex.def)             Requested size: 533.3442pt x 290.82568pt.
 
-[14 <./figures/Co-ocurrence/teste2-52keywords.png
+Overfull \hbox (69.56416pt too wide) in paragraph at lines 123--124
+ [][] 
+ []
+
+
+
+[26 <./figures/Co-ocurrence/teste2-52keywords.png
 
 pdfTeX warning: pdflatex (file ./figures/Co-ocurrence/teste2-52keywords.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
 
-[15 <./figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>] (./main.aux (./front/title.aux) (./front/4_frontmatterlists.aux) (./front/abstract.aux) (./front/0_acronyms.aux) (./front/abstract_eng.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
+[27 <./figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>] (./main.aux (./front/title.aux) (./front/4_frontmatterlists.aux) (./front/abstract.aux) (./front/0_acronyms.aux) (./front/abstract_eng.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 41AA8B3DE4884E2AF7ED62B970A50B78;3183.
+(rerunfilecheck)             Checksum: 6A9E45873059FAAE01427B024900CC7A;5373.
 Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: 42EE582B407251DD0977AC44C293AE6B;1704.
+(rerunfilecheck)             Checksum: AD92FBCEFC65C8D651DE6F91D9DAA170;5146.
  ) 
 Here is how much of TeX's memory you used:
- 35634 strings out of 475044
- 763375 string characters out of 5763162
- 1323508 words of memory out of 5000000
- 57967 multiletter control sequences out of 15000+600000
- 644830 words of font info for 89 fonts, out of 8000000 for 9000
+ 36298 strings out of 475044
+ 775509 string characters out of 5763162
+ 1328370 words of memory out of 5000000
+ 58571 multiletter control sequences out of 15000+600000
+ 661914 words of font info for 93 fonts, out of 8000000 for 9000
  83 hyphenation exceptions out of 8191
- 101i,19n,103p,2473b,1231s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (24 pages, 2667131 bytes).
+ 101i,20n,103p,2473b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (37 pages, 12381959 bytes).
 PDF statistics:
- 589 PDF objects out of 1000 (max. 8388607)
- 507 compressed objects within 6 object streams
- 97 named destinations out of 1000 (max. 500000)
- 212 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 989 PDF objects out of 1000 (max. 8388607)
+ 860 compressed objects within 9 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 306 words of extra memory for PDF output out of 10000 (max. 10000000)
 

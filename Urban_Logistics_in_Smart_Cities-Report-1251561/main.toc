@@ -1,7 +1,7 @@
 \babel@toc {portuguese}{}\relax 
 \contentsline {chapter}{Lista de Acr\'{o}nimos}{iv}{section*.3}%
-\contentsline {chapter}{Lista de Figuras}{vi}{chapter*.5}%
-\contentsline {chapter}{Lista de Tabelas}{vii}{chapter*.6}%
+\contentsline {chapter}{Lista de Figuras}{vii}{chapter*.5}%
+\contentsline {chapter}{Lista de Tabelas}{viii}{chapter*.6}%
 \babel@toc {english}{}\relax 
 \babel@toc {portuguese}{}\relax 
 \contentsline {chapter}{\numberline {1}Introdução}{1}{chapter.1}%
@@ -10,12 +10,20 @@
 \contentsline {section}{\numberline {1.3}Estrutura e Organização}{3}{section.1.3}%
 \contentsline {chapter}{\numberline {2}Revisão da Literatura}{4}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Análise Bibliométrica}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Apreciação Crítica dos Principais Artigos}{5}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Caso de Estudo}{6}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Conclusão}{7}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Nota Bibliográfica}{8}{chapter.5}%
-\contentsline {chapter}{Refer\^{e}ncias}{9}{section*.12}%
-\contentsline {chapter}{Anexos}{11}{chapter*.14}%
-\contentsline {section}{Anexo A — Filtro e Resultados da \gls {query}}{11}{section*.15}%
-\contentsline {section}{Anexo B — Figuras complementares \gls {wos}}{11}{section*.16}%
-\contentsline {section}{Anexo C — Figuras complementares \gls {vosviewer}}{13}{section*.19}%
+\contentsline {section}{\numberline {2.2}Apreciação Crítica dos Principais Artigos}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Normas Globais para Cidades Inteligentes e Sustentáveis}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Papel da \gls {ai} na Logística}{8}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Transporte Colaborativo Urbano}{9}{section.2.5}%
+\contentsline {section}{\numberline {2.6}E-Grocery Conceito Logístico de transporte}{9}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Novos Modelos de Eficiência Energética no Transporte}{11}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Portugal: sustentável e inclusivo}{12}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Polónia: Interação com \textit {Stakeholders}}{14}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Caso de Estudo - \textit {Living Labs'}}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Exemplo prático a destacar}{17}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Conclusão}{18}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Nota Bibliográfica}{19}{chapter.5}%
+\contentsline {chapter}{Refer\^{e}ncias}{20}{section*.18}%
+\contentsline {chapter}{Anexos}{23}{chapter*.20}%
+\contentsline {section}{Anexo A — Filtro e Resultados da \gls {query}}{23}{section*.21}%
+\contentsline {section}{Anexo B — Figuras complementares \gls {wos}}{23}{section*.22}%
+\contentsline {section}{Anexo C — Figuras complementares ferramenta \gls {vosviewer}}{25}{section*.25}%

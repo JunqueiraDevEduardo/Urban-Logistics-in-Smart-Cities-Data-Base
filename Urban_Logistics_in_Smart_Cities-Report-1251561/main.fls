@@ -409,6 +409,7 @@ INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmcsc10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbxi10.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
@@ -494,6 +495,8 @@ INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbxi10.tfm
 OUTPUT main.toc
 INPUT ./main.acr
 INPUT ./main.acr
@@ -502,7 +505,6 @@ INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmro10.tfm
 INPUT ./main.lof
 INPUT ./main.lof
 INPUT main.lof
-INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri10.tfm
 OUTPUT main.lof
 INPUT ./main.lot
 INPUT ./main.lot
@@ -539,12 +541,45 @@ INPUT ./chapters/chapter2.tex
 INPUT ./chapters/chapter2.tex
 INPUT chapters/chapter2.tex
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ts1-lmr10.tfm
+INPUT ./figures/LKM/review_all.png
+INPUT ./figures/LKM/review_all.png
+INPUT ./figures/LKM/review_all.png
+INPUT ./figures/LKM/review_all.png
+INPUT ./figures/LKM/review_all.png
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT ./figures/Artigo4-metodologia-entregas-cacifo.png
+INPUT ./figures/Artigo4-metodologia-entregas-cacifo.png
+INPUT ./figures/Artigo4-metodologia-entregas-cacifo.png
+INPUT ./figures/Artigo4-metodologia-entregas-cacifo.png
+INPUT ./figures/Artigo4-metodologia-entregas-cacifo.png
+INPUT ./figures/smile.png
+INPUT ./figures/smile.png
+INPUT ./figures/smile.png
+INPUT ./figures/smile.png
+INPUT ./figures/smile.png
+INPUT ./figures/greenleaf_1_2500_2500.jpeg
+INPUT ./figures/greenleaf_1_2500_2500.jpeg
+INPUT ./figures/greenleaf_1_2500_2500.jpeg
+INPUT ./figures/greenleaf_1_2500_2500.jpeg
+INPUT ./figures/greenleaf_1_2500_2500.jpeg
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbxi10.tfm
+INPUT ./figures/article7.drawio.pdf
+INPUT ./figures/article7.drawio.pdf
+INPUT ./figures/article7.drawio.pdf
+INPUT ./figures/article7.drawio.pdf
+INPUT ./figures/article7.drawio.pdf
 INPUT ./chapters/chapter3.tex
 INPUT ./chapters/chapter3.tex
 OUTPUT chapters/chapter3.aux
 INPUT ./chapters/chapter3.tex
 INPUT ./chapters/chapter3.tex
 INPUT chapters/chapter3.tex
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbxi10.tfm
+INPUT ./figures/caso-de-estudo/Living Labs Areas de Atuação.png
+INPUT ./figures/caso-de-estudo/Living Labs Areas de Atuação.png
+INPUT ./figures/caso-de-estudo/Living Labs Areas de Atuação.png
+INPUT ./figures/caso-de-estudo/Living Labs Areas de Atuação.png
+INPUT ./figures/caso-de-estudo/Living Labs Areas de Atuação.png
 INPUT ./chapters/chapter4.tex
 INPUT ./chapters/chapter4.tex
 OUTPUT chapters/chapter4.aux
@@ -587,7 +622,6 @@ INPUT ./figures/Co-authorship/test1.png
 INPUT ./figures/Co-authorship/test1.png
 INPUT ./figures/Co-authorship/test1.png
 INPUT ./figures/Co-authorship/test1.png
-INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT ./figures/Co-ocurrence/teste2-52keywords.png
 INPUT ./figures/Co-ocurrence/teste2-52keywords.png
 INPUT ./figures/Co-ocurrence/teste2-52keywords.png
@@ -635,6 +669,7 @@ INPUT ./main.brf
 INPUT ./main.brf
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/lm/lmr12.pfb

@@ -488,7 +488,7 @@ KOMA-script documentation for details.}]{fancyhdr}
 
 \newcommand{\disclamer}{This dissertation partially satisfies the requirements defined for the Thesis/Dissertation course of the program }
 \providecaptionname{english}{\disclamer}{This dissertation partially satisfies the requirements of the Thesis/Dissertation course of the program }
-\providecaptionname{portuguese}{\disclamer}{Este documento satisfaz, parcialmente, os requisitos que constam da Ficha de Unidade Curricular de Logistica do 1º ano, do }
+\providecaptionname{portuguese}{\disclamer}{Este documento satisfaz, parcialmente, os requisitos que constam da Ficha de Unidade Curricular de Logística do 1º ano, do }
 
 \newcommand{\aftercourselabel}{\large \textit{\disclamer \degree, \darea.}\\}
 
