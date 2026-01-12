@@ -672,7 +672,17 @@ INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri9.tfm
 INPUT ./theme/dee_isep_marks_white.pdf
 INPUT ./theme/dee_isep_marks_white.pdf
 INPUT ./theme/dee_isep_marks_white.pdf
+INPUT ./figures/projetosenoll.png
+INPUT ./figures/projetosenoll.png
+INPUT ./figures/projetosenoll.png
+INPUT ./figures/projetosenoll.png
+INPUT ./figures/projetosenoll.png
 INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri7.tfm
+INPUT ./figures/CIVITAS_PROJETOS.png
+INPUT ./figures/CIVITAS_PROJETOS.png
+INPUT ./figures/CIVITAS_PROJETOS.png
+INPUT ./figures/CIVITAS_PROJETOS.png
+INPUT ./figures/CIVITAS_PROJETOS.png
 INPUT ./theme/dee_isep_marks_white.pdf
 INPUT ./theme/dee_isep_marks_white.pdf
 INPUT ./theme/dee_isep_marks_white.pdf

@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1768232939.41446 "main.aux" "main.bbl" "main" 1768232944.1131 0
+["bibtex main"] 1768254999.05185 "main.aux" "main.bbl" "main" 1768255062.35984 0
   "./sampleRefs.bib" 1768232925.94476 16348 ac1c0c3f0341e94900f9f081902b59bf ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/ieeetr.bst" 1292289607 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "main.aux" 1768232943.75676 7931 4891a38a7f144770f62d68e9f80ae66b "pdflatex"
+  "main.aux" 1768255061.97932 8594 fb2e994cbfbbd1ae3ed1552470418012 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1768232939.51833 "/workspaces/VSCode-LaTeX-Container/Urban_Logistics_in_Smart_Cities-Apresentacao/main.tex" "main.pdf" "main" 1768232944.11336 0
+["pdflatex"] 1768255056.06195 "/workspaces/VSCode-LaTeX-Container/Urban_Logistics_in_Smart_Cities-Apresentacao/main.tex" "main.pdf" "main" 1768255062.36049 0
   "/etc/texmf/web2c/texmf.cnf" 1767227014 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/ecss1095.tfm" 1136768653 3584 8ece407347b270c252c46fdfaef5a9ef ""
@@ -312,21 +312,23 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1741904018 41538 c016915c1d51223b6dbbfe27341748a8 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1767624158 5343802 4d13b086ed2f4a8fd96f4618b0724773 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1767626205 2010352 5073c8023a52a54de5b10d7cef4a33ce ""
-  "/workspaces/VSCode-LaTeX-Container/Urban_Logistics_in_Smart_Cities-Apresentacao/main.tex" 1768232930.50476 14750 295dd8cd7e8b6fff8d8c8fb2b75f12f6 ""
+  "/workspaces/VSCode-LaTeX-Container/Urban_Logistics_in_Smart_Cities-Apresentacao/main.tex" 1768255055.47533 15966 fb05022695f32566aefd9fc9cc99d38c ""
   "0_acronyms.tex" 1768209432.92642 3110 caa7d5b0a0c1ea9aac73ce42d5a2c60b ""
   "DEEclassP.cls" 1768208719.40259 11579 9fe449e287e8841e3eb1e6b7476861e3 ""
+  "figures/CIVITAS_PROJETOS.png" 1768254753.26161 157207 c1e51df895218387db2db117928c5335 ""
   "figures/VOSviewer-screenshot-final-test.png" 1768229831.8059 603282 51df035da2cd5245006845003bddb423 ""
   "figures/distribuicaoegrocery.drawio.png" 1768220785.64853 62089 6c585c0e4cd80bd2afdf02704328b0b6 ""
+  "figures/projetosenoll.png" 1768254486.04788 112379 c3f15bd604091a732ff90e620a1d821f ""
   "figures/setorescominfraestruturascriticas.jpg" 1768218050.60941 162188 b2e8fdee0a5f36d210a790ea7dc7ba86 ""
   "figures/smile.png" 1768223938.0875 928827 2ce861437deae65e03eff14217308163 ""
   "main.acr" 0 -1 0 ""
-  "main.aux" 1768232943.75676 7931 4891a38a7f144770f62d68e9f80ae66b "pdflatex"
-  "main.bbl" 1768232939.50476 2937 d31a0fd3c8572588404414a2936dbef2 "bibtex main"
-  "main.glsdefs" 1768232943.76076 24872 6f8ff6b066c3aae0931673f8e573b041 "pdflatex"
-  "main.nav" 1768232943.76076 3203 b0c3a03ceede233811afc746f2f1092a "pdflatex"
-  "main.out" 1768232943.75676 1149 fb8682989899e79069c31866f1b869b0 "pdflatex"
-  "main.tex" 1768232930.50476 14750 295dd8cd7e8b6fff8d8c8fb2b75f12f6 ""
-  "main.toc" 1768232943.76076 384 54815ac87f065f9892180ebe2d31304e "pdflatex"
+  "main.aux" 1768255061.97932 8594 fb2e994cbfbbd1ae3ed1552470418012 "pdflatex"
+  "main.bbl" 1768254999.13538 3076 59dd690eba41dc5eb532a6d31671122f "bibtex main"
+  "main.glsdefs" 1768255061.97932 24872 6f8ff6b066c3aae0931673f8e573b041 "pdflatex"
+  "main.nav" 1768255061.97932 3111 d3cd32af56588a92e11bd3cb2e71d39e "pdflatex"
+  "main.out" 1768255061.97932 1149 e3bffd8240f598b1e52fa902896483c4 "pdflatex"
+  "main.tex" 1768255055.47533 15966 fb05022695f32566aefd9fc9cc99d38c ""
+  "main.toc" 1768255061.97932 384 3c51357e420bbb3b916cff3407dad77e "pdflatex"
   "preamble.tex" 1768211178.78594 1295 2df3806eaa2d67fd246805d60d03e8f9 ""
   "theme/dee_isep_marks_white.pdf" 1768155585.14654 16769 0ee6ea13da08d08be713c160bc1129b0 ""
   "theme/dee_mark_blue.pdf" 1768155585.13859 12774 d99021ca8ad6343ce4e486b2e0555e37 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.5)  12 JAN 2026 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.5)  12 JAN 2026 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1205,7 +1205,7 @@ Cap\'{\i }tulo 1.
 ]
 
 [2]
-Overfull \hbox (22.90332pt too wide) in paragraph at lines 91--92
+Overfull \hbox (22.90332pt too wide) in paragraph at lines 90--91
 []\T1/lmr/m/n/10.95 Os ma-pas \T1/lmr/m/it/10.95 Co-occurrence \T1/lmr/m/n/10.95 per-mi-tem iden-ti-fi-car re-la-��es en-tre ocor-r�n-cias de palavras-chave/\T1/lmr/m/it/10.95 keywords
  []
 
@@ -1226,7 +1226,7 @@ Cap\'{\i }tulo 2.
 ]
 
 [5]
-<figures/LKM/review_all.png, id=497, 2762.32pt x 1541.76pt>
+<figures/LKM/review_all.png, id=505, 2762.32pt x 1541.76pt>
 File: figures/LKM/review_all.png Graphic file (type png)
 <use figures/LKM/review_all.png>
 Package pdftex.def Info: figures/LKM/review_all.png  used on input line 80.
@@ -1250,7 +1250,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [8]
 
 [9]
-<figures/Artigo4-metodologia-entregas-cacifo.png, id=600, 498.663pt x 278.84175pt>
+<figures/Artigo4-metodologia-entregas-cacifo.png, id=607, 498.663pt x 278.84175pt>
 File: figures/Artigo4-metodologia-entregas-cacifo.png Graphic file (type png)
 <use figures/Artigo4-metodologia-entregas-cacifo.png>
 Package pdftex.def Info: figures/Artigo4-metodologia-entregas-cacifo.png  used on input line 187.
@@ -1265,7 +1265,7 @@ Overfull \hbox (115.945pt too wide) in paragraph at lines 187--188
 [10]
 
 [11 <./figures/Artigo4-metodologia-entregas-cacifo.png>]
-<figures/smile.png, id=630, 1444.64719pt x 609.77812pt>
+<figures/smile.png, id=637, 1444.64719pt x 609.77812pt>
 File: figures/smile.png Graphic file (type png)
 <use figures/smile.png>
 Package pdftex.def Info: figures/smile.png  used on input line 209.
@@ -1278,7 +1278,7 @@ Overfull \hbox (115.945pt too wide) in paragraph at lines 209--210
 
 
 [12 <./figures/smile.png>]
-<figures/greenleaf_1_2500_2500.jpeg, id=662, 973.38657pt x 647.41875pt>
+<figures/greenleaf_1_2500_2500.jpeg, id=669, 973.38657pt x 647.41875pt>
 File: figures/greenleaf_1_2500_2500.jpeg Graphic file (type jpg)
 <use figures/greenleaf_1_2500_2500.jpeg>
 Package pdftex.def Info: figures/greenleaf_1_2500_2500.jpeg  used on input line 246.
@@ -1291,7 +1291,7 @@ Overfull \hbox (69.56416pt too wide) in paragraph at lines 246--247
 
 
 [13]
-<figures/article7.drawio.pdf, id=680, 421.575pt x 597.19106pt>
+<figures/article7.drawio.pdf, id=687, 421.575pt x 597.19106pt>
 File: figures/article7.drawio.pdf Graphic file (type pdf)
 <use figures/article7.drawio.pdf>
 Package pdftex.def Info: figures/article7.drawio.pdf  used on input line 265.
@@ -1305,7 +1305,7 @@ Package pdftex.def Info: figures/article7.drawio.pdf  used on input line 265.
 
  (./chapters/chapter3.tex
 Cap\'{\i }tulo 3.
-<figures/caso-de-estudo/Living Labs Areas de Atuação.png, id=729, 889.52325pt x 487.8225pt>
+<figures/caso-de-estudo/Living Labs Areas de Atuação.png, id=736, 889.52325pt x 487.8225pt>
 File: figures/caso-de-estudo/Living Labs Areas de Atuação.png Graphic file (type png)
 <use figures/caso-de-estudo/Living Labs Areas de Atuação.png>
 Package pdftex.def Info: figures/caso-de-estudo/Living Labs Areas de Atuação.png  used on input line 19.
@@ -1318,23 +1318,45 @@ Package pdftex.def Info: figures/caso-de-estudo/Living Labs Areas de Atuação.p
 
 
 ]
-<figures/setorescominfraestruturascriticas.jpg, id=741, 665.8476pt x 670.6656pt>
+<figures/setorescominfraestruturascriticas.jpg, id=748, 665.8476pt x 670.6656pt>
 File: figures/setorescominfraestruturascriticas.jpg Graphic file (type jpg)
 <use figures/setorescominfraestruturascriticas.jpg>
 Package pdftex.def Info: figures/setorescominfraestruturascriticas.jpg  used on input line 27.
-(pdftex.def)             Requested size: 371.02544pt x 373.70767pt.
+(pdftex.def)             Requested size: 394.21585pt x 397.06056pt.
 
 
-[17 <./figures/caso-de-estudo/Living Labs Areas de Atuação.png> <./figures/setorescominfraestruturascriticas.jpg>])
+[17 <./figures/caso-de-estudo/Living Labs Areas de Atuação.png> <./figures/setorescominfraestruturascriticas.jpg>]
+<figures/participantes-civitas.png, id=770, 850.97925pt x 631.158pt>
+File: figures/participantes-civitas.png Graphic file (type png)
+<use figures/participantes-civitas.png>
+Package pdftex.def Info: figures/participantes-civitas.png  used on input line 41.
+(pdftex.def)             Requested size: 602.91545pt x 447.19115pt.
 
-[18]
+Overfull \hbox (139.13542pt too wide) in paragraph at lines 41--42
+ [][] 
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 49.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 49.
+
+Overfull \hbox (16.66403pt too wide) in paragraph at lines 49--72
+ [][] 
+ []
+
+)
+
+[18 <./figures/participantes-civitas.png>]
+
+[19]
 \openout2 = `chapters/chapter4.aux'.
 
  (./chapters/chapter4.tex
 Cap\'{\i }tulo 4.
 )
 
-[19
+[20
 
 
 
@@ -1344,14 +1366,14 @@ Cap\'{\i }tulo 4.
 
  (./chapters/chapter5.tex
 Cap\'{\i }tulo 5.
-<figures/perfil/Perfil_Eduardo.png, id=770, 342.27875pt x 337.26pt>
+<figures/perfil/Perfil_Eduardo.png, id=802, 342.27875pt x 337.26pt>
 File: figures/perfil/Perfil_Eduardo.png Graphic file (type png)
 <use figures/perfil/Perfil_Eduardo.png>
 Package pdftex.def Info: figures/perfil/Perfil_Eduardo.png  used on input line 9.
 (pdftex.def)             Requested size: 139.13542pt x 137.09901pt.
 )
 
-[20
+[21
 
 
 
@@ -1377,7 +1399,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--20
 
 
 
-[21
+[22
 
 
 
@@ -1438,7 +1460,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--73
 
 )
 
-[22]
+[23]
+
+[24
+
+]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 66.
@@ -1447,7 +1473,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 81.
 
-<figures/appendixA/visualization-web-of-science-category.jpg, id=877, 1967.35pt x 963.6pt>
+<figures/appendixA/visualization-web-of-science-category.jpg, id=913, 1967.35pt x 963.6pt>
 File: figures/appendixA/visualization-web-of-science-category.jpg Graphic file (type jpg)
 <use figures/appendixA/visualization-web-of-science-category.jpg>
 Package pdftex.def Info: figures/appendixA/visualization-web-of-science-category.jpg  used on input line 87.
@@ -1457,7 +1483,7 @@ Overfull \hbox (102.03217pt too wide) in paragraph at lines 87--88
  [][] 
  []
 
-<figures/appendixA/visualizationpublication-years.jpg, id=882, 1967.35pt x 963.6pt>
+<figures/appendixA/visualizationpublication-years.jpg, id=918, 1967.35pt x 963.6pt>
 File: figures/appendixA/visualizationpublication-years.jpg Graphic file (type jpg)
 <use figures/appendixA/visualizationpublication-years.jpg>
 Package pdftex.def Info: figures/appendixA/visualizationpublication-years.jpg  used on input line 94.
@@ -1469,17 +1495,16 @@ Overfull \hbox (115.945pt too wide) in paragraph at lines 94--95
 
 
 
-[23
-
+[25
 
  <./figures/appendixA/visualization-web-of-science-category.jpg>]
 
-[24 <./figures/appendixA/visualizationpublication-years.jpg>]
+[26 <./figures/appendixA/visualizationpublication-years.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\gls' on input line 100.
 
-<figures/Co-authorship/test1.png, id=900, 3015.265pt x 2142.0025pt>
+<figures/Co-authorship/test1.png, id=936, 3015.265pt x 2142.0025pt>
 File: figures/Co-authorship/test1.png Graphic file (type png)
 <use figures/Co-authorship/test1.png>
 Package pdftex.def Info: figures/Co-authorship/test1.png  used on input line 106.
@@ -1489,7 +1514,7 @@ Overfull \hbox (139.13542pt too wide) in paragraph at lines 106--107
  [][] 
  []
 
-<figures/Co-ocurrence/teste2-52keywords.png, id=909, 3015.265pt x 2142.0025pt>
+<figures/Co-ocurrence/teste2-52keywords.png, id=945, 3015.265pt x 2142.0025pt>
 File: figures/Co-ocurrence/teste2-52keywords.png Graphic file (type png)
 <use figures/Co-ocurrence/teste2-52keywords.png>
 Package pdftex.def Info: figures/Co-ocurrence/teste2-52keywords.png  used on input line 113.
@@ -1501,11 +1526,11 @@ Overfull \hbox (139.13542pt too wide) in paragraph at lines 113--114
 
 
 
-[25 <./figures/Co-authorship/test1.png
+[27 <./figures/Co-authorship/test1.png
 
 pdfTeX warning: pdflatex (file ./figures/Co-authorship/test1.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
-<figures/Co-ocurrence/VOSviewer-screenshot-final-test.png, id=922, 1927.2pt x 1050.92625pt>
+<figures/Co-ocurrence/VOSviewer-screenshot-final-test.png, id=959, 1927.2pt x 1050.92625pt>
 File: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png Graphic file (type png)
 <use figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>
 Package pdftex.def Info: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png  used on input line 120.
@@ -1517,34 +1542,34 @@ Overfull \hbox (69.56416pt too wide) in paragraph at lines 120--121
 
 
 
-[26 <./figures/Co-ocurrence/teste2-52keywords.png
+[28 <./figures/Co-ocurrence/teste2-52keywords.png
 
 pdfTeX warning: pdflatex (file ./figures/Co-ocurrence/teste2-52keywords.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >]
 
-[27 <./figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>] (./main.aux (./front/title.aux) (./front/4_frontmatterlists.aux) (./front/abstract.aux) (./front/0_acronyms.aux) (./front/abstract_eng.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
+[29 <./figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>] (./main.aux (./front/title.aux) (./front/4_frontmatterlists.aux) (./front/abstract.aux) (./front/0_acronyms.aux) (./front/abstract_eng.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D97836E605DB4D5AB07C104EBD85D938;5176.
+(rerunfilecheck)             Checksum: DB4A64EC90E9238A668A6861829C2552;5176.
 Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: 7AEA81AF4054785950829B98C712C7E8;5728.
+(rerunfilecheck)             Checksum: D8F8001CD5EEF4433680B7C0422D745B;5891.
  ) 
 Here is how much of TeX's memory you used:
- 36454 strings out of 475044
- 778001 string characters out of 5763162
+ 36500 strings out of 475044
+ 778783 string characters out of 5763162
  1329671 words of memory out of 5000000
- 58720 multiletter control sequences out of 15000+600000
- 661914 words of font info for 93 fonts, out of 8000000 for 9000
+ 58752 multiletter control sequences out of 15000+600000
+ 677515 words of font info for 107 fonts, out of 8000000 for 9000
  83 hyphenation exceptions out of 8191
  101i,20n,103p,2483b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (37 pages, 12548649 bytes).
+</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (39 pages, 13310365 bytes).
 PDF statistics:
- 1035 PDF objects out of 1200 (max. 8388607)
- 901 compressed objects within 10 object streams
- 163 named destinations out of 1000 (max. 500000)
- 303 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1079 PDF objects out of 1200 (max. 8388607)
+ 935 compressed objects within 10 object streams
+ 167 named destinations out of 1000 (max. 500000)
+ 308 words of extra memory for PDF output out of 10000 (max. 10000000)
 

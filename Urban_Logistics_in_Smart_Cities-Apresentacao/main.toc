@@ -1,6 +1,6 @@
 \babel@toc {portuguese}{}\relax 
 \beamer@sectionintoc {1}{Breve Introdução}{3}{0}{1}
-\beamer@sectionintoc {2}{Da Metodologia á Revisão da Literatura}{6}{0}{2}
+\beamer@sectionintoc {2}{Da Metodologia à Revisão da Literatura}{6}{0}{2}
 \beamer@sectionintoc {3}{Apreciação Crítica - Principais Artigos}{8}{0}{3}
 \beamer@sectionintoc {4}{Caso de Estudo \textit {Living Labs '}}{16}{0}{4}
-\beamer@sectionintoc {5}{Conclusões e Trabalhos Futuros}{17}{0}{5}
+\beamer@sectionintoc {5}{Conclusões e Trabalhos Futuros}{18}{0}{5}

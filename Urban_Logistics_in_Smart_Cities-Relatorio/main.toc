@@ -19,10 +19,10 @@
 \contentsline {section}{\numberline {2.8}Portugal: Sustentável e Inclusivo}{12}{section.2.8}%
 \contentsline {section}{\numberline {2.9}Polónia: Interação com \textit {Stakeholders}}{14}{section.2.9}%
 \contentsline {chapter}{\numberline {3}Caso de Estudo - \textit {Living Labs'}}{16}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Conclusão}{19}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Nota Bibliográfica}{20}{chapter.5}%
-\contentsline {chapter}{Refer\^{e}ncias}{21}{section*.19}%
-\contentsline {chapter}{Anexos}{23}{chapter*.21}%
-\contentsline {section}{Anexo A — Filtro e Resultados da \gls {query}}{23}{section*.22}%
-\contentsline {section}{Anexo B — Figuras complementares \gls {wos}}{23}{section*.23}%
-\contentsline {section}{Anexo C — Figuras complementares ferramenta \gls {vosviewer}}{25}{section*.26}%
+\contentsline {chapter}{\numberline {4}Conclusão}{20}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Nota Bibliográfica}{21}{chapter.5}%
+\contentsline {chapter}{Refer\^{e}ncias}{22}{section*.21}%
+\contentsline {chapter}{Anexos}{25}{chapter*.23}%
+\contentsline {section}{Anexo A — Filtro e Resultados da \gls {query}}{25}{section*.24}%
+\contentsline {section}{Anexo B — Figuras complementares \gls {wos}}{25}{section*.25}%
+\contentsline {section}{Anexo C — Figuras complementares ferramenta \gls {vosviewer}}{27}{section*.28}%
