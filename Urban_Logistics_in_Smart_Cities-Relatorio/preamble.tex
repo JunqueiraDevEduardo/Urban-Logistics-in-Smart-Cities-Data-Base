@@ -1,0 +1,62 @@
+
+% FYI, the following packages are preloaded with the document class:
+% longtable, xcolor, graphicx, booktabs, caption, csquotes, hyperref,
+% calc, listings, datetime2, siunitx, geometry, enumitem
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% extra packages
+\usepackage{amsmath}		% the main package in the AMS-LATEX distribution
+\usepackage{amsfonts}		% extended set of fonts for use in mathematics
+\usepackage{amssymb}		% adds new symbols to be used in math mode
+\usepackage{mathrsfs}		% math fonts, e.g., Laplace
+\usepackage{float}			% provides the H float modifier option
+\usepackage{multirow}		% tables \multirow command
+\usepackage{subcaption}		% enables subfigures
+\usepackage{lscape}			% for landscape mode
+\usepackage{verbatim}       % new verbatim environment,
+%\begin{comment}...\end{comment}, \verbatiminput
+%\usepackage{pgfgantt}		% for Gantt charts, see https://ctan.org/pkg/pgfgantt
+
+%add extra packages if needed here
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% temp packages
+\usepackage{lipsum}						% for fake text
+%\usepackage[textsize=tiny]{todonotes}   % enable To-do notes, use the option "disable" to hide all notes, usage \todo{}
+
+%\usepackage{draftwatermark}			% prints a watermark overlay, uncomment if needed
+%\SetWatermarkText{**DRAFT**}
+%\SetWatermarkScale{1}
+%\SetWatermarkColor[gray]{0.8}
+
+% --- Comando seguro para iniciar os anexos sem capítulos ---
+\makeatletter
+\newcommand{\beginannexes}{%
+  \cleardoublepage
+  \@mainmatterfalse            % desativa lógica de capítulos
+  \setcounter{secnumdepth}{-1} % sem numeração automática
+  \addchap{Anexos}             % cria a página "Anexos" e mete no Índice
+}
+\makeatother
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% settings
+\AtBeginDocument{					% Rendered PDF metadata:
+\hypersetup{pdftitle=\ttitle} 		% Sets the PDF title to your dissertation title
+\hypersetup{pdfauthor=\authorname} 	% Sets the PDF author to your name
+}
+
+\usepackage[acronym]{glossaries}
+\makeglossaries
+\renewcommand{\checktoopen}{%
+  \ifdef{\phantomsection}{\phantomsection}{}
+}
+\input{front/0_acronyms}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% user macros
+
+%....
+
+
+
+
+
+
+
+

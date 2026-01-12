@@ -1,0 +1,1260 @@
+\glsdefs@newdocentry{isep}%
+{%
+name={\acronymfont {\glsentryshort {isep}}},%
+sort={ISEP},%
+type={acronym},%
+first={ISEP},%
+firstplural={ISEPs},%
+text={ISEP},%
+plural={ISEPs},%
+description={Instituto Superior de Engenharia do Porto},%
+descriptionplural={Instituto Superior de Engenharia do Porto},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Instituto Superior de Engenharia do Porto},%
+longplural={Instituto Superior de Engenharia do Portos},%
+short={ISEP},%
+shortplural={ISEPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{meec}%
+{%
+name={\acronymfont {\glsentryshort {meec}}},%
+sort={MEEC},%
+type={acronym},%
+first={MEEC},%
+firstplural={MEECs},%
+text={MEEC},%
+plural={MEECs},%
+description={Mestrado em Engenharia Electrotécnica e Computadores},%
+descriptionplural={Mestrado em Engenharia Electrotécnica e Computadores},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Mestrado em Engenharia Electrotécnica e Computadores},%
+longplural={Mestrado em Engenharia Electrotécnica e Computadoress},%
+short={MEEC},%
+shortplural={MEECs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{dee}%
+{%
+name={\acronymfont {\glsentryshort {dee}}},%
+sort={DEE},%
+type={acronym},%
+first={DEE},%
+firstplural={DEEs},%
+text={DEE},%
+plural={DEEs},%
+description={Departamento de Engenharia Eletrotécnica},%
+descriptionplural={Departamento de Engenharia Eletrotécnica},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Departamento de Engenharia Eletrotécnica},%
+longplural={Departamento de Engenharia Eletrotécnicas},%
+short={DEE},%
+shortplural={DEEs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{as}%
+{%
+name={\acronymfont {\glsentryshort {as}}},%
+sort={AS},%
+type={acronym},%
+first={AS},%
+firstplural={ASs},%
+text={AS},%
+plural={ASs},%
+description={Automação e Sistemas},%
+descriptionplural={Automação e Sistemas},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Automação e Sistemas},%
+longplural={Automação e Sistemass},%
+short={AS},%
+shortplural={ASs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{query}%
+{%
+name={\acronymfont {\glsentryshort {query}}},%
+sort={Query},%
+type={acronym},%
+first={Query},%
+firstplural={Querys},%
+text={Query},%
+plural={Querys},%
+description={Consulta (Expressão de Pesquisa)},%
+descriptionplural={Consulta (Expressão de Pesquisa)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Consulta (Expressão de Pesquisa)},%
+longplural={Consulta (Expressão de Pesquisa)s},%
+short={Query},%
+shortplural={Querys},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{logis}%
+{%
+name={\acronymfont {\glsentryshort {logis}}},%
+sort={LOGIS},%
+type={acronym},%
+first={LOGIS},%
+firstplural={LOGISs},%
+text={LOGIS},%
+plural={LOGISs},%
+description={Logística},%
+descriptionplural={Logística},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Logística},%
+longplural={Logísticas},%
+short={LOGIS},%
+shortplural={LOGISs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{moodle}%
+{%
+name={\acronymfont {\glsentryshort {moodle}}},%
+sort={Moodle},%
+type={acronym},%
+first={Moodle},%
+firstplural={Moodles},%
+text={Moodle},%
+plural={Moodles},%
+description={"Modular Object-Oriented Dynamic Learning Environment"},%
+descriptionplural={"Modular Object-Oriented Dynamic Learning Environment"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Modular Object-Oriented Dynamic Learning Environment"},%
+longplural={"Modular Object-Oriented Dynamic Learning Environment"s},%
+short={Moodle},%
+shortplural={Moodles},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{uc}%
+{%
+name={\acronymfont {\glsentryshort {uc}}},%
+sort={Uc},%
+type={acronym},%
+first={Uc},%
+firstplural={Ucs},%
+text={Uc},%
+plural={Ucs},%
+description={Unidade Curricular},%
+descriptionplural={Unidade Curricular},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Unidade Curricular},%
+longplural={Unidade Curriculars},%
+short={Uc},%
+shortplural={Ucs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{fig}%
+{%
+name={\acronymfont {\glsentryshort {fig}}},%
+sort={Fig},%
+type={acronym},%
+first={Fig},%
+firstplural={Figs},%
+text={Fig},%
+plural={Figs},%
+description={Figura},%
+descriptionplural={Figura},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Figura},%
+longplural={Figuras},%
+short={Fig},%
+shortplural={Figs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{wos}%
+{%
+name={\acronymfont {\glsentryshort {wos}}},%
+sort={WoS},%
+type={acronym},%
+first={WoS},%
+firstplural={WoSs},%
+text={WoS},%
+plural={WoSs},%
+description={"Web of Science"},%
+descriptionplural={"Web of Science"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Web of Science"},%
+longplural={"Web of Science"s},%
+short={WoS},%
+shortplural={WoSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ine}%
+{%
+name={\acronymfont {\glsentryshort {ine}}},%
+sort={INE},%
+type={acronym},%
+first={INE},%
+firstplural={INEs},%
+text={INE},%
+plural={INEs},%
+description={Instituto Nacional de Estatística},%
+descriptionplural={Instituto Nacional de Estatística},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Instituto Nacional de Estatística},%
+longplural={Instituto Nacional de Estatísticas},%
+short={INE},%
+shortplural={INEs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{excel}%
+{%
+name={\acronymfont {\glsentryshort {excel}}},%
+sort={Excel},%
+type={acronym},%
+first={Excel},%
+firstplural={Excels},%
+text={Excel},%
+plural={Excels},%
+description={"Excellence in Engineering and Learning"},%
+descriptionplural={"Excellence in Engineering and Learning"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Excellence in Engineering and Learning"},%
+longplural={"Excellence in Engineering and Learning"s},%
+short={Excel},%
+shortplural={Excels},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{txt}%
+{%
+name={\acronymfont {\glsentryshort {txt}}},%
+sort={TXT},%
+type={acronym},%
+first={TXT},%
+firstplural={TXTs},%
+text={TXT},%
+plural={TXTs},%
+description={"Plain Text File"},%
+descriptionplural={"Plain Text File"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Plain Text File"},%
+longplural={"Plain Text File"s},%
+short={TXT},%
+shortplural={TXTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{csv}%
+{%
+name={\acronymfont {\glsentryshort {csv}}},%
+sort={CSV},%
+type={acronym},%
+first={CSV},%
+firstplural={CSVs},%
+text={CSV},%
+plural={CSVs},%
+description={"Comma-Separated Values File"},%
+descriptionplural={"Comma-Separated Values File"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Comma-Separated Values File"},%
+longplural={"Comma-Separated Values File"s},%
+short={CSV},%
+shortplural={CSVs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{hindex}%
+{%
+name={\acronymfont {\glsentryshort {hindex}}},%
+sort={H-index},%
+type={acronym},%
+first={H-index},%
+firstplural={H-indexs},%
+text={H-index},%
+plural={H-indexs},%
+description={"Hirsch Index"},%
+descriptionplural={"Hirsch Index"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Hirsch Index"},%
+longplural={"Hirsch Index"s},%
+short={H-index},%
+shortplural={H-indexs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{github}%
+{%
+name={\acronymfont {\glsentryshort {github}}},%
+sort={GitHub},%
+type={acronym},%
+first={GitHub},%
+firstplural={GitHubs},%
+text={GitHub},%
+plural={GitHubs},%
+description={"Git Repository Hub"},%
+descriptionplural={"Git Repository Hub"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Git Repository Hub"},%
+longplural={"Git Repository Hub"s},%
+short={GitHub},%
+shortplural={GitHubs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{vosviewer}%
+{%
+name={\acronymfont {\glsentryshort {vosviewer}}},%
+sort={VOSviewer},%
+type={acronym},%
+first={VOSviewer},%
+firstplural={VOSviewers},%
+text={VOSviewer},%
+plural={VOSviewers},%
+description={"Visualization of Similarities Viewer"},%
+descriptionplural={"Visualization of Similarities Viewer"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Visualization of Similarities Viewer"},%
+longplural={"Visualization of Similarities Viewer"s},%
+short={VOSviewer},%
+shortplural={VOSviewers},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{iec}%
+{%
+name={\acronymfont {\glsentryshort {iec}}},%
+sort={IEC},%
+type={acronym},%
+first={IEC},%
+firstplural={IECs},%
+text={IEC},%
+plural={IECs},%
+description={"International Electrotechnical Commission"},%
+descriptionplural={"International Electrotechnical Commission"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"International Electrotechnical Commission"},%
+longplural={"International Electrotechnical Commission"s},%
+short={IEC},%
+shortplural={IECs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{iso}%
+{%
+name={\acronymfont {\glsentryshort {iso}}},%
+sort={ISO},%
+type={acronym},%
+first={ISO},%
+firstplural={ISOs},%
+text={ISO},%
+plural={ISOs},%
+description={"International Organization for Standardization"},%
+descriptionplural={"International Organization for Standardization"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"International Organization for Standardization"},%
+longplural={"International Organization for Standardization"s},%
+short={ISO},%
+shortplural={ISOs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{itu}%
+{%
+name={\acronymfont {\glsentryshort {itu}}},%
+sort={ITU},%
+type={acronym},%
+first={ITU},%
+firstplural={ITUs},%
+text={ITU},%
+plural={ITUs},%
+description={"The United Nations agency for digital technologies"},%
+descriptionplural={"The United Nations agency for digital technologies"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"The United Nations agency for digital technologies"},%
+longplural={"The United Nations agency for digital technologies"s},%
+short={ITU},%
+shortplural={ITUs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ieee}%
+{%
+name={\acronymfont {\glsentryshort {ieee}}},%
+sort={IEEE},%
+type={acronym},%
+first={IEEE},%
+firstplural={IEEEs},%
+text={IEEE},%
+plural={IEEEs},%
+description={"Institute of Electrical and Electronics Engineers"},%
+descriptionplural={"Institute of Electrical and Electronics Engineers"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Institute of Electrical and Electronics Engineers"},%
+longplural={"Institute of Electrical and Electronics Engineers"s},%
+short={IEEE},%
+shortplural={IEEEs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ejor}%
+{%
+name={\acronymfont {\glsentryshort {ejor}}},%
+sort={EJOR},%
+type={acronym},%
+first={EJOR},%
+firstplural={EJORs},%
+text={EJOR},%
+plural={EJORs},%
+description={"European Journal of Operational Research"},%
+descriptionplural={"European Journal of Operational Research"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"European Journal of Operational Research"},%
+longplural={"European Journal of Operational Research"s},%
+short={EJOR},%
+shortplural={EJORs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{iot}%
+{%
+name={\acronymfont {\glsentryshort {iot}}},%
+sort={IoT},%
+type={acronym},%
+first={IoT},%
+firstplural={IoTs},%
+text={IoT},%
+plural={IoTs},%
+description={"Internet of Things"},%
+descriptionplural={"Internet of Things"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Internet of Things"},%
+longplural={"Internet of Things"s},%
+short={IoT},%
+shortplural={IoTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{bigdata}%
+{%
+name={\acronymfont {\glsentryshort {bigdata}}},%
+sort={Big Data},%
+type={acronym},%
+first={Big Data},%
+firstplural={Big Datas},%
+text={Big Data},%
+plural={Big Datas},%
+description={Conjunto de dados extensos e complexos de processamento},%
+descriptionplural={Conjunto de dados extensos e complexos de processamento},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Conjunto de dados extensos e complexos de processamento},%
+longplural={Conjunto de dados extensos e complexos de processamentos},%
+short={Big Data},%
+shortplural={Big Datas},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ai}%
+{%
+name={\acronymfont {\glsentryshort {ai}}},%
+sort={AI},%
+type={acronym},%
+first={AI},%
+firstplural={AIs},%
+text={AI},%
+plural={AIs},%
+description={"Artificial Intelligence"},%
+descriptionplural={"Artificial Intelligence"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Artificial Intelligence"},%
+longplural={"Artificial Intelligence"s},%
+short={AI},%
+shortplural={AIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ml}%
+{%
+name={\acronymfont {\glsentryshort {ml}}},%
+sort={ML},%
+type={acronym},%
+first={ML},%
+firstplural={MLs},%
+text={ML},%
+plural={MLs},%
+description={"Machine Learning"},%
+descriptionplural={"Machine Learning"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Machine Learning"},%
+longplural={"Machine Learning"s},%
+short={ML},%
+shortplural={MLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{dl}%
+{%
+name={\acronymfont {\glsentryshort {dl}}},%
+sort={DL},%
+type={acronym},%
+first={DL},%
+firstplural={DLs},%
+text={DL},%
+plural={DLs},%
+description={"Deep Learning"},%
+descriptionplural={"Deep Learning"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Deep Learning"},%
+longplural={"Deep Learning"s},%
+short={DL},%
+shortplural={DLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{5g}%
+{%
+name={\acronymfont {\glsentryshort {5g}}},%
+sort={5G},%
+type={acronym},%
+first={5G},%
+firstplural={5Gs},%
+text={5G},%
+plural={5Gs},%
+description={"Fifth Generation Mobile Network"},%
+descriptionplural={"Fifth Generation Mobile Network"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Fifth Generation Mobile Network"},%
+longplural={"Fifth Generation Mobile Network"s},%
+short={5G},%
+shortplural={5Gs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{va}%
+{%
+name={\acronymfont {\glsentryshort {va}}},%
+sort={AV},%
+type={acronym},%
+first={AV},%
+firstplural={AVs},%
+text={AV},%
+plural={AVs},%
+description={"Autonomous Vehicle"},%
+descriptionplural={"Autonomous Vehicle"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Autonomous Vehicle"},%
+longplural={"Autonomous Vehicle"s},%
+short={AV},%
+shortplural={AVs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{egc}%
+{%
+name={\acronymfont {\glsentryshort {egc}}},%
+sort={EGC},%
+type={acronym},%
+first={EGC},%
+firstplural={EGCs},%
+text={EGC},%
+plural={EGCs},%
+description={"Online E-Grocery Commerce"},%
+descriptionplural={"Online E-Grocery Commerce"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Online E-Grocery Commerce"},%
+longplural={"Online E-Grocery Commerce"s},%
+short={EGC},%
+shortplural={EGCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{co2}%
+{%
+name={\acronymfont {\glsentryshort {co2}}},%
+sort={CO2},%
+type={acronym},%
+first={CO2},%
+firstplural={CO2s},%
+text={CO2},%
+plural={CO2s},%
+description={"Carbon Dioxide"},%
+descriptionplural={"Carbon Dioxide"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Carbon Dioxide"},%
+longplural={"Carbon Dioxide"s},%
+short={CO2},%
+shortplural={CO2s},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ue}%
+{%
+name={\acronymfont {\glsentryshort {ue}}},%
+sort={UE},%
+type={acronym},%
+first={UE},%
+firstplural={UEs},%
+text={UE},%
+plural={UEs},%
+description={"The European Union"},%
+descriptionplural={"The European Union"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"The European Union"},%
+longplural={"The European Union"s},%
+short={UE},%
+shortplural={UEs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{smile}%
+{%
+name={\acronymfont {\glsentryshort {smile}}},%
+sort={SMILE},%
+type={acronym},%
+first={SMILE},%
+firstplural={SMILEs},%
+text={SMILE},%
+plural={SMILEs},%
+description={"Smart Green Innovative Urban Logistics Models For Energy Efficient Mediterranean Cities Project"},%
+descriptionplural={"Smart Green Innovative Urban Logistics Models For Energy Efficient Mediterranean Cities Project"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Smart Green Innovative Urban Logistics Models For Energy Efficient Mediterranean Cities Project"},%
+longplural={"Smart Green Innovative Urban Logistics Models For Energy Efficient Mediterranean Cities Project"s},%
+short={SMILE},%
+shortplural={SMILEs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{dbscan}%
+{%
+name={\acronymfont {\glsentryshort {dbscan}}},%
+sort={DBSCAN},%
+type={acronym},%
+first={DBSCAN},%
+firstplural={DBSCANs},%
+text={DBSCAN},%
+plural={DBSCANs},%
+description={"Density-Based Spatial Clustering of Applications with Noise"},%
+descriptionplural={"Density-Based Spatial Clustering of Applications with Noise"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Density-Based Spatial Clustering of Applications with Noise"},%
+longplural={"Density-Based Spatial Clustering of Applications with Noise"s},%
+short={DBSCAN},%
+shortplural={DBSCANs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{bce}%
+{%
+name={\acronymfont {\glsentryshort {bce}}},%
+sort={BCE},%
+type={acronym},%
+first={BCE},%
+firstplural={BCEs},%
+text={BCE},%
+plural={BCEs},%
+description={"Electric Cargo Bike"},%
+descriptionplural={"Electric Cargo Bike"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Electric Cargo Bike"},%
+longplural={"Electric Cargo Bike"s},%
+short={BCE},%
+shortplural={BCEs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ersc}%
+{%
+name={\acronymfont {\glsentryshort {ersc}}},%
+sort={ERSC},%
+type={acronym},%
+first={ERSC},%
+firstplural={ERSCs},%
+text={ERSC},%
+plural={ERSCs},%
+description={Engenharia de Redes e Sistemas de Computadores},%
+descriptionplural={Engenharia de Redes e Sistemas de Computadores},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Engenharia de Redes e Sistemas de Computadores},%
+longplural={Engenharia de Redes e Sistemas de Computadoress},%
+short={ERSC},%
+shortplural={ERSCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ipvc}%
+{%
+name={\acronymfont {\glsentryshort {ipvc}}},%
+sort={IPVC},%
+type={acronym},%
+first={IPVC},%
+firstplural={IPVCs},%
+text={IPVC},%
+plural={IPVCs},%
+description={Instituto Politécnico de Viana do Castelo},%
+descriptionplural={Instituto Politécnico de Viana do Castelo},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Instituto Politécnico de Viana do Castelo},%
+longplural={Instituto Politécnico de Viana do Castelos},%
+short={IPVC},%
+shortplural={IPVCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{citylab}%
+{%
+name={\acronymfont {\glsentryshort {citylab}}},%
+sort={CITYLAB},%
+type={acronym},%
+first={CITYLAB},%
+firstplural={CITYLABs},%
+text={CITYLAB},%
+plural={CITYLABs},%
+description={"City Logistics Living Lab"},%
+descriptionplural={"City Logistics Living Lab"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"City Logistics Living Lab"},%
+longplural={"City Logistics Living Lab"s},%
+short={CITYLAB},%
+shortplural={CITYLABs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{bct}%
+{%
+name={\acronymfont {\glsentryshort {bct}}},%
+sort={BCT},%
+type={acronym},%
+first={BCT},%
+firstplural={BCTs},%
+text={BCT},%
+plural={BCTs},%
+description={"Blockchain Technology"},%
+descriptionplural={"Blockchain Technology"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Blockchain Technology"},%
+longplural={"Blockchain Technology"s},%
+short={BCT},%
+shortplural={BCTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{kpi}%
+{%
+name={\acronymfont {\glsentryshort {kpi}}},%
+sort={KPI},%
+type={acronym},%
+first={KPI},%
+firstplural={KPIs},%
+text={KPI},%
+plural={KPIs},%
+description={"Key Performance Indicator"},%
+descriptionplural={"Key Performance Indicator"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Key Performance Indicator"},%
+longplural={"Key Performance Indicator"s},%
+short={KPI},%
+shortplural={KPIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{civitas}%
+{%
+name={\acronymfont {\glsentryshort {civitas}}},%
+sort={CIVITAS},%
+type={acronym},%
+first={CIVITAS},%
+firstplural={CIVITASs},%
+text={CIVITAS},%
+plural={CIVITASs},%
+description={"City Vitality Sustainability"},%
+descriptionplural={"City Vitality Sustainability"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"City Vitality Sustainability"},%
+longplural={"City Vitality Sustainability"s},%
+short={CIVITAS},%
+shortplural={CIVITASs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{enoll}%
+{%
+name={\acronymfont {\glsentryshort {enoll}}},%
+sort={ENoLL},%
+type={acronym},%
+first={ENoLL},%
+firstplural={ENoLLs},%
+text={ENoLL},%
+plural={ENoLLs},%
+description={"European Network of Living Labs"},%
+descriptionplural={"European Network of Living Labs"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"European Network of Living Labs"},%
+longplural={"European Network of Living Labs"s},%
+short={ENoLL},%
+shortplural={ENoLLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{prr}%
+{%
+name={\acronymfont {\glsentryshort {prr}}},%
+sort={PRR},%
+type={acronym},%
+first={PRR},%
+firstplural={PRRs},%
+text={PRR},%
+plural={PRRs},%
+description={Plano de Recuperação e Resiliência},%
+descriptionplural={Plano de Recuperação e Resiliência},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Plano de Recuperação e Resiliência},%
+longplural={Plano de Recuperação e Resiliências},%
+short={PRR},%
+shortplural={PRRs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{amp}%
+{%
+name={\acronymfont {\glsentryshort {amp}}},%
+sort={AMP},%
+type={acronym},%
+first={AMP},%
+firstplural={AMPs},%
+text={AMP},%
+plural={AMPs},%
+description={Área Metropolitana do Porto},%
+descriptionplural={Área Metropolitana do Porto},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Área Metropolitana do Porto},%
+longplural={Área Metropolitana do Portos},%
+short={AMP},%
+shortplural={AMPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{eur}%
+{%
+name={\acronymfont {\glsentryshort {eur}}},%
+sort={EUR},%
+type={acronym},%
+first={EUR},%
+firstplural={EURs},%
+text={EUR},%
+plural={EURs},%
+description={"Euro"},%
+descriptionplural={"Euro"},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"Euro"},%
+longplural={"Euro"s},%
+short={EUR},%
+shortplural={EURs},%
+counter={page},%
+parent={},%
+%
+}%
+

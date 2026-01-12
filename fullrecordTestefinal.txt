@@ -1,0 +1,2995 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Pastana, STG
+   Formiga, NS
+AF Guedes Pastana, Sheila Tricia
+   Formiga, Nilton Soares
+TI A measure of loyalty to the neighborhood: construct validity, convergent
+   and discriminative in residents in different urban areas in the city of
+   Natal-RN, Brazil
+SO REVISTA DE GESTAO E SECRETARIADO-GESEC
+LA Portuguese
+DT Article
+DE Neighborhood management; Urban management; Loyalty; Scale of loyalty to
+   the neighborhood; Quality of life
+ID SERVICE QUALITY; CUSTOMER SATISFACTION; ENVIRONMENT QUALITY; PERCEPTION;
+   TRUST; ATTACHMENT; MODEL; FORM
+AB This article aims to develop and validate a scale measure of loyalty to the neighborhood, from the perspective of individuals who live in the south and east areas of the city of Natal-RN. The conceptual direction is to understand the dimensions of the quality of intra-urban services, related to the perspective of the quality of urban life, which relate studies that come from urban sustainability, city logistics, sustainable mobility, smart cities, planning, urban management, and residential satisfaction. Concerning these complex interrelations described above consolidate the understanding of this study. As a result, we propose a tool for measuring the loyalty of residents to their neighborhoods, providing insights that can guide decision making by managers, favoring more attractive, welcoming neighborhoods, people's well-being, and public investments. and private. 545 respondents, male and female, over 18 years old, participated in the study, distributed in two residential areas, 54% from the south and 46% from the east. Through the collection of data of the Survey type, at the end of it, descriptive statistics, exploratory and confirmatory factor analysis were carried out, as well as Anova. As for the results, the psychometric tests gave robustness and reliability to this study, showing that the Loyalty to the Neighborhood scale (LB) is safe to the referred measurements, consistent and reliable to a factorial structure of a single factor and that there was no difference between the zones. urban areas surveyed, thereby proving the same level of loyalty.
+C1 [Guedes Pastana, Sheila Tricia] Univ Fed Amapa UNIFAP, Macapa, Brazil.
+   [Formiga, Nilton Soares] Univ Potiguar UnP, Programa Posgrad Psicol Org & Trabalho, Natal, RN, Brazil.
+C3 Fundacao Universidade Federal do Amapa; Universidade Potiguar
+RP Pastana, STG (corresponding author), Univ Fed Amapa UNIFAP, Macapa, Brazil.
+RI formiga, nilton/GPF-9257-2022; formiga, nilton/K-6766-2017
+OI Pastana, Sheila/0000-0001-8257-8655; formiga, nilton/0000-0003-4907-9736
+NR 67
+TC 0
+Z9 0
+U1 1
+U2 4
+PU SINDICATO SECRETARIAS ESTADO SAO PAULO
+PI SAO PAULO
+PA RUA TUPI 118, SAO PAULO, 01233-000, BRAZIL
+SN 2178-9010
+J9 REV GEST SECR-GESEC
+JI Rec. Gest. Secr.-GeSeC
+PD MAY-AUG
+PY 2021
+VL 12
+IS 2
+BP 327
+EP 352
+DI 10.7769/gesec.v12i2.1203
+PG 26
+WC Management
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA TZ1PU
+UT WOS:000684248700014
+OA gold
+DA 2025-11-25
+ER
+
+PT C
+AU Navarro, C
+   Roca-Riu, M
+   Furió, S
+   Estrada, M
+AF Navarro, C.
+   Roca-Riu, M.
+   Furio, S.
+   Estrada, M.
+BE Taniguchi, E
+   Thompson, RG
+TI Designing new models for energy efficiency in urban freight transport
+   for smart cities and its application to the Spanish case
+SO NINTH INTERNATIONAL CONFERENCE ON CITY LOGISTICS
+SE Transportation Research Procedia
+LA English
+DT Proceedings Paper
+CT 9th International Conference on City Logistics
+CY JUN 17-19, 2015
+CL Tenerife, SPAIN
+DE Urban freight transport; Smart cities; Innovative solution; Electric
+   tricycles; Last mile distribution; Cooperative freight transport
+   systems; Urban consolidation centres smart cities; Urban delivery; Case
+   studies
+ID CONSOLIDATION
+AB Considering that the transport sector is responsible for 30% of the CO2 emissions in the EU, reaching up to 40% in urban areas, the efforts for technological improvements and innovation in transportation have been increasing during the last few decades. It is evident that urban freight distribution requires innovative solutions that are capable of improving the efficiency of transport whilst promoting innovative use of renewable energy, thus reducing energy consumption and associated GHG emissions while adopting and not stifling economic development. In this context, six Mediterranean cities (Barcelona, Bologna, Piraeus, Rijeka and Valencia)) collaborated with the purpose of contributing to the improvement of energy efficiency on urban freight transport as part of the SMILE Project (2015) (SMart green Innovative urban Logistics Models for Energy efficient mediterranean cities project), funded by the MED Programme. The SMILE project aims to improve the energy efficiency of Mediterranean cities through the promotion of innovative 'green' and cost effective solutions for urban freight logistics, addressing the target of green and smart urban development. This paper shows the results of the live test of smart city urban logistics solutions in the cities of Barcelona and Valencia that consisted of combining the use of electric tricycles and Transhipment terminals (or Urban Consolidation Centres) for the last-mile delivery of parcels and small shipments. A thoughtful analysis of the quantitative outcomes of the pilot test in both cities are presented from different perspectives: economical, operational, energy efficiency, environmental and social. (C) 2016 The Authors. Published by Elsevier B.V.
+C1 [Navarro, C.; Furio, S.] Fdn Valenciaport, Avda Muelle del Turia S-N, Valencia 46024, Spain.
+   [Roca-Riu, M.; Estrada, M.] Ctr Innovac Transporte, C Jordi Girona 1-3,C-3,S-120, Barcelona 08034, Spain.
+RP Navarro, C (corresponding author), Fdn Valenciaport, Avda Muelle del Turia S-N, Valencia 46024, Spain.
+EM cnavarro@fundacion.valenciaport.com
+RI Estrada, Miquel/L-3294-2017; Estrada, Miquel/L-3294-2017
+OI Estrada, Miquel/0000-0002-5114-7796; Estrada,
+   Miquel/0000-0002-5114-7796; Furió-Pruñonosa,
+   Salvador/0000-0003-4605-0604
+NR 6
+TC 62
+Z9 73
+U1 0
+U2 38
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA SARA BURGERHARTSTRAAT 25, PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 2352-1465
+J9 TRANSP RES PROC
+PY 2016
+VL 12
+BP 314
+EP 324
+DI 10.1016/j.trpro.2016.02.068
+PG 11
+WC Transportation; Transportation Science & Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Transportation
+GA BE9HW
+UT WOS:000377574100026
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Leyerer, M
+   Sonneberg, MO
+   Heumann, M
+   Breitner, MH
+AF Leyerer, Max
+   Sonneberg, Marc-Oliver
+   Heumann, Maximilian
+   Breitner, Michael H.
+TI Shortening the Last Mile in Urban Areas: Optimizing a Smart Logistics
+   Concept for E-Grocery Operations
+SO SMART CITIES
+LA English
+DT Article
+DE e-grocery; last mile delivery; city logistics; sustainability; location
+   routing problem; vehicle routing problem; multi-echelon optimization;
+   smart city
+ID LARGE NEIGHBORHOOD SEARCH; DELIVERY; OPTIMIZATION; EFFICIENCY; ISSUES
+AB Urbanization, the corresponding road traffic, and increasing e-grocery markets require efficient and at the same time eco-friendly transport solutions. In contrast to traditional food procurement at local grocery stores, e-grocery, i.e., online ordered goods, are transported directly to end customers. We develop and discuss an optimization approach to assist the planning of e-grocery deliveries in smart cities introducing a new last mile concept for the urban food supply chain. To supply city dwellers with their ordered products, a network of refrigerated grocery lockers is optimized to temporarily store the corresponding goods within urban areas. Customers either collect their orders by themselves or the products are delivered with electric cargo bicycles (ECBs). We propose a multi-echelon optimization model that minimizes the overall costs while consecutively determining optimal grocery locker locations, van routes from a depot to opened lockers, and ECB routes from lockers to customers. With our approach, we present an advanced concept for grocery deliveries in urban areas to shorten last mile distances, enhancing sustainable transportation by avoiding road traffic and emissions. Therefore, the concept is described as a smart transport system.
+C1 [Leyerer, Max; Sonneberg, Marc-Oliver; Heumann, Maximilian; Breitner, Michael H.] Leibniz Univ Hannover, Sch Econ & Management, D-30167 Hannover, Germany.
+C3 Leibniz University Hannover
+RP Leyerer, M (corresponding author), Leibniz Univ Hannover, Sch Econ & Management, D-30167 Hannover, Germany.
+EM leyerer@iwi.uni-hannover.de; sonneberg@iwi.uni-hannover.de;
+   heumann@iwi.uni-hannover.de; breitner@iwi.uni-hannover.de
+RI ; Heumann, Maximilian/JVN-5695-2024
+OI Breitner, Michael/0000-0001-7315-3022; Heumann,
+   Maximilian/0000-0002-3765-7423
+NR 43
+TC 36
+Z9 42
+U1 2
+U2 58
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2624-6511
+J9 SMART CITIES-BASEL
+JI Smart Cities
+PD SEP
+PY 2020
+VL 3
+IS 3
+BP 585
+EP 603
+DI 10.3390/smartcities3030031
+PG 19
+WC Engineering, Electrical & Electronic; Urban Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Engineering; Urban Studies
+GA TX0NA
+UT WOS:000682786300003
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Mohsen, BM
+AF Mohsen, Baha M.
+TI AI-Driven Optimization of Urban Logistics in Smart Cities: Integrating
+   Autonomous Vehicles and IoT for Efficient Delivery Systems
+SO SUSTAINABILITY
+LA English
+DT Article
+DE urban logistics; smart cities; AI; IoT; autonomous vehicles
+AB Urban logistics play a pivotal role in smart city development, aiming to improve the efficiency and sustainability of goods delivery in urban environments. As cities face growing challenges related to congestion, traffic management, and environmental impact, there is an increasing need for advanced technologies to optimize urban delivery systems. This paper proposes an innovative framework that integrates artificial intelligence (AI), autonomous vehicles (AVs), and Internet of Things (IoT) technologies to address these challenges. The framework leverages real-time data from IoT-enabled infrastructure to optimize route planning, enhance traffic signal control, and enable predictive demand management for delivery services. By incorporating AI-driven analytics, the proposed approach aims to improve traffic flow, reduce congestion, and minimize the carbon footprint of urban logistics, contributing to the development of more sustainable and efficient smart cities. This work highlights the potential for combining these technologies to transform urban logistics, offering a novel approach to enhancing delivery operations in densely populated areas.
+C1 [Mohsen, Baha M.] Emirates Aviat Univ, Fac Business Management, POB 53044, Dubai, U Arab Emirates.
+C3 Emirates Aviation University
+RP Mohsen, BM (corresponding author), Emirates Aviat Univ, Fac Business Management, POB 53044, Dubai, U Arab Emirates.
+EM baha.mohsen@emirates.com
+NR 32
+TC 21
+Z9 27
+U1 28
+U2 54
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD DEC
+PY 2024
+VL 16
+IS 24
+AR 11265
+DI 10.3390/su162411265
+PG 22
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA Q7Q7J
+UT WOS:001386582700001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Dohn, K
+   Kramarz, M
+   Przybylska, E
+AF Dohn, Katarzyna
+   Kramarz, Marzena
+   Przybylska, Edyta
+TI Interaction with City Logistics Stakeholders as a Factor of the
+   Development of Polish Cities on the Way to Becoming Smart Cities
+SO ENERGIES
+LA English
+DT Article
+DE smart city; stakeholders of urban logistics; logistics gaps in cities;
+   strategies
+ID URBAN FREIGHT TRANSPORT; DEFINITION; MOBILITY
+AB The growing population of cities means that they face many new challenges in improving their economic, social and environmental efficiency. These themes are relevant to the increasingly popular worldwide concept of smart cities. A smart city is a city that is friendly to people and the environment, in which people live better, safer, and healthier. From the point of view of management sciences, they are a result of creative development and the implementation of various solutions that should involve various stakeholders. The quality of life of city residents is largely influenced by logistics solutions, including the movement of both people and cargo in the city. This issue is directly relevant to the aim of this article, which is to try to determine the degree of cooperation between the city and city logistics stakeholders in the context of identifying gaps in the inclusion of logistics areas in the strategies of Polish cities. Both the role of stakeholders in actively shaping city strategies and the inclusion of logistics aspects in strategies are areas discussed in recent years in the literature in the context of smart cities. Our approach combines these two areas by pointing to their importance in the development of cities towards smart cities. In our stakeholder research, we focus on city logistics stakeholders, as the identified gaps in strategies relate only to logistics aspects. We conduct our research in Polish cities. In assessing the cooperation of Polish cities with their stakeholders and identifying gaps in the inclusion of logistic aspects in the strategies, we used an original questionnaire that allowed us to survey 280 Polish cities. To analyse the stakeholders we used statistics. To analyse the questionnaires, we used descriptive statistics, while gaps were identified by relating the results to the developed template. Both the problem of gaps and the problem of stakeholders were also considered on a voivodeship scale. The research results indicated a low level of cooperation between local authorities and key city logistics stakeholders. Moreover, logistic aspects were found to be insufficiently included in the city strategies of Polish cities (a high level of gaps was identified for most of the examined areas). This indicates the low awareness of local authorities regarding the shaping of cities' logistics systems and a lack of activity in this area. The results provide city managers with information on how to develop cooperation with stakeholders and which logistic areas to include in the formulated strategies. Undertaking these actions is a condition for the development of Polish cities towards the "smart city" concept.
+C1 [Dohn, Katarzyna; Kramarz, Marzena; Przybylska, Edyta] Silesian Tech Univ, Fac Org & Management, Roosevelt 26-28 Str, PL-41800 Zabrze, Poland.
+C3 Silesian University of Technology
+RP Dohn, K (corresponding author), Silesian Tech Univ, Fac Org & Management, Roosevelt 26-28 Str, PL-41800 Zabrze, Poland.
+EM katarzyna.dohn@polsl.pl; marzena.kramarz@polsl.pl;
+   edyta.przybylska@polsl.pl
+RI Dohn, Katarzyna/S-3513-2018
+OI Dohn, Katarzyna/0000-0002-4178-1347; Przybylska,
+   Edyta/0000-0002-9475-5927; Kramarz, Marzena/0000-0003-0619-5809
+FU Faculty of Organization andManagement, Silesian University of Technology
+   [13/050/BK-22/0001]
+FX The research presented in the paper was supported by the statutory work
+   13/050/BK-22/0001 carried out at the Faculty of Organization
+   andManagement, Silesian University of Technology.
+NR 81
+TC 13
+Z9 14
+U1 6
+U2 24
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD JUN
+PY 2022
+VL 15
+IS 11
+AR 4103
+DI 10.3390/en15114103
+PG 24
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA 2B0KN
+UT WOS:000809883800001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Correia, D
+   Vagos, C
+   Marques, JL
+   Teixeira, L
+AF Correia, Diogo
+   Vagos, Cristiano
+   Marques, Joao Lourenco
+   Teixeira, Leonor
+TI Fulfilment of last-mile urban logistics for sustainable and inclusive
+   smart cities: a case study conducted in Portugal
+SO INTERNATIONAL JOURNAL OF LOGISTICS-RESEARCH AND APPLICATIONS
+LA English
+DT Article
+DE Real-time fulfilment; instant deliveries; stakeholders collaboration;
+   resources sharing; city management
+ID REAL-TIME CITY; FREIGHT TRANSPORT; BIG DATA; LOCATION; CHALLENGES;
+   DELIVERIES; NETWORKS; SPRAWL; PICKUP
+AB While industry tends towards mass personalisation and instant deliveries, the last mile of urban logistics is being challenged to decrease the number of vehicles in circulation and the distances they travel in city centres. The COVID-19 pandemic helped expose the inefficiency of cities in fulfilling citizens' real-time needs. Moreover, the first aim of this paper is to understand the barriers which policymakers face in providing a personalised response to citizens' needs and the second to ascertain how they can proactively serve their communities. In line with these concerns, empirical evidence was collected through a questionnaire to Portuguese policymakers, and the results were discussed in a focus group with experts. The results suggest a lack of tools to enable real-time visualisation and study of scenarios for implementing and organising means of delivery and storage. Moreover, although policymakers feel confident in their capacity to manage the last mile, they would struggle to operate autonomously. Therefore, this paper conceptualises an initial algorithm based on the dynamic collaboration of stakeholders and sharing of resources to guarantee fulfilment of citizens' necessities. Furthermore, future discussions shall emerge about the relationships and technical standards between stakeholders to provide the necessary logistical means for city management and operations.
+C1 [Correia, Diogo; Teixeira, Leonor] Univ Aveiro, Dept Econ Management Ind Engn & Tourism DEGEIT, Aveiro, Portugal.
+   [Correia, Diogo] Univ Aveiro, North Aveiro Sch ESAN, Sch Design Management & Prod Technol, Aveiro, Portugal.
+   [Correia, Diogo; Marques, Joao Lourenco] Univ Aveiro, Governance Competitiveness & Publ Policies GOVCOP, Aveiro, Portugal.
+   [Vagos, Cristiano] Univ Aveiro, Dept Elect Telecommun & Informat DETI, Aveiro, Portugal.
+   [Marques, Joao Lourenco] Univ Aveiro, Dept Social Polit & Terr Sci DCSPT, Aveiro, Portugal.
+   [Teixeira, Leonor] Univ Aveiro, Inst Elect & Informat Engn Aveiro IEETA, Aveiro, Portugal.
+C3 Universidade de Aveiro; Universidade de Aveiro; Universidade de Aveiro;
+   Universidade de Aveiro; Universidade de Aveiro; Universidade de Aveiro
+RP Correia, D (corresponding author), Univ Aveiro, Dept Econ Management Ind Engn & Tourism DEGEIT, Aveiro, Portugal.; Correia, D (corresponding author), Univ Aveiro, North Aveiro Sch ESAN, Sch Design Management & Prod Technol, Aveiro, Portugal.; Correia, D (corresponding author), Univ Aveiro, Governance Competitiveness & Publ Policies GOVCOP, Aveiro, Portugal.
+EM diogo.correia@ua.pt
+RI ; marques, joao/GQQ-9339-2022; Correia, Diogo/AFR-6700-2022; Teixeira,
+   Leonor/G-4567-2012
+OI Correia, Diogo/0000-0001-6053-0976; Vagos,
+   Cristiano/0000-0002-4534-1648; Teixeira, Leonor/0000-0002-7791-1932;
+   Lourenço Marques, João/0000-0003-0472-2767
+FU Fundacao para a Ciencia e a Tecnologia [UIDB/00127/2020,
+   UIDB/04058/2020]; project SOLFI -Urban logistics optimization system
+   with integrated freight and passenger flows [POCI01-0247-FEDER-039870];
+   European Regional Development Fund (FEDER) through COMPETE 2020
+   (Operational Program for Competitiveness and Internationalization)
+FX This work was supported by Fundacao para a Ciencia e a Tecnologia [grant
+   numbers:UIDB/00127/2020,UIDB/04058/2020]; The present work was developed
+   in the scope of project SOLFI -Urban logistics optimization system with
+   integrated freight and passenger flows [gant number:
+   POCI01-0247-FEDER-039870], co-financed by the European Regional
+   Development Fund (FEDER) through COMPETE 2020 (Operational Program for
+   Competitiveness and Internationalization).
+NR 109
+TC 17
+Z9 20
+U1 5
+U2 43
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1367-5567
+EI 1469-848X
+J9 INT J LOGIST-RES APP
+JI Int. J. Logist.-Res. Appl.
+PD JUN 2
+PY 2024
+VL 27
+IS 6
+SI SI
+BP 931
+EP 958
+DI 10.1080/13675567.2022.2130211
+EA OCT 2022
+PG 28
+WC Management
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA OQ0Y6
+UT WOS:000863368900001
+OA hybrid
+DA 2025-11-25
+ER
+
+PT C
+AU Azari, M
+   Jawab, F
+   Arif, J
+   Khaoua, Y
+   El Jaouhari, A
+   Moustabchir, H
+AF Azari, Meriem
+   Jawab, Fouad
+   Arif, Jabir
+   Khaoua, Yassine
+   El Jaouhari, Asmae
+   Moustabchir, Hassane
+BE Jawab, F
+   El Farouk, I
+TI From City Logistics to a Merger of Smart Cities and Smart Logistics
+SO 2022 14TH INTERNATIONAL COLLOQUIUM OF LOGISTICS AND SUPPLY CHAIN
+   MANAGEMENT (LOGISTIQUA2022)
+SE International Conference on Logistics
+LA English
+DT Proceedings Paper
+CT 14th International Colloquium of Logistics and Supply Chain Management
+   (LOGISTIQUA)
+CY MAY 25-27, 2022
+CL El Jadida, MOROCCO
+SP IEEE Morocco Sect, IEEE Xplore, CNRST, Univ Chouaib Doukkali, Univ Sidi Mohamed Abdellah, Ecole Natl Commerce Gest, Univ Paris 8, Inst Univ Technologie Montreuil, Assoc Marocaine Logistique, Quartz Lab
+DE City Logistics; Smart City; Smart Logistics; Sustainable Logistics;
+   Sustainable Urban Logistics; Challenges and Opportunities
+AB The purpose of this article is to explore the evolution of city logistics in order to contribute to the creation of sustainable and livable cities. To improve urban living circumstances, a balance between economic growth and environmental and security preservation must be achieved. Sustainable logistics management has emerged as a major objective for municipal operations. Smart cities have grown into a technology- and data-driven paradigm for urban sustainability as a result of the invasion and independence of new technologies. To accomplish these goals, it is realistic to predict that smart cities will continue to advance in the domain of smart city logistics, a critical component of this game-changing shift. Simultaneously, intelligent logistics contributes to economic growth, the enhancement of human life quality, and the efficient use of economic resources; by enabling flexibility, adaptation, and competitiveness in the context of the creation of a digital society.
+C1 [Azari, Meriem; Jawab, Fouad; Arif, Jabir; Khaoua, Yassine; El Jaouhari, Asmae; Moustabchir, Hassane] Sidi Mohamed Ben Abdellah Univ, Super Sch Technol Fez, Lab Technol & Ind Serv, Fes, Morocco.
+C3 Sidi Mohamed Ben Abdellah University of Fez
+RP Azari, M (corresponding author), Sidi Mohamed Ben Abdellah Univ, Super Sch Technol Fez, Lab Technol & Ind Serv, Fes, Morocco.
+EM meriem.azari@usmba.ac.ma; fouad.jawab@usmba.ac.ma;
+   jabir.arif@usmba.ac.ma; yassine.khaoua@usmba.ac.ma;
+   asmae.eljaouhari@usmba.ac.ma; hassane.moustabchir@usmba.ac.ma
+RI azari, meriem/JWP-2799-2024; Arif, Jabir/HMW-1369-2023; Arif,
+   Jabir/P-1788-2014; Fouad, JAWAB/G-3962-2018
+OI Arif, Jabir/0000-0002-5285-7976; 
+NR 23
+TC 2
+Z9 2
+U1 2
+U2 72
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2166-7349
+EI 2166-7373
+BN 978-1-6654-7418-4
+J9 I CONF LOGISTICS
+PY 2022
+BP 334
+EP 338
+DI 10.1109/LOGISTIQUA55056.2022.9938020
+PG 5
+WC Engineering, Industrial; Operations Research & Management Science
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Operations Research & Management Science
+GA BU4IP
+UT WOS:000899744300051
+DA 2025-11-25
+ER
+
+PT J
+AU Klodawski, M
+   Jachimowski, R
+   Chamier-Gliszczynski, N
+AF Klodawski, Michal
+   Jachimowski, Roland
+   Chamier-Gliszczynski, Norbert
+TI Analysis of the Overhead Crane Energy Consumption Using Different
+   Container Loading Strategies in Urban Logistics Hubs
+SO ENERGIES
+LA English
+DT Article
+DE crane energy consumption; intermodal terminal; container handling; smart
+   city; intermodal train loading; logistics hubs
+ID OPERATIONS-RESEARCH; ALLOCATION; STORAGE; PORT; TERMINALS; EVALUATE;
+   MODEL
+AB This study addresses the critical gap in the literature regarding the energy efficiency of intermodal terminals in smart cities, mainly focusing on crane operations during train loading processes. Novelty's contribution lies in developing a comprehensive simulation model in FlexSim, where quantitative analysis of crane energy consumption, factoring in container location in the storage yard, rehandling operations, and crane movement strategies were performed. Moreover, the analysis of hoist, trolley, and gantry movements was performed to evaluate their impact on overall container loading process energy efficiency. The findings reveal that the choice of train loading method significantly influences crane energy consumption, thereby affecting the operational costs, environmental footprint, and energy efficiency of the logistics hub in the form of an intermodal terminal. This research provides a methodology for assessing and enhancing the energy efficiency of intermodal terminals and highlights the broader implications for smart city sustainability goals, including reduced greenhouse gas emissions, lower operating costs, and improved transportation infrastructure. The outcomes of this research can possibly support smart city planners and logistics managers in making informed decisions to optimise intermodal terminal operations, contributing to urban areas' sustainable development and economic resilience.
+C1 [Klodawski, Michal; Jachimowski, Roland] Warsaw Univ Technol, Fac Transport, PL-00661 Warsaw, Poland.
+   [Chamier-Gliszczynski, Norbert] Koszalin Univ Technol, Fac Technol & Educ, Koszalin, Poland.
+C3 Warsaw University of Technology; Koszalin University of Technology
+RP Klodawski, M (corresponding author), Warsaw Univ Technol, Fac Transport, PL-00661 Warsaw, Poland.
+EM michal.klodawski@pw.edu.pl; roland.jachimowski@pw.edu.pl;
+   norbert.chamier-gliszczynski@tu.koszalin.pl
+RI ; Jachimowski, Roland/AAP-8328-2021; Kłodawski, Michał/R-9400-2018;
+   Kłodawski, Michał/MSY-5381-2025; Chamier-Gliszczyński,
+   Norbert/AAM-4798-2021
+OI Chamier-Gliszczyński, Norbert/0000-0001-7919-0158; Jachimowski,
+   Roland/0000-0001-5921-2436; Kłodawski, Michał/0000-0002-4256-2189; 
+FU National Science Centre, Poland [2022/04/Y/ST8/00134]; National Natural
+   Science Foundation of China (NSFC); European Union [875022]
+FX This research is a result of a project funded by the National Science
+   Centre, Poland (project no. 2022/04/Y/ST8/00134). Project title: Energy
+   optimal urban logistics as a service (E-Laas). Project implemented as
+   part of the call ERA-NET Cofund Urban Accessibility and Connectivity
+   (EN-UAC China Call) organised by JPI Urban Europe and the National
+   Natural Science Foundation of China (NSFC) funded from the European
+   Union's Horizon 2020 research and innovation programme under grant
+   agreement No 875022.
+NR 60
+TC 12
+Z9 13
+U1 6
+U2 30
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD MAR
+PY 2024
+VL 17
+IS 5
+AR 985
+DI 10.3390/en17050985
+PG 24
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA KV9I4
+UT WOS:001182851400001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Okonta, DE
+   Vukovic, V
+AF Okonta, Donatus Ebere
+   Vukovic, Vladimir
+TI Smart cities software applications for sustainability and resilience
+SO HELIYON
+LA English
+DT Review
+DE Smart cities; Smart city software; Sustainability; Resilience;
+   Information and communication technologies; Internet of things
+ID CITY-APPLICATIONS; METHODOLOGY; CHALLENGES
+AB To transform urban areas into smart cities, various technologies-including software, user interfaces, communication networks, and the Internet of Things (IoT)-must tackle complex sustainability and resilience issues. This study aims to investigate the challenges of rapid urban population growth and explore how Information and Communication Technologies (ICT) can be utilized to foster the development of smart cities. Specifically, it seeks to understand how the integration of ICT can contribute to enhancing urban resilience, promoting urban sustainability, and improving citizens' quality of life. The study relied on a literature review, appraisals of fifteen (15) different Smart City software applications and their characteristics (spanning various domains, including data analytics, the Internet of Things (IoT), urban mobility, energy management, and citizen engagement platforms, all related to sustainability and resilience), and thirty (30) case studies cutting across sustainability and resilience. Furthermore, thematic analysis from the case studies was used to evaluate the benefits of smart city applications mapped to the six (6) action areas of Smart City. Based on the findings from case studies and smart city software analysis, rapid urbanisation presents multifaceted challenges like traffic congestion, disaster management, environmental degradation, community engagement, economic disparities, and so on. However, adopting Smart City software applications and aligning with various domains, including data analytics, the Internet of Things (IoT), urban mobility, energy management, and citizen engagement platforms, play pivotal roles in addressing these challenges. Further findings reveal that the benefits of smart city software align with the action areas of smart cities, including Governance, Mobility, Economy, Environment, Living, and People. The research offers practical application of smart city software for Urban designs and planners. It highlights the influence of contextual factors across countries on Smart City effectiveness. The study advances ICT-driven urban transformation, enhancing the quality of life in fast-growing cities.
+C1 [Okonta, Donatus Ebere; Vukovic, Vladimir] Teesside Univ, Sch Comp Engn & Digital Technol, Middlesbrough, England.
+C3 University of Teesside
+RP Okonta, DE (corresponding author), Teesside Univ, Sch Comp Engn & Digital Technol, Middlesbrough, England.
+EM d.okonta@tees.ac.uk
+RI Okonta, Ebere Donatus/HMD-9438-2023; Okonta, Ebere/HMD-9438-2023;
+   Vukovic, Vladimir/E-9599-2018
+OI Okonta, Ebere Donatus/0000-0003-4995-6575; Vukovic,
+   Vladimir/0000-0003-0702-2475
+NR 126
+TC 19
+Z9 22
+U1 10
+U2 34
+PU CELL PRESS
+PI CAMBRIDGE
+PA 50 HAMPSHIRE ST, FLOOR 5, CAMBRIDGE, MA 02139 USA
+EI 2405-8440
+J9 HELIYON
+JI Heliyon
+PD JUN 30
+PY 2024
+VL 10
+IS 12
+AR e32654
+DI 10.1016/j.heliyon.2024.e32654
+EA JUN 2024
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA WG0V7
+UT WOS:001253608000001
+PM 39183850
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Diaz-Sarachaga, JM
+AF Diaz-Sarachaga, Jose Manuel
+TI Developing an assessment governance framework for urban digital twins:
+   Insights from smart cities
+SO CITIES
+LA English
+DT Article
+DE Smart governance; Delphi technique; Smart cities; Governance assessment;
+   Urban digital twin; Multi-criteria decision making; Best-Worst method
+ID CITY INITIATIVES; TRANSFORMATION; PERSPECTIVE; CHALLENGES; CONTEXT;
+   POLICY
+AB The rampant urbanization process has highlighted the need of an efficient governance for urban areas. Nevertheless, cities must face the challenge of adapting to technology advances arising from the digital era we are living in. Under this context, urban digital twins (UDTs) have recently superseded smart cities in the attempt of improving the management of city resources and the live of citizens through the use of sophisticated technology. Although the governance of smart cities has been broadly handled in the literature, the influence of UDTs on urban governance still remains unaddressed. This article aims at closing this gap by developing a framework to assess the contribution of UDTs in the governance of cities. A mixed methodology combining an in-depth literature review, a four-round Delphi technique and the Best-Worst multi-criteria decision making method was implemented to this end. The new instrument consists of a two-tier scheme comprising 7 categories and 33 attributes, of which 26 were deemed as essential for an efficient governance. Institutional dimension prevailed over the remaining sustainability domains. Three performance thresholds were defined: low governance, average governance and high governance. The application of the rating system to the UDT of Singapore as case study determined a high level of governance for this city. Some policies were however recommended to strengthen gaps found in Singapore.
+C1 [Diaz-Sarachaga, Jose Manuel] Univ Oviedo, GTDS Res Grp, C-Catedrat Valentin Alvarez S-N, Oviedo 33006, Spain.
+C3 University of Oviedo
+RP Diaz-Sarachaga, JM (corresponding author), Univ Oviedo, GTDS Res Grp, C-Catedrat Valentin Alvarez S-N, Oviedo 33006, Spain.
+EM diazsjose@uniovi.es
+RI DIAZ-SARACHAGA, JOSE MANUEL/I-3137-2019; DIAZ-SARACHAGA, JOSE
+   MANUEL/I-3137-2019
+OI DIAZ-SARACHAGA, JOSE MANUEL/0000-0002-4709-2534; DIAZ-SARACHAGA, JOSE
+   MANUEL/0000-0002-4709-2534
+FU Faculty of Architecture at Chulalongkorn University
+FX The author would like to thank the support of Dr. Prof. Atch
+   Sresh-thaputra and Dr. Vorapat Inkarojrit from the Faculty of
+   Architecture at Chulalongkorn University.
+NR 116
+TC 13
+Z9 15
+U1 9
+U2 36
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0264-2751
+EI 1873-6084
+J9 CITIES
+JI Cities
+PD JAN
+PY 2025
+VL 156
+AR 105558
+DI 10.1016/j.cities.2024.105558
+EA OCT 2024
+PG 12
+WC Urban Studies
+WE Social Science Citation Index (SSCI)
+SC Urban Studies
+GA L1S2P
+UT WOS:001348583100001
+DA 2025-11-25
+ER
+
+PT J
+AU Katsuumi, A
+   Cong, YX
+   Inazumi, S
+AF Katsuumi, Arisa
+   Cong, Yuxin
+   Inazumi, Shinya
+TI AI-Driven Prediction and Mapping of Soil Liquefaction Risks for
+   Enhancing Earthquake Resilience in Smart Cities
+SO SMART CITIES
+LA English
+DT Article
+DE AI-driven predictive model; ensemble machine learning; geotechnical data
+   integration; soil liquefaction risk; urban resilience
+AB In response to increasing urbanization and the need for infrastructure resilient to natural hazards, this study introduces an AI-driven predictive model designed to assess the risk of soil liquefaction. Utilizing advanced ensemble machine learning techniques, the model integrates geotechnical and geographical data to accurately predict the potential for soil liquefaction in urban areas, with a specific focus on Yokohama, Japan. This methodology leverages comprehensive datasets from geological surveys and seismic activity to enhance urban planning and infrastructure development in smart cities. The primary outputs include detailed soil liquefaction risk maps that are essential for effective urban risk management. These maps support urban planners and engineers in making informed decisions, prioritizing safety, and promoting sustainability. The model employs a robust combination of artificial neural networks and gradient boosting decision trees to analyze and predict data points, assessing soil susceptibility to liquefaction during seismic events. Notably, the model achieves high accuracy in predicting soil classifications and N-values, which are critical for evaluating soil liquefaction risk. Validation against an extensive dataset from geotechnical surveys confirms the model's practical effectiveness. Moreover, the results highlight the transformative potential of AI in enhancing geotechnical risk assessments and improving the resilience of urban areas against natural hazards.
+C1 [Katsuumi, Arisa; Cong, Yuxin] Shibaura Inst Technol, Grad Sch Engn & Sci, Tokyo 1358548, Japan.
+   [Inazumi, Shinya] Shibaura Inst Technol, Coll Engn, Tokyo 1358548, Japan.
+C3 Shibaura Institute of Technology; Shibaura Institute of Technology
+RP Inazumi, S (corresponding author), Shibaura Inst Technol, Coll Engn, Tokyo 1358548, Japan.
+EM ah20098@shibaura-it.ac.jp; na23107@shibaura-it.ac.jp;
+   inazumi@shibaura-it.ac.jp
+RI Inazumi, Shinya/C-8875-2019
+OI Inazumi, Shinya/0000-0002-5639-5254
+NR 46
+TC 7
+Z9 7
+U1 4
+U2 13
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2624-6511
+J9 SMART CITIES-BASEL
+JI Smart Cities
+PD AUG
+PY 2024
+VL 7
+IS 4
+BP 1836
+EP 1856
+DI 10.3390/smartcities7040071
+PG 21
+WC Engineering, Electrical & Electronic; Urban Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Engineering; Urban Studies
+GA E7W3A
+UT WOS:001305065100001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Aljaidi, M
+   Samara, G
+   Singla, MK
+   Alsarhan, A
+   Hassan, M
+   Safaraliev, M
+   Matrenin, P
+   Tavlintsev, A
+AF Aljaidi, Mohammad
+   Samara, Ghassan
+   Singla, Manish Kumar
+   Alsarhan, Ayoub
+   Hassan, Mohammad
+   Safaraliev, Murodbek
+   Matrenin, Pavel
+   Tavlintsev, Alexander
+TI A particle swarm optimizer-based optimization approach for locating
+   electric vehicles charging stations in smart cities
+SO INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+LA English
+DT Article
+DE Hydrogen storage; Electric vehicles; Charging station; Energy
+   consumption; Hydrogen; Placement; Elevation; GA; PSO
+ID PLACEMENT
+AB Conventional fossil fuel-powered vehicles are gradually being replaced by electric and hydrogen vehicles in the transportation sector. Even with all the recognized benefits and recent advancements in energy efficiency, decrease of noise, and environmental impact reduction, the market of electric and hydrogen mobility is still not up to par. Allocating charging stations in metropolitan areas for electric vehicles is considered as one of the most significant obstacles preventing electric and hydrogen vehicles from becoming more widely used. In this paper, an efficient approach aimed at finding optimal locations for electric vehicles (EV) charging stations in urban areas is proposed. Particle Swarm Optimization algorithm technique is utilized with the proposed approach. Various parameters were taken into consideration in this work, such as the horizontal distance that EVs travel to reach charging stations (CSs), and positive slope that EVs face to reach charging stations. The optimization problem is formulated as a Mixed-integer problem. The objective function works on minimizing the energy consumption of EVs to reach CSs in the investigated area. Difference constraints are incorporated with the proposed approach in order to increase the accuracy and efficiency of the proposed approach. The proposed approach is applied on real world datasets and is experimentally validated using through comparison with Genetic Algorithm and the greedy approach. The results demonstrate that the proposed approach saves energy about 22% and 43% compared to the genetic algorithm and greedy technique, respectively.
+C1 [Aljaidi, Mohammad; Samara, Ghassan; Hassan, Mohammad] Zarqa Univ, Fac Informat Technol, Dept Comp Sci, Zarqa 13110, Jordan.
+   [Singla, Manish Kumar] Chitkara Univ, Inst Engn & Technol, Dept Interdisciplinary Courses Engn, Rajpura 140401, Punjab, India.
+   [Singla, Manish Kumar] Jadara Univ, Res Ctr, Irbid, Jordan.
+   [Alsarhan, Ayoub] Hashemite Univ, Fac Prince Al Hussein Bin Abdallah II Informat Tec, Dept Informat Technol, Zarqa 13116, Jordan.
+   [Safaraliev, Murodbek; Matrenin, Pavel; Tavlintsev, Alexander] Ural Fed Univ, Ural Power Engn Inst, 19 Mira Str, Ekaterinburg 620062, Russia.
+C3 Zarqa University; Chitkara University, Punjab; Hashemite University;
+   Ural Federal University
+RP Tavlintsev, A (corresponding author), Ural Fed Univ, Ural Power Engn Inst, 19 Mira Str, Ekaterinburg 620062, Russia.
+EM a.s.tavlintsev@urfu.ru
+RI Aljaidi, Mohammad/AAQ-6598-2020; Tavlintsev, Alexander/E-8566-2014;
+   Safaraliev, Murodbek/AAG-6805-2019; Singla, Manish/IQT-7630-2023;
+   Samara, Ghassan/D-1040-2017
+OI Tavlintsev, Alexander/0000-0003-0592-845X; Safaraliev,
+   Murodbek/0000-0003-3433-9742; Samara, Ghassan/0000-0001-8415-0572
+FU Ministry of Science and Higher Edu-cation of the Russian Federation
+   (Ural Federal University Program of Development within the Priority-2030
+   Program)
+FX The research funding from the Ministry of Science and Higher Edu-cation
+   of the Russian Federation (Ural Federal University Program of
+   Development within the Priority-2030 Program) is gratefully
+   acknowledged.
+NR 38
+TC 9
+Z9 11
+U1 2
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-3199
+EI 1879-3487
+J9 INT J HYDROGEN ENERG
+JI Int. J. Hydrog. Energy
+PD OCT 18
+PY 2024
+VL 87
+BP 1047
+EP 1055
+DI 10.1016/j.ijhydene.2024.09.029
+EA SEP 2024
+PG 9
+WC Chemistry, Physical; Electrochemistry; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Chemistry; Electrochemistry; Energy & Fuels
+GA G1C7C
+UT WOS:001314088100001
+DA 2025-11-25
+ER
+
+PT J
+AU Toktas, D
+   Ülkü, MA
+   Habib, MA
+AF Toktas, Dogukan
+   Ulku, M. Ali
+   Habib, Muhammad Ahsanul
+TI Toward Greener Supply Chains by Decarbonizing City Logistics: A
+   Systematic Literature Review and Research Pathways
+SO SUSTAINABILITY
+LA English
+DT Review
+DE greening city logistics; transportation; decarbonization; emissions;
+   sustainability; supply chain management; quadruple bottom line; culture;
+   bibliometric analysis
+ID DELIVERY; DESIGN
+AB The impacts of climate change (CC) are intensifying and becoming more widespread. Greenhouse gas emissions (GHGs) significantly contribute to CC and are primarily generated by transportation-a dominant segment of supply chains. City logistics is responsible for a significant portion of GHGs, as conventional vehicles are the primary mode of transportation in logistical operations. Nonetheless, city logistics is vital for urban areas' economy and quality of life. Therefore, decarbonizing city logistics (DCL) is crucial to promote green cities and sustainable urban living and mitigate the impacts of CC. However, sustainability encompasses the environment, economy, society, and culture, collectively called the quadruple bottom line (QBL) pillars of sustainability. This research uses the QBL approach to review the extant literature on DCL. We searched for articles on SCOPUS, focusing on analytical scholarly studies published in the past two decades. By analyzing publication years, journals, countries, and keyword occurrences, we present an overview of the current state of DCL research. Additionally, we examine the methods and proposals outlined in the reviewed articles, along with the QBL aspects they address. Finally, we discuss the evolution of DCL research and provide directions for future research. The results indicate that optimization is the predominant solution approach among the analytical papers in the DCL literature. Our analysis reveals a lack of consideration for the cultural aspect of QBL, which is essential for the applicability of any proposed solution. We also note the integration of innovative solutions, such as crowdsourcing, electric and hydrogen vehicles, and drones in city logistics, indicating a promising research area that can contribute to developing sustainable cities and mitigating CC.
+C1 [Toktas, Dogukan; Ulku, M. Ali; Habib, Muhammad Ahsanul] Dalhousie Univ, CRSSCA Ctr Res Sustainable Supply Chain Analyt, Halifax, NS B3H 4R2, Canada.
+   [Toktas, Dogukan; Ulku, M. Ali] Dalhousie Univ, Fac Management, Dept Management Sci & Informat Syst, Halifax, NS B3H 4R2, Canada.
+   [Habib, Muhammad Ahsanul] Dalhousie Univ, Sch Planning, Halifax, NS B3H 4R2, Canada.
+   [Habib, Muhammad Ahsanul] Dalhousie Univ, Dept Civil & Resource Engn, Halifax, NS B3H 4R2, Canada.
+C3 Dalhousie University; Dalhousie University; Dalhousie University;
+   Dalhousie University
+RP Ülkü, MA (corresponding author), Dalhousie Univ, CRSSCA Ctr Res Sustainable Supply Chain Analyt, Halifax, NS B3H 4R2, Canada.; Ülkü, MA (corresponding author), Dalhousie Univ, Fac Management, Dept Management Sci & Informat Syst, Halifax, NS B3H 4R2, Canada.
+EM toktas@dal.ca; ulku@dal.ca; ahsan.habib@dal.ca
+RI ; Ülkü, M. Ali/AAT-6801-2021
+OI Habib, Muhammad Ahsanul/0000-0003-1461-9552; Toktaş,
+   Doğukan/0009-0005-3276-7673; Ülkü, M Ali/0000-0002-8495-3364
+FU Climate Action Awareness Fund by Environment and Climate
+   Change-Government of Canada;  [EDF-CA-2021i011]
+FX This research is supported by the Climate Action Awareness Fund by
+   Environment and Climate Change-Government of Canada. The grant number is
+   EDF-CA-2021i011.
+NR 100
+TC 4
+Z9 4
+U1 7
+U2 36
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD SEP
+PY 2024
+VL 16
+IS 17
+AR 7516
+DI 10.3390/su16177516
+PG 22
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA F7U4K
+UT WOS:001311822400001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Biasin, M
+   Delle Foglie, A
+AF Biasin, Massimo
+   Delle Foglie, Andrea
+TI Blockchain and Smart Cities for Inclusive and Sustainable Communities: A
+   Bibliometric and Systematic Literature Review
+SO SUSTAINABILITY
+LA English
+DT Review
+DE smart cities; sustainable development; urban agenda; blockchain;
+   distributed ledger technologies (DLTs)
+ID IOT; TECHNOLOGIES; ARCHITECTURE; CONTRACTS; SECURITY; INTERNET; FUTURE
+AB Smart cities are urban areas that leverage technological solutions to enhance traditional network management and efficiency to benefit residents and businesses. Based on the Scientific Procedures and Rationales for Systematic Literature Reviews (SPAR-4-SLR) protocol, this study presents a systematic literature review aimed at analyzing the existing literature on smart cities research. The literature review specifically focuses on the impact of blockchain technology on the urban environment and its potential to contribute to the development of inclusive and sustainable communities, including financial systems and infrastructures with similar characteristics to serve these societies. The findings reveal a lack of studies on the practical applications of distributed ledger technologies (DLTs), particularly blockchain, that specifically focus on the urban context capable of developing the (financial) ecosystem of smart cities. To address this gap, a future research agenda is proposed, highlighting several research questions that could guide academics and practitioners interested in exploring the development of smart city systems, with particular attention on the financial framework.
+C1 [Biasin, Massimo; Delle Foglie, Andrea] Univ Macerata, Dept Econ & Law, Via Crescimbeni 14, I-62100 Macerata, Italy.
+C3 University of Macerata
+RP Delle Foglie, A (corresponding author), Univ Macerata, Dept Econ & Law, Via Crescimbeni 14, I-62100 Macerata, Italy.
+EM massimo.biasin@unimc.it; a.dellefoglie1@unimc.it
+RI ; Delle Foglie, Andrea/AAH-9612-2019
+OI Delle Foglie, Anea/0000-0002-8946-6338; 
+FU European Union [101007820]
+FX This project has received funding from the European Union's Horizon 2020
+   research and innovation programme under the Marie Sklodowska-Curie grant
+   agreement No 101007820.
+NR 73
+TC 7
+Z9 8
+U1 0
+U2 9
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD AUG
+PY 2024
+VL 16
+IS 15
+AR 6669
+DI 10.3390/su16156669
+PG 21
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA C1O9H
+UT WOS:001287135100001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Ramana, K
+   Srivastava, G
+   Kumar, MR
+   Gadekallu, TR
+   Lin, JCW
+   Alazab, M
+   Iwendi, C
+AF Ramana, Kadiyala
+   Srivastava, Gautam
+   Kumar, Madapuri Rudra
+   Gadekallu, Thippa Reddy
+   Lin, Jerry Chun-Wei
+   Alazab, Mamoun
+   Iwendi, Celestine
+TI A Vision Transformer Approach for Traffic Congestion Prediction in Urban
+   Areas
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+LA English
+DT Article
+DE Convolutional neural networks; Transformers; Transportation; Roads;
+   Feature extraction; Deep learning; Computational modeling; Vision
+   transformers; deep learning; intelligent transportation system;
+   long-short-term-memory (LSTM); traffic congestion prediction
+ID MODEL
+AB Traffic problems continue to deteriorate because of increasing population in urban areas that rely on many modes of transportation, the transportation infrastructure has achieved considerable strides in the last several decades. This has led to an increase in congestion control difficulties, which directly affect citizens through air pollution, fuel consumption, traffic law breaches, noise pollution, accidents, and loss of time. Traffic prediction is an essential aspect of an intelligent transportation system in smart cities because it helps reduce overall traffic congestion. This article aims to design and enforce a traffic prediction scheme that is efficient and accurate in forecasting traffic flow. Available traffic flow prediction methods are still unsuitable for real-world applications. This fact motivated us to work on a traffic flow forecasting issue using Vision Transformers (VTs). In this work, VTs were used in conjunction with Convolutional neural networks (CNN) to predict traffic congestion in urban spaces on a city-wide scale. In our proposed architecture, a traffic image is fed to a CNN, which generates feature maps. These feature maps are then fed to the VT, which employs the dual techniques of tokenization and projection. Tokenization is used to convert features into tokens containing Vision information, which are then sent to projection, where they are transformed into feature maps and ultimately delivered to LSTM. The experimental results demonstrate that the vision transformer prediction method based on Spatio-temporal characteristics is an excellent way of predicting traffic flow, particularly during anomalous traffic situations. The proposed technology surpasses traditional methods in terms of precision, accuracy and recall and aids in energy conservation. Through rerouting, the proposed work will benefit travellers and reduce fuel use.
+C1 [Ramana, Kadiyala] Chaitanya Bharathi Inst Technol, Hyderabad 500075, India.
+   [Srivastava, Gautam] Brandon Univ, Dept Math & Comp Sci, Brandon, MB R7A 6A9, Canada.
+   [Srivastava, Gautam] China Med Univ, Res Ctr Interneural Comp, Taichung 40402, Taiwan.
+   [Srivastava, Gautam; Gadekallu, Thippa Reddy] Lebanese Amer Univ, Dept Comp Sci & Math, Beirut 1102, Lebanon.
+   [Kumar, Madapuri Rudra] G Pullaiah Coll Engn & Technol, Kurnool 518002, India.
+   [Gadekallu, Thippa Reddy] Vellore Inst Technol, Sch Informat Technol & Engn, Vellore 632014, India.
+   [Lin, Jerry Chun-Wei] Silesian Tech Univ, PL-44100 Gliwice, Poland.
+   [Lin, Jerry Chun-Wei] Western Norway Univ Appl Sci, Dept Comp Sci Elect Engn & Math Sci, N-5063 Bergen, Norway.
+   [Alazab, Mamoun] Charles Darwin Univ, Coll Engn IT & Environm, Casuarina, NT 0810, Australia.
+   [Iwendi, Celestine] Univ Bolton, Sch Creat Technol, Bolton BL3 5AB, England.
+C3 Chaitanya Bharathi Institute of Technology; Brandon University; China
+   Medical University Taiwan; Lebanese American University; G. Pullaiah
+   College of Engineering & Technology; Vellore Institute of Technology
+   (VIT); VIT Vellore; Silesian University of Technology; Western Norway
+   University of Applied Sciences; Charles Darwin University; University of
+   Greater Manchester
+RP Srivastava, G (corresponding author), Brandon Univ, Dept Math & Comp Sci, Brandon, MB R7A 6A9, Canada.
+EM ramana.it01@gmail.com; srivastavag@brandonu.ca; mrudrakumar@gmail.com;
+   thippareddy.g@vit.ac.in; jerrylin@ieee.org; alazab.m@ieee.org;
+   celestine.iwendi@ieee.org
+RI Lin, Jerry/C-1514-2011; Alazab, Mamoun/AAG-6684-2021; Kadiyala,
+   Ramana/AAF-4301-2020; Gadekallu, Thippa Reddy/T-4254-2019; Iwendi,
+   Celestine/I-1989-2018; Srivastava, Gautam/N-5668-2019; Kumar,
+   M/AGH-6416-2022
+OI Kadiyala, Ramana/0000-0002-4604-846X; Lin, Jerry
+   Chun-Wei/0000-0001-8768-9709; Gadekallu, Thippa
+   Reddy/0000-0003-0097-801X; Iwendi, Celestine/0000-0003-4350-3911;
+   Srivastava, Gautam/0000-0001-9851-4103; Alazab,
+   Mamoun/0000-0002-1928-3704; 
+NR 60
+TC 56
+Z9 64
+U1 11
+U2 106
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1524-9050
+EI 1558-0016
+J9 IEEE T INTELL TRANSP
+JI IEEE Trans. Intell. Transp. Syst.
+PD APR
+PY 2023
+VL 24
+IS 4
+BP 3922
+EP 3934
+DI 10.1109/TITS.2022.3233801
+EA JAN 2023
+PG 13
+WC Engineering, Civil; Engineering, Electrical & Electronic; Transportation
+   Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Transportation
+GA J7HI1
+UT WOS:000915546600001
+DA 2025-11-25
+ER
+
+PT C
+AU Liu, Y
+   Pan, SL
+   Folz, P
+   Hassan, T
+   Raipin-Parvedy, P
+   Ballot, E
+AF Liu, Yu
+   Pan, Shenle
+   Folz, Pauline
+   Hassan, Thomas
+   Raipin-Parvedy, Philippe
+   Ballot, Eric
+BE Borangiu, T
+   Trentesaux, D
+   Leitao, P
+   Berrah, L
+   Jimenez, JF
+TI Smart City Logistics Enabled by Digital Twins and Semantic Technologies
+SO SERVICE ORIENTED, HOLONIC AND MULTI-AGENT MANUFACTURING SYSTEMS FOR
+   INDUSTRY OF THE FUTURE, SOHOMA 2023
+SE Studies in Computational Intelligence
+LA English
+DT Proceedings Paper
+CT International Workshop on Service Orientation in Holonic and Multi-Agent
+   Manufacturing (SOHOMA)
+CY SEP 28-29, 2023
+CL Annecy, FRANCE
+DE City Logistics; Smart City; Digital Twin; Semantics; Multi-modality;
+   Sustainability; Micro-hub; Crowdsourcing
+AB This research explores sustainable city logistics, emphasizing the hurdles associated with scarce urban resources, including their under- and misutilization due to a lack of real-time information on the available infrastructure and intense competition between companies. To face these challenges, there is a crucial need to improve the visibility of urban resources and logistics assets, as an enabler of effective and efficient resource allocation and orchestration of resource utilization and logistics operations. The advent of Smart Cities provides innovation opportunities, leading to the concept of Smart City Logistics (SCL). SCL will offer dual benefits: firstly, it improves resource visibility by profiting from the various fundamental technologies of Smart Cities, i.e., IoT and ICT, to collect and transfer the data of the ever-changing state of resources. Second, enhanced by Digital Twins, the real-time objects' states can be synchronized and mirrored, which will support the decision-making in SCL to guide the allocation of urban resources to provide energy-efficient, cost-effective logistics services dynamically and responsively. This research primarily focuses on SCL's conceptualization and modelling, while discussing potential future advancements.
+C1 [Liu, Yu; Pan, Shenle; Ballot, Eric] PSL Univ, Ctr Management Sci CGS, i3 UMR CNRS, Mines Paris, F-75006 Paris, France.
+   [Folz, Pauline; Hassan, Thomas; Raipin-Parvedy, Philippe] Orange Innovat, Issy Les Moulineaux, France.
+C3 Universite PSL; MINES ParisTech; Orange SA
+RP Liu, Y (corresponding author), PSL Univ, Ctr Management Sci CGS, i3 UMR CNRS, Mines Paris, F-75006 Paris, France.
+EM yu.liu@minesparis.psl.eu; shenle.pan@minesparis.psl.eu;
+   pauline.folz@orange.com; thomas.hassan@orange.com;
+   philippe.raipin@orange.com; eric.ballot@minesparis.psl.eu
+RI Pan, Shenle/D-6571-2018
+FU Physical Internet Chair at Mines Paris - PSL University, in the project
+   ASAP (Awaken Sleeping Assets Project) from the European Union's Horizon
+   2020 research and innovation program [875022]
+FX This work is supported by the Physical Internet Chair at Mines Paris -
+   PSL University, in the project ASAP (Awaken Sleeping Assets Project)
+   which has received funding from the European Union's Horizon 2020
+   research and innovation program under grant agreement No 875022.
+NR 17
+TC 0
+Z9 0
+U1 2
+U2 9
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1860-949X
+EI 1860-9503
+BN 978-3-031-53447-8; 978-3-031-53445-4; 978-3-031-53444-7
+J9 STUD COMPUT INTELL
+PY 2024
+VL 1136
+BP 420
+EP 429
+DI 10.1007/978-3-031-53445-4_35
+PG 10
+WC Computer Science, Interdisciplinary Applications; Computer Science,
+   Software Engineering; Engineering, Industrial; Engineering,
+   Manufacturing
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science; Engineering
+GA BX4UB
+UT WOS:001294445700035
+DA 2025-11-25
+ER
+
+PT J
+AU Papastefanopoulos, V
+   Linardatos, P
+   Panagiotakopoulos, T
+   Kotsiantis, S
+AF Papastefanopoulos, Vasilis
+   Linardatos, Pantelis
+   Panagiotakopoulos, Theodor
+   Kotsiantis, Sotiris
+TI Multivariate Time-Series Forecasting: A Review of Deep Learning Methods
+   in Internet of Things Applications to Smart Cities
+SO SMART CITIES
+LA English
+DT Review
+DE machine learning; deep learning; IoT; smart cities; time series;
+   forecasting; multivariate
+ID SHORT-TERM-MEMORY; PARKING OCCUPANCY PREDICTION; TRAFFIC FLOW;
+   ENERGY-CONSUMPTION; NEURAL-NETWORKS; LSTM; SECURITY; ENCODER; TRENDS
+AB Smart cities are urban areas that utilize digital solutions to enhance the efficiency of conventional networks and services for sustainable growth, optimized resource management, and the well-being of its residents. Today, with the increase in urban populations worldwide, their importance is greater than ever before and, as a result, they are being rapidly developed to meet the varying needs of their inhabitants. The Internet of Things (IoT) lies at the heart of such efforts, as it allows for large amounts of data to be collected and subsequently used in intelligent ways that contribute to smart city goals. Time-series forecasting using deep learning has been a major research focus due to its significance in many real-world applications in key sectors, such as medicine, climate, retail, finance, and more. This review focuses on describing the most prominent deep learning time-series forecasting methods and their application to six smart city domains, and more specifically, on problems of a multivariate nature, where more than one IoT time series is involved.
+C1 [Papastefanopoulos, Vasilis; Linardatos, Pantelis; Kotsiantis, Sotiris] Univ Patras, Dept Math, Patras 26504, Greece.
+   [Panagiotakopoulos, Theodor] Hellen Open Univ, Sch Sci & Technol, Patras 26335, Greece.
+   [Panagiotakopoulos, Theodor] Univ Nicosia, Sch Business, CY-2417 Nicosia, Cyprus.
+C3 University of Patras; Hellenic Open University; University of Nicosia
+RP Papastefanopoulos, V (corresponding author), Univ Patras, Dept Math, Patras 26504, Greece.
+EM vasileios.papastefanopoulos@upatras.gr; p.linardatos@upnet.gr;
+   panagiotakopoulos@eap.gr; sotos@math.upatras.gr
+RI Panagiotakopoulos, Theodor/ABC-2417-2020; kotsiantis,
+   sotiris/C-5640-2009; Kotsiantis, Sotiris/A-8308-2016; Papastefanopoulos,
+   Vasileios/ABI-3803-2020
+OI kotsiantis, sotiris/0000-0002-2247-3082; Panagiotakopoulos,
+   Theodor/0000-0003-4044-6018; Linardatos, Pantelis/0000-0003-1132-4724;
+   Papastefanopoulos, Vasilis/0000-0001-8169-1373; 
+FU OpenDCO, (Erasmus+ KA2: KA220-HED-Cooperation partnerships in higher
+   education) [22022-1-CY01-KA220-HED-000089196]
+FX This work was supported by the research project OpenDCO, "Open Data City
+   Officer"(Project No.: 22022-1-CY01-KA220-HED-000089196, Erasmus+ KA2:
+   KA220-HED-Cooperation partnerships in higher education).
+NR 221
+TC 24
+Z9 26
+U1 6
+U2 42
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2624-6511
+J9 SMART CITIES-BASEL
+JI Smart Cities
+PD OCT
+PY 2023
+VL 6
+IS 5
+BP 2519
+EP 2552
+DI 10.3390/smartcities6050114
+PG 34
+WC Engineering, Electrical & Electronic; Urban Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Engineering; Urban Studies
+GA W2MS6
+UT WOS:001090029400001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Wang, S
+   Zhu, XN
+   Shang, P
+   Liu, WQ
+   Lin, X
+   Tavasszy, L
+AF Wang, Shuai
+   Zhu, Xiaoning
+   Shang, Pan
+   Liu, Wenqian
+   Lin, Xiao
+   Tavasszy, Lorant
+TI Two-Echelon Pickup and Delivery Problem Using Public Transport in City
+   Logistics
+SO JOURNAL OF ADVANCED TRANSPORTATION
+LA English
+DT Article
+ID VEHICLE-ROUTING PROBLEM; TIME WINDOWS; FREIGHT TRANSPORT; PASSENGER;
+   SYSTEM
+AB The rapid increase in e-commerce and the emergence of combined passenger/freight systems in urban areas have raised the question of how best to integrate public transport services into door-to-door deliveries. This paper develops a variant of the pickup and delivery problem, called the two-echelon pickup and delivery problem using public transport (2E-PDP-PT). In the 2E-PDP-PT, the transportation network is split into two echelons. Different vehicles are utilized across the first and second echelons to ensure distribution efficiency. Parcels are delivered by public transport with free capacity or via trucks between satellites in the first echelon, and logistics vehicles are operated in the second echelon. The satellites are located at the echelon borders to transfer commodities between echelons. The 2E-PDP-PT aims to minimize total delivery costs and improve public transport capacity utilization. We formulate a new mathematical model based on a space-time network and adopt an adaptive large neighborhood search (ALNS) algorithm for the 2E-PDP-PT. The effectiveness of the ALNS algorithm is validated using newly generated small-scale instances. Furthermore, we investigate large-scale instances based on the Beijing Yizhuang transportation network. The computations show that an average total delivery cost savings of 4.5% is feasible. In addition, we analyze the impact of demand distributions and compare the ALNS algorithm and the LNS algorithm. Finally, we conclude that dynamically integrating public transport into freight transport services can benefit both logistics companies and public transport operators.
+C1 [Wang, Shuai; Zhu, Xiaoning; Shang, Pan; Liu, Wenqian] Beijing Jiaotong Univ, Sch Traff & Transportat, Beijing 100044, Peoples R China.
+   [Lin, Xiao; Tavasszy, Lorant] Delft Univ Technol, Dept Transport & Planning, Stevinweg 1, Delft, Netherlands.
+C3 Beijing Jiaotong University; Delft University of Technology
+RP Shang, P (corresponding author), Beijing Jiaotong Univ, Sch Traff & Transportat, Beijing 100044, Peoples R China.
+EM 19114054@bjtu.edu.cn; xnzhu@bjtu.edu.cn; shangpan@bjtu.edu.cn;
+   19114044@bjtu.edu.cn; ssfielx@gmail.com; l.a.tavasszy@tudelft.nl
+RI WANG, SHUAI/LBC-7636-2024; Liu, Wenqian/GXH-6534-2022
+OI Tavasszy, Lorant/0000-0002-5164-2164; 刘, 文茜/0000-0002-3296-1071; Shang,
+   Pan/0000-0003-1715-456X
+FU National Natural Science Foundation of China [U2034208]; Joint Funds of
+   the National Natural Science Foundation of China
+FX This work was supported by the Joint Funds of the National Natural
+   Science Foundation of China (no. U2034208).
+NR 52
+TC 0
+Z9 0
+U1 6
+U2 34
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0197-6729
+EI 2042-3195
+J9 J ADV TRANSPORT
+JI J. Adv. Transp.
+PD AUG 9
+PY 2024
+VL 2024
+AR 1203246
+DI 10.1155/2024/1203246
+PG 22
+WC Engineering, Civil; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Transportation
+GA C9S0E
+UT WOS:001292673700002
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Bolshakov, N
+   Celani, A
+   Badenko, V
+   Benedicto, RM
+AF Bolshakov, Nikolai
+   Celani, Alberto
+   Badenko, Vladimir
+   Benedicto, Rafael Magdalena
+TI Factories of the Future in Digitization of Industrial Urban Areas
+SO URBAN SCIENCE
+LA English
+DT Article
+DE industrial areas; building information modelling; factory of the future;
+   industrial facilities; digital twin; facility management
+ID BIM
+AB This paper delves into the integration of Factories of the Future (FoF) and digital twin technologies within urban contexts, marking a significant leap in Smart Cities development. We present a thorough exploration of the principles and a scientifically grounded framework designed for seamlessly blending advanced manufacturing systems with the urban environment's digital and physical aspects. Our detailed analysis has identified core principles crucial for this integration, focusing on interoperability, sustainability, adaptability, stakeholder collaboration, and strong data governance. We propose a structured framework that puts these principles into action, outlining strategic routes for incorporating digital twin and Building Information Modeling (BIM) technologies into FoF, establishing public-private partnerships, enhancing education and workforce development, and setting up mechanisms for ongoing evaluation and enhancement. The potential of this integration to transform urban development is vast, providing a model for boosting operational efficiency, driving economic growth, and enhancing urban livability. Although challenges exist in realizing this vision, our research offers practical insights and strategies for cities and industries to effectively navigate the complexities of the digital era. This contribution enriches the growing field of urban science, advocating for a harmonious integration of industrial production with urban development in the Smart Cities framework.
+C1 [Bolshakov, Nikolai; Badenko, Vladimir] Peter Great St Petersburg Polytech Univ, Civil Engn Inst, St Petersburg 195251, Russia.
+   [Celani, Alberto] Politecn Milan, ABC Dept, I-20133 Milan, Italy.
+   [Benedicto, Rafael Magdalena] Univ Valencia, Escola Tecn Super Engn ETSE UV, Valencia 46010, Spain.
+C3 Peter the Great St. Petersburg Polytechnic University; Polytechnic
+   University of Milan; University of Valencia
+RP Celani, A (corresponding author), Politecn Milan, ABC Dept, I-20133 Milan, Italy.
+EM nikolaybolshakov7@gmail.com; alberto.celani@polimi.it;
+   badenko_vl@spbstu.ru; rafael.magdalena@uv.es
+RI ; celani, alberto/AAC-1808-2021; Bolshakov, Nikolai/V-3107-2019;
+   Badenko, Vladimir/AAD-1189-2020; Magdalena, Rafael/I-7969-2012; Badenko,
+   Vladimir/A-5719-2014
+OI CELANI, ALBERTO/0000-0002-5980-958X; Magdalena,
+   Rafael/0000-0003-3752-8231; Badenko, Vladimir/0000-0002-3054-1786
+FU Ministry of Science and Higher Education of the Russian Federation
+   [075-15-2022-311]
+FX The research is partially funded by the Ministry of Science and Higher
+   Education of the Russian Federation as part of the World-class Research
+   Center program: Advanced Digital Technologies (contract No.
+   075-15-2022-311 dated 20 April 2022).
+NR 44
+TC 1
+Z9 1
+U1 1
+U2 8
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2413-8851
+J9 URBAN SCI
+JI Urban Sci.
+PD JUN
+PY 2024
+VL 8
+IS 2
+AR 66
+DI 10.3390/urbansci8020066
+PG 15
+WC Environmental Sciences; Environmental Studies; Geography; Regional &
+   Urban Planning; Urban Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Environmental Sciences & Ecology; Geography; Public Administration;
+   Urban Studies
+GA WO1K1
+UT WOS:001255724500001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Zhang, X
+   Kamali, M
+AF Zhang, Xi
+   Kamali, Mohammadreza
+TI Guest Editorial Water Supply and Wastewater Management in Modern and
+   Smart Cities
+SO JOURNAL OF SETTLEMENTS AND SPATIAL PLANNING
+LA English
+DT Editorial Material
+DE water supply; wastewater treatment; sustainability; modern and smart
+   cities
+AB Water is the basis of modern societies. However, population growth and rapid urbanization on the one hand, and anthropogenic activities, on the other hand, have considerably contributed to the scarcity of clean water resources. Hence, modern and smart cities have to develop sustainable tools and technologies for providing clean water resources and treat the generated effluents from the various industrial and non-industrial origins to satisfy the sustainability and circular economy goals. In this regard, a wide range of interdisciplinary knowledge is needed to investigate various aspects including site selection and designing modern (waste)water treatment facilities. Therefore, studies are welcome to design modern and smart cities or to modify the conventional infrastructures in the existing urban areas.
+C1 [Zhang, Xi; Kamali, Mohammadreza] Katholieke Univ Leuven, Dept Chem Engn, Proc & Environm Technol Lab, St Katelijne Waver, Belgium.
+C3 KU Leuven
+RP Kamali, M (corresponding author), Katholieke Univ Leuven, Dept Chem Engn, Proc & Environm Technol Lab, St Katelijne Waver, Belgium.
+EM xi.zhang@kuleuven.be; mohammadreza.kamali@kuleuven.be
+RI ; Zhang, Xi/ADB-8318-2022; Kamali, Mohammadreza/AAG-1476-2020
+OI Zhang, Xi/0000-0001-9519-2567; Kamali, Mohammaeza/0000-0002-1591-9605; 
+FX I would like to thank the editorial team of the Journal of Settlements
+   and Spatial Planning, especially Vasile Zotic and Diana-Elena Alexandru,
+   for their support in conveying this issue. Furthermore, we are grateful
+   to the reviewers who made great efforts in evaluating the manuscripts
+   submitted.
+NR 12
+TC 0
+Z9 0
+U1 1
+U2 2
+PU CLUJ UNIV PRESS
+PI CLUJ NAPOCA
+PA STRADA B P HASDEU NR 51, CLUJ NAPOCA, 400371, ROMANIA
+SN 2069-3419
+EI 2248-2199
+J9 J SETTL SPAT PLAN
+JI J. Settl. Spat. Plan.
+PY 2024
+VL 15
+IS 1
+BP 1
+EP 3
+DI 10.24193/JSSPSI.01.WSWMMSS
+PG 3
+WC Geography
+WE Emerging Sources Citation Index (ESCI)
+SC Geography
+GA D1P8E
+UT WOS:001293984100001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Mukherjee, A
+   Vohnout, R
+   Gandomi, AH
+AF Mukherjee, Amrit
+   Vohnout, Rudolf
+   Gandomi, Amir H.
+TI Guest Editorial Split Learning in Consumer Electronics for Smart Cities:
+   Theories, Tools, Applications and Challenges
+SO IEEE TRANSACTIONS ON CONSUMER ELECTRONICS
+LA English
+DT Article
+DE Industries; Training; Smart cities; Data security; Transportation;
+   Medical services; User experience; Threat assessment; Internet of
+   Things; Consumer electronics; Split learning; consumer electronics;
+   artificial intelligence; smart cities
+AB In the present fast-moving society, the Internet of Things (IoT) is transforming the way services are used in different industries. While it has many benefits, there are also considerable obstacles, especially in the areas of computing power, safety, and handling data. With the continuous evolution and importance of consumer electronics (CE) in smart cities, there is an increasing demand for sustainable and effective solutions to deal with challenges such as widespread sensing, advanced computing, prediction, monitoring, and data sharing. The artificial intelligence (AI) has emerged as a crucial component in the IoT environment, highlighting the need for energy-efficient CE in urban areas. The state of art methods are required to maximize resource usage and maintain high-quality services for smart systems in healthcare, transportation, AI-powered sensing (AIeS), and sustainable networks. The split learning is a technique for distributed deep learning, shows great potential as a solution for these CE applications. It can greatly reduce numerous obstacles linked with intelligent services in smart cities. The split learning enables the training of deep neural networks or split neural networks (SplitNN) using AIeS on various data sources. This method enables the secure and efficient processing of data without the requirement of directly sharing raw labeled data, which is crucial in industries like healthcare, finance, security, and surveillance where data privacy and security are vital. This guest editorial discusses and presents split learning methods in CE applications for smart cities. Using split learning, researchers and developers can develop creative solutions to address resource efficiency, data security, and service quality issues across different smart city sectors as presented further. As the IoT grows and changes, incorporating split learning into CE applications influences the platform for future smart cities.
+C1 [Mukherjee, Amrit; Vohnout, Rudolf] Univ South Bohemia, Dept Comp Sci, Ceske Budejovice 37005, Czech Republic.
+   [Mukherjee, Amrit; Vohnout, Rudolf] Univ South Bohemia, Fac Sci, Ceske Budejovice 37005, Czech Republic.
+   [Gandomi, Amir H.] Univ Technol Sydney, Fac Engn & Informat Technol, Sydney, NSW 2007, Australia.
+C3 University of South Bohemia Ceske Budejovice; University of South
+   Bohemia Ceske Budejovice; University of Technology Sydney
+RP Mukherjee, A (corresponding author), Univ South Bohemia, Dept Comp Sci, Ceske Budejovice 37005, Czech Republic.; Mukherjee, A (corresponding author), Univ South Bohemia, Fac Sci, Ceske Budejovice 37005, Czech Republic.
+EM amukherjee@jcu.cz; rvohnout@jcu.cz; amirhossein.Gandomi@uts.edu.au
+RI Gandomi, Amir/J-7595-2013; Gandomi, Amir H/J-7595-2013; Vohnout,
+   Rudolf/C-9039-2013; Mukherjee, Amrit/Q-3174-2016
+OI Gandomi, Amir H/0000-0002-2798-0104; Vohnout,
+   Rudolf/0000-0002-6809-7377; Mukherjee, Amrit/0000-0002-6714-5568
+NR 5
+TC 0
+Z9 0
+U1 1
+U2 2
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0098-3063
+EI 1558-4127
+J9 IEEE T CONSUM ELECTR
+JI IEEE Trans. Consum. Electron.
+PD AUG
+PY 2024
+VL 70
+IS 3
+BP 5814
+EP 5817
+DI 10.1109/TCE.2024.3422617
+PG 4
+WC Engineering, Electrical & Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Telecommunications
+GA P5D9J
+UT WOS:001378122400021
+DA 2025-11-25
+ER
+
+PT C
+AU Petri, M
+   Chomiak, I
+AF Petri, Michal
+   Chomiak, Iwona
+BE Biecek, P
+   Nowaczyk, S
+   Chung, NC
+   Vallati, M
+   Skruch, P
+   Jaworek-Korjakowska, J
+   Parkinson, S
+   Nikitas, A
+   Atzmuller, M
+   Kliegr, T
+   Schmid, U
+   Bobek, S
+   Lavrac, N
+   Peeters, M
+   VanDierendonck, R
+   Robben, S
+   Mercier-Laurent, E
+   Kayakutlu, G
+   Owoc, ML
+   Mason, K
+   Wahid, A
+   Bruno, P
+   Calimeri, F
+   Cauteruccio, F
+   Terracina, G
+   Wolter, D
+   Leidner, JL
+   Kohlhase, M
+   Dimitrova, V
+TI Towards a Sustainable Future: The Use of Electrical Energy in Smart
+   Cities
+SO ARTIFICIAL INTELLIGENCE-ECAI 2023 INTERNATIONAL WORKSHOPS, PT 2, XAI3,
+   TACTIFUL, XI-ML, SEDAMI, RAAIT, AI4S, HYDRA, AI4AI, 2023
+SE Communications in Computer and Information Science
+LA English
+DT Proceedings Paper
+CT 26th European Conference on Artificial Intelligence (ECAI)
+CY SEP 30-OCT 04, 2023
+CL Krakow, POLAND
+DE Smart cities; Smart grids; Energy management; Internet of Things;
+   Innovations; Information and communication technologies; Electricity
+AB An intelligent city is a center that effectively manages its resources to ensure a high standard of living for its residents while maintaining ecological awareness. The effective management of energy poses a significant problem in major urban areas, mostly attributable to the intricate nature and criticality of energy networks. Intelligent energy management in residential structures is crucial to smart city efficiency. Energy management involves demand management, peak load reduction, and carbon dioxide emission reduction. Risk management, efficiency, and sustainable development are integral elements of every energy management strategy in smart cities. Risk elimination, effectiveness, and environmentally friendly growth are fundamental components that form an essential part of energy management strategies in smart cities. They are an indispensable condition for the transformation from the traditional model based on conventional sources to a more sustainable system using renewable energy. The article is a literature review presenting the role of smart grids in creating smart cities.
+C1 [Petri, Michal; Chomiak, Iwona] Wroclaw Univ Econ & Business, PL-53345 Wroclaw, Poland.
+C3 Wroclaw University of Economics & Business
+RP Chomiak, I (corresponding author), Wroclaw Univ Econ & Business, PL-53345 Wroclaw, Poland.
+EM iwano.chomak-orsa@ue.wroc.pl
+RI Chomiak-Orsa, Iwona/U-7668-2018
+OI Chomiak-Orsa, Iwona/0000-0003-3550-8624; Petri,
+   Michal/0009-0002-8160-9979
+NR 17
+TC 0
+Z9 1
+U1 0
+U2 2
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1865-0929
+EI 1865-0937
+BN 978-3-031-50484-6; 978-3-031-50485-3
+J9 COMM COM INF SC
+PY 2024
+VL 1948
+BP 216
+EP 222
+DI 10.1007/978-3-031-50485-3_22
+PG 7
+WC Computer Science, Artificial Intelligence
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BX2FG
+UT WOS:001259355800022
+DA 2025-11-25
+ER
+
+PT C
+AU Guhathakurta, S
+AF Guhathakurta, Subhrajit
+BE Andris, C
+   Bouros, P
+   Kanza, Y
+   Renz, M
+   Sacharidis, D
+TI Beyond Smart Cities: The Role of Technology in Resilient Urban Futures
+SO PROCEEDINGS OF THE 8TH ACM SIGSPATIAL INTERNATIONAL WORKSHOP ON
+   LOCATION-BASED RECOMMENDATIONS, GEOSOCIAL NETWORKS AND GEOADVERTISING,
+   LOCALREC 2024
+LA English
+DT Proceedings Paper
+CT 8th International Workshop on Location Based Recommendations Geosocial
+   Networks and Geoadvertising-LOCALREC
+CY OCT 29-NOV 01, 2024
+CL Atlanta, GA
+SP Apple Inc, Oracle Corp, Esri Co Ltd, Quantum Geometry LLC, Google Incorporated, Springer New Zealand
+DE smart city; urban technology; resilience; urban futures
+ID PERCEIVED NEIGHBORHOOD ENVIRONMENT; WALKING
+AB A smart city is a term commonly used to describe iconic and often futuristic urban areas that utilize advanced information and communication technologies to ensure sustainable management of the city's infrastructure and services. However, an important question often overlooked is whether "smart" cities can also enhance human aspirations and creativity. The evolution of cities over the past five thousand years sheds light on the key factors that make a city vibrant, creative, beautiful, just, and inspiring. City planning has been a profession for more than a century, and while technology can significantly contribute to effective city management, it alone is not enough to ensure a high quality of life. A city encompasses much more than its technological aspects; its character is shaped by history, culture, and the unique social practices that separate one city from another. This talk will examine the role of technology in effective city management while acknowledging its limitations. It will also showcase some of our research that makes cities smarter and more resilient.
+C1 [Guhathakurta, Subhrajit] Georgia Tech, Atlanta, GA 30332 USA.
+C3 University System of Georgia; Georgia Institute of Technology
+RP Guhathakurta, S (corresponding author), Georgia Tech, Atlanta, GA 30332 USA.
+EM subhro.guha@design.gatech.edu
+RI Guhathakurta, Subhrajit/L-4568-2019
+OI Guhathakurta, Subhrajit/0000-0002-2456-3284
+NR 9
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY, UNITED STATES
+BN 979-8-4007-1152-7
+PY 2024
+BP 1
+EP 4
+DI 10.1145/3681773.3701010
+PG 4
+WC Computer Science, Information Systems; Computer Science,
+   Interdisciplinary Applications; Geography; Geography, Physical
+WE Conference Proceedings Citation Index - Science (CPCI-S); Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Computer Science; Geography; Physical Geography
+GA BY6DU
+UT WOS:001476916400001
+DA 2025-11-25
+ER
+
+PT J
+AU Masoumi, Z
+   van Genderen, J
+AF Masoumi, Zohreh
+   van Genderen, John
+TI Artificial intelligence for sustainable development of smart cities and
+   urban land-use management
+SO GEO-SPATIAL INFORMATION SCIENCE
+LA English
+DT Article
+DE Urban land-use management; geo-spatial information sciences;
+   multi-objective optimization algorithm; smart cities; artificial
+   intelligence
+ID PARTICLE SWARM OPTIMIZATION; GENETIC ALGORITHM; SPATIAL OPTIMIZATION;
+   ALLOCATION
+AB The urban land-use allocation problem is a spatial optimization problem that allocates optimum land-uses to specific land units in urban areas. This problem is an NP (nondeterministic polynomial time)-hard problem because of involving many objective functions, many constraints, and complex search space. Moreover, this subject is an important issue in smart cities and newly developed areas of cities to achieve a sustainable arrangement of land-uses. Different types ofMulti-Objective Optimization Algorithms (MOOAs) based on Artificial Intelligence (AI) have been frequently employed, but their ability and performance have not been evaluated and compared properly. This paper aims to employ and compare three commonly used MOOAs i.e. NSGA-II, MOPSO, and MOEA/D in urban land-use allocation problems. Selected algorithms belong to different categories of MOOAs family to investigate their advantage and disadvantages. The objective functions of this study are compatibility, dependency, suitability, and compactness of land-uses and the constraint is compensating of Per-Capita demand in the urban environment. Evaluation of results is based on the dispersion of the solutions, diversity of the solutions' space, and comparing the number of dominant solutions in Pareto-Fronts. The results showed that all three algorithms improved the objective functions related to the current arrangement of the land-uses. However, the run time of NSGA-II is the worst, related to the Diversity Metric (DM) which represents the regularity of the distance between solutions at the highest degree. Moreover, MOPSO provides the best Scattering Diversity Metric (SDM) which shows the diversity of solutions in the solution space. Furthermore, In terms of algorithm execution time, MOEA/D performed better than the other two. So, Decision-makers should consider different aspects in choosing the appropriate MOOA for land-use management problems.
+C1 [Masoumi, Zohreh] Inst Adv Studies Basic Sci IASBS, Dept Earth Sci, Zanjan, Iran.
+   [Masoumi, Zohreh] Inst Adv Studies Basic Sci IASBS, Ctr Res Climate Change & Global Warming CRCC, Zanjan, Iran.
+   [van Genderen, John] Univ Twente, Fac Geoinformat Sci & Earth Observat ITC, Dept Earth Observat Sci, Enschede, Netherlands.
+C3 Institute for Advanced Studies in Basic Sciences (IASBS); Institute for
+   Advanced Studies in Basic Sciences (IASBS); University of Twente
+RP Masoumi, Z (corresponding author), Inst Adv Studies Basic Sci IASBS, Dept Earth Sci, Zanjan, Iran.; Masoumi, Z (corresponding author), Inst Adv Studies Basic Sci IASBS, Ctr Res Climate Change & Global Warming CRCC, Zanjan, Iran.
+EM z.masoumi@iasbs.ac.ir
+RI Masoumi, Zohreh/AAA-7448-2022
+OI Masoumi, Zohreh/0000-0001-6875-8748
+NR 61
+TC 26
+Z9 28
+U1 11
+U2 81
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1009-5020
+EI 1993-5153
+J9 GEO-SPAT INF SCI
+JI Geo-Spat. Inf. Sci.
+PD JUL 3
+PY 2024
+VL 27
+IS 4
+BP 1212
+EP 1236
+DI 10.1080/10095020.2023.2184729
+EA APR 2023
+PG 25
+WC Remote Sensing
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Remote Sensing
+GA F6H0D
+UT WOS:000972793300001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Mavlutova, I
+   Atstaja, D
+   Grasis, J
+   Kuzmina, J
+   Uvarova, I
+   Roga, D
+AF Mavlutova, Inese
+   Atstaja, Dzintra
+   Grasis, Janis
+   Kuzmina, Jekaterina
+   Uvarova, Inga
+   Roga, Dagnija
+TI Urban Transportation Concept and Sustainable Urban Mobility in Smart
+   Cities: A Review
+SO ENERGIES
+LA English
+DT Review
+DE urban transportation concept; sustainable urban mobility; individual
+   transport vehicles; smart mobility; car sharing; urban transportation
+   models; low carbon transport means
+ID VEHICLE; SYSTEMS; OPTIMIZATION; CITY
+AB In order to create a sustainable future for the urban environment in s=Smart cities, it is necessary to develop a concept of urban transport, partially reduce the use of traditional transport, primarily cars, as well as the environmental pressure on society, which is essential to move to a sustainable urban future. In the latest discussions on the future of the urban transport system, the quality of the environment, and the possibility of its improvement are discussed, this issue became especially relevant with the onset of the pandemic, when the lockdowns were introduced. The problem of sustainable transport in urban areas has been recognized in academic studies, searching for appropriate models and solutions. The article presents the latest literature review and illustrates the newest trends with several examples. VOS Viewer software has been used to classify the different keywords, according to their co-citation, following clustering techniques. By analyzing the research conducted by other researchers, it has been possible to structure the ecosystem and trends in the Urban Transportation Concept, also mentioning likely future trends. Based on the literature analysis of the Sustainable Urban Transport, the authors of the study found that a large group of researchers deal with technical solutions and innovative business models, while the essential behavioral aspects are examined in less detail. Extensive literature analysis allowed the authors to select several solutions to achieve the transformation towards sustainable transportation in urban areas: new vehicle technologies and their environmental factors' analysis, geographic information systems, the analytic hierarchy process method, the time series analysis of road traffic accidents using multiplicative models, electrification and use of Friedman Analysis of Variance by Ranks, as well as innovations in sharing mobility.
+C1 [Mavlutova, Inese; Kuzmina, Jekaterina] BA Sch Business & Finance, Dept Econ & Finance, Kr Valdemara 161, LV-1013 Riga, Latvia.
+   [Atstaja, Dzintra; Uvarova, Inga; Roga, Dagnija] BA Sch Business & Finance, Management Dept, Kr Valdemara 161, LV-1013 Riga, Latvia.
+   [Atstaja, Dzintra; Grasis, Janis] Riga Stradins Univ, Fac Law, Dzirciema 16, LV-1007 Riga, Latvia.
+C3 Riga Stradins University
+RP Mavlutova, I (corresponding author), BA Sch Business & Finance, Dept Econ & Finance, Kr Valdemara 161, LV-1013 Riga, Latvia.
+EM inese.mavlutova@ba.lv; janis.grasis@rsu.lv; jekaterina.kuzmina@ba.lv
+RI ; Kuzmina, Jekaterina/KHX-9966-2024; ATSTAJA, Dzintra/A-6576-2010;
+   Mavlutova, Inese/AAY-5805-2020; Uvarova, Inga/GQQ-0536-2022
+OI Mavlutova, Inese/0000-0002-3245-9540; Atstaja,
+   Dzintra/0000-0002-9411-7212; Uvarova, Inga/0000-0002-2403-3814; 
+FU Dzintra Atstaja and Fundamentally applied research project "Quadruple
+   Helix Concept as base of the next generation PPP model"
+   [lzp-2020/1-0062]
+FX Dzintra Atstaja and Fundamentally applied research project "Quadruple
+   Helix Concept as base of the next generation PPP model"
+   (No.lzp-2020/1-0062).
+NR 116
+TC 22
+Z9 29
+U1 8
+U2 70
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD APR
+PY 2023
+VL 16
+IS 8
+AR 3585
+DI 10.3390/en16083585
+PG 16
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA E9YU6
+UT WOS:000979018000001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU dos Santos, MJPL
+AF Palma Lampreia dos Santos, Maria Jose
+TI Smart cities and urban areas-Aquaponics as innovative urban agriculture
+SO URBAN FORESTRY & URBAN GREENING
+LA English
+DT Article
+DE Data envelopment analysis; Efficiency; Smart sustainability; Typologies
+   of aquaponics; Urban innovative agriculture
+ID PLANNED BEHAVIOR; SEGMENTING FARMS; EFFICIENCY; INTENTION; CONSUMPTION;
+   TYPOLOGIES; MANAGEMENT; ATTITUDES; POLICY; REGION
+AB Aquaponics is an innovative smart and sustainable production system for integrating aquaculture with hydroponic vegetable crops, that can play a crucial role in the future of environmental and socio-economic sustainability in smart cities. These cities aim mobilize all knowledge centers and Information and Communication Technologies (ICT) into innovation hubs in order to strengthen the socio-economic progress.
+   Nowadays the production, transport and logistics of food requires high costs and transport and harvest from other parts of the planet to the cities, associated to intensive polluting technologies. Aquaponics can play a key role enabling local production, fresh, free of pesticides and healthy with short supply chains in the cities.
+   Despite the technical developments in aquaponics there is still no integrated approach to analyze their potential as urban agriculture. This paper aims to contextualize the aquaponics as urban farming and analyze the necessary developments in that field, namely, the need of an integrated approach from producers to consumers on smart cities.
+   So, this paper analyzes the importance of Theory of Planned Behavior on aquaponics stakeholder's decision making process and the efficiency analysis in aquaponics systems by parametric (Data Envelopment Analysis), and non-parametric methods (stochastic frontier production) as an integrated and innovative approach. (C) 2016 Elsevier GmbH. All rights reserved.
+C1 [Palma Lampreia dos Santos, Maria Jose] Univ Lisbon, Sch Commun & Media Studies, ESCS, IPL, Campus Benfica IPL, P-1549014 Lisbon, Portugal.
+   [Palma Lampreia dos Santos, Maria Jose] Univ Lisbon, Sch Commun & Media Studies, ISCTE, CET, Campus Benfica IPL, P-1549014 Lisbon, Portugal.
+C3 Polytechnic Institute of Lisbon; Universidade de Lisboa; Instituto
+   Universitario de Lisboa; Universidade de Lisboa
+RP dos Santos, MJPL (corresponding author), Univ Lisbon, Sch Commun & Media Studies, ESCS, IPL, Campus Benfica IPL, P-1549014 Lisbon, Portugal.; dos Santos, MJPL (corresponding author), Univ Lisbon, Sch Commun & Media Studies, ISCTE, CET, Campus Benfica IPL, P-1549014 Lisbon, Portugal.
+EM mjpls@iscte.pt
+RI Dos-Santos, Maria/I-6292-2019
+OI Dos-Santos, Maria/0000-0002-1992-0419
+NR 55
+TC 77
+Z9 86
+U1 3
+U2 233
+PU ELSEVIER GMBH
+PI MUNICH
+PA HACKERBRUCKE 6, 80335 MUNICH, GERMANY
+SN 1618-8667
+J9 URBAN FOR URBAN GREE
+JI Urban For. Urban Green.
+PD DEC 1
+PY 2016
+VL 20
+BP 402
+EP 406
+DI 10.1016/j.ufug.2016.10.004
+PG 5
+WC Plant Sciences; Environmental Studies; Forestry; Urban Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry; Urban
+   Studies
+GA EH0RI
+UT WOS:000391471000044
+DA 2025-11-25
+ER
+
+PT J
+AU Fatorachian, H
+   Kazemi, H
+   Pawar, K
+AF Fatorachian, Hajar
+   Kazemi, Hadi
+   Pawar, Kulwant
+TI Enhancing Smart City Logistics Through IoT-Enabled Predictive Analytics:
+   A Digital Twin and Cybernetic Feedback Approach
+SO SMART CITIES
+LA English
+DT Article
+DE predictive analytics; digital twin technology; IoT in logistics; supply
+   chain adaptability; machine learning
+ID BIG DATA; CITIES
+AB Highlights What are the main findings? Integrating digital twins, AI, and IoT enables real-time, adaptive logistics that improve delivery accuracy and reduce congestion.AI Predictive Models boost delivery accuracy and reduce urban congestion. Cybernetic feedback loops support self-regulating logistics systems that optimise routes and minimise environmental impact. What is the implication of the main finding? IoT-enabled predictive analytics integrated with digital twins and cybernetic feedback loops can significantly improve the responsiveness, efficiency, and sustainability of smart city logistics. The proposed framework enables adaptive, real-time optimisation of last-mile deliveries, helping logistics managers and city planners reduce congestion and environmental impact in urban freight operations.Highlights What are the main findings? Integrating digital twins, AI, and IoT enables real-time, adaptive logistics that improve delivery accuracy and reduce congestion.AI Predictive Models boost delivery accuracy and reduce urban congestion. Cybernetic feedback loops support self-regulating logistics systems that optimise routes and minimise environmental impact. What is the implication of the main finding? IoT-enabled predictive analytics integrated with digital twins and cybernetic feedback loops can significantly improve the responsiveness, efficiency, and sustainability of smart city logistics. The proposed framework enables adaptive, real-time optimisation of last-mile deliveries, helping logistics managers and city planners reduce congestion and environmental impact in urban freight operations.Abstract The increasing complexity of urban logistics in smart cities requires innovative solutions that leverage real-time data, predictive analytics, and adaptive learning to enhance efficiency. This study presents a predictive analytics framework integrating digital twin technology, IoT-enabled logistics data, and cybernetic feedback loops to improve last-mile delivery accuracy, congestion management, and sustainability in smart cities. Grounded in Systems Theory and Cybernetic Theory, the framework models urban logistics as an interconnected network, where real-time IoT data enable dynamic routing, demand forecasting, and self-regulating logistics operations. By incorporating machine learning-driven predictive analytics, the study demonstrates how AI-powered logistics optimization can enhance urban freight mobility. The cybernetic feedback mechanism further improves adaptive decision-making and operational resilience, allowing logistics networks to respond dynamically to changing urban conditions. The findings provide valuable insights for logistics managers, smart city policymakers, and urban planners, highlighting how AI-driven logistics strategies can reduce congestion, enhance sustainability, and optimize delivery performance. The study also contributes to logistics and smart city research by integrating digital twins with adaptive analytics, addressing gaps in dynamic, feedback-driven logistics models.
+C1 [Fatorachian, Hajar; Kazemi, Hadi] Leeds Beckett Univ, Leeds Business Sch, Leeds LS1 3HB, England.
+   [Pawar, Kulwant] Univ Nottingham, Nottingham Univ, Business Sch, Nottingham NG8 1BB, England.
+C3 Leeds Beckett University; University of Nottingham
+RP Fatorachian, H (corresponding author), Leeds Beckett Univ, Leeds Business Sch, Leeds LS1 3HB, England.
+EM h.fatorachian@leedsbeckett.ac.uk; hadikzm@gmail.com;
+   kul.pawar@nottingham.ac.uk
+RI Pawar, Kulwant/AAL-5027-2021
+OI Kazemi, Hadi/0000-0001-5982-2605; Pawar, Kulwant/0000-0001-8830-1024;
+   Fatorachian, Hajar/0000-0002-2569-7882
+NR 26
+TC 2
+Z9 3
+U1 16
+U2 17
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2624-6511
+J9 SMART CITIES-BASEL
+JI Smart Cities
+PD MAR 26
+PY 2025
+VL 8
+IS 2
+AR 56
+DI 10.3390/smartcities8020056
+PG 22
+WC Engineering, Electrical & Electronic; Urban Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Engineering; Urban Studies
+GA 1XF7K
+UT WOS:001475808600001
+OA Green Accepted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Özer, NC
+   Tuzkaya, UR
+AF Ozer, N. Ceyda
+   Tuzkaya, U. Rifat
+TI A methodology for the strategic design of city logistics networks and
+   its application in Turkish automotive spare parts industry
+SO JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
+LA English
+DT Article
+DE Fuzzy Choquet integral; electric vehicles; multi-criteria decision
+   making; city logistics; mathematical modeling
+ID SUPPLY CHAIN NETWORK; INTEGRATED PRODUCTION; FREIGHT TRANSPORT;
+   FRAMEWORK; SELECTION; MODEL
+AB City logistics approaches and modeling struggles have a significant role in urban areas in increasing the efficiency of logistics operations and reducing traffic jams and their environmental effects. By developing an effective distribution network for cities, it is possible to compete with the changing world and satisfy flexible customer requirements. In this study, as a real-world case, a city logistics model for Istanbul metropolitan area is designed using multi-objective linear programming that considers the different objectives of the stakeholders in cities by integrating the fuzzy Choquet integral technique in a multi-level distribution network for the automotive spare part industry. This paper makes decisions regarding the amount of product flowing among the echelons, the amount of stock to be kept in the warehouses, and the product delays allowed. While minimizing the transportation cost, holding cost and emission levels during these decisions, the study also aims to maximize the service quality in the warehouses. The model is applied to a logistics network of fifty demand points and thirty time periods which can be considered a middle or large-scale problem. In the model, it is also decided to transport the products with electric or fuel vehicles. In the transport sector, electric vehicles are the key to meet future needs for social, health and other human services. The results are discussed under different scenarios. This research allows the use of such a model in making strategic decisions for the distribution network design in big cities.
+C1 [Ozer, N. Ceyda; Tuzkaya, U. Rifat] Yildiz Tech Univ, Dept Ind Engn, Barbaros Blvd, Istanbul, Turkiye.
+C3 Yildiz Technical University
+RP Özer, NC (corresponding author), Yildiz Tech Univ, Dept Ind Engn, Barbaros Blvd, TR-34349 Istanbul, Turkiye.
+EM nilozer4@hotmail.com
+RI tuzkaya, umut/AAY-2553-2020
+NR 36
+TC 0
+Z9 0
+U1 0
+U2 10
+PU IOS PRESS
+PI AMSTERDAM
+PA NIEUWE HEMWEG 6B, 1013 BG AMSTERDAM, NETHERLANDS
+SN 1064-1246
+EI 1875-8967
+J9 J INTELL FUZZY SYST
+JI J. Intell. Fuzzy Syst.
+PY 2023
+VL 45
+IS 2
+BP 2735
+EP 2752
+DI 10.3233/JIFS-223282
+PG 18
+WC Computer Science, Artificial Intelligence
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA O7HK6
+UT WOS:001045474700059
+DA 2025-11-25
+ER
+
+PT J
+AU Tumminello, ML
+   Macioszek, E
+   Granà, A
+   Giuffrè, T
+AF Tumminello, Maria Luisa
+   Macioszek, Elzbieta
+   Grana, Anna
+   Giuffre, Tullio
+TI Evaluating Traffic-Calming-Based Urban Road Design Solutions Featuring
+   Cooperative Driving Technologies in Energy Efficiency Transition for
+   Smart Cities
+SO ENERGIES
+LA English
+DT Article
+DE traffic-calming measures; connected and autonomous vehicles;
+   roundabouts; limited traffic zone; Aimsun Next; urban metabolism; energy
+   efficiency; surrogate measures of safety; smart cities
+ID SCHEMES; MICROSIMULATION; SIMULATOR; IMPACT
+AB Traffic-calming measures (TCMs) are non-invasive devices designed to improve road mobility and urban areas on a human scale. Despite their potential, they have been in use for a long time and now have to deal with the latest technological innovations in the automotive field, such as cooperative driving technologies (CDTs), to improve energy efficiency in cities. The goal of this study is to explore the safety and operational performances of TCMs featuring CDTs in urban areas. An urban-scale road network close to a seaside area in the City of Mazara del Vallo, Italy, was properly redesigned and simulated in AIMSUN to assess several design solutions, where connected and automated vehicles (CAVs) have been employed as a more energy-efficient public transportation system. Preliminarily, the fine-tuning process of model parameters included CAVs and human-operated vehicles (HOVs) flowing through the network up to saturation conditions. The safety of the planned solutions was tested by using surrogate measures. The micro-simulation approach allowed us to know in advance and compare the operational and safety performances of environmentally friendly solutions involving TCMs and CDTs. These results can also support urban road decision makers in pivoting urban-traffic-calming-based design solutions featuring cooperative driving technologies toward energy efficiency transitions for smart cities.
+C1 [Tumminello, Maria Luisa; Grana, Anna] Univ Palermo, Dept Engn, Viale Sci 8, I-90128 Palermo, Italy.
+   [Macioszek, Elzbieta] Silesian Tech Univ, Fac Transport & Aviat Engn, Dept Transport Syst Traff Engn & Logist, Krasinskiego 8 St, PL-40019 Katowice, Poland.
+   [Grana, Anna] Ctr Nazl Mobil Sostenibile CNMS, Sustainable Mobil Ctr, Via Giovanni Durando 39, I-20158 Milan, Italy.
+   [Giuffre, Tullio] Univ Enna Kore, Fac Engn & Architecture, Viale Cooperaz, I-94100 Enna, Italy.
+C3 University of Palermo; Silesian University of Technology; Universita
+   Kore di ENNA
+RP Tumminello, ML (corresponding author), Univ Palermo, Dept Engn, Viale Sci 8, I-90128 Palermo, Italy.; Macioszek, E (corresponding author), Silesian Tech Univ, Fac Transport & Aviat Engn, Dept Transport Syst Traff Engn & Logist, Krasinskiego 8 St, PL-40019 Katowice, Poland.
+EM marialuisa.tumminello01@unipa.it; elzbieta.macioszek@polsl.pl;
+   anna.grana@unipa.it; tullio.giuffre@unikore.it
+RI Tumminello, Maria Luisa/KVX-8575-2024; Granà, Anna/R-1468-2016;
+   Giuffre', Tullio/R-2004-2016; Macioszek, Elżbieta/AAH-5949-2020
+OI Granà, Anna/0000-0001-6976-0807; Giuffre', Tullio/0000-0002-8880-5932;
+   Macioszek, Elżbieta/0000-0002-1345-0022
+FU Sustainable Mobility Center (Centro Nazionale per la Mobilita
+   Sostenibile-CNMS) [CN00000023 CUP B73C22000760001]
+FX Sustainable Mobility Center (Centro Nazionale per la Mobilita
+   Sostenibile-CNMS) under Grant CN00000023 CUP B73C22000760001.
+NR 65
+TC 13
+Z9 14
+U1 0
+U2 6
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 1996-1073
+J9 ENERGIES
+JI Energies
+PD NOV
+PY 2023
+VL 16
+IS 21
+AR 7325
+DI 10.3390/en16217325
+PG 28
+WC Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Energy & Fuels
+GA X7OC0
+UT WOS:001100288800001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Ali, J
+   Khan, MF
+AF Ali, Javed
+   Khan, Mohammad Faisal
+TI A Trust-Based Secure Parking Allocation for IoT-Enabled Sustainable
+   Smart Cities
+SO SUSTAINABILITY
+LA English
+DT Article
+DE Internet of things; smart parking; sustainable smart cities; security;
+   trust management; privacy preservation; trustworthiness
+ID SYSTEM
+AB Smart parking is a crucial component of smart cities that aims to enhance the efficiency and sustainability of urban environments. It employs technology such as sensors and IoT devices to optimize the use of parking resources and improve drivers' experiences. By reducing traffic congestion, decreasing air pollution, and enhancing accessibility, smart parking systems can contribute to the overall well-being of urban areas. IoT-enabled smart parking refers to the application of IoT technology to optimize and improve parking efficiency in smart cities. However, security and privacy challenges in IoT-enabled smart parking pose risks and concerns related to the collection and use of data by parking systems, such as unauthorized access or misuse of data, potential data breaches, and the need to ensure responsible data collection and usage to maintain user trust and confidence. To address these challenges, we propose a novel hybrid approach to trust management using machine learning algorithms to enhance the security and privacy of the system. Our approach consists of SVM and ANNs, taking into account credibility, availability, and honesty as key parameters. Furthermore, we use ensemble machine learning to select the best-predicted model from different trained models, leading to efficient performance and a trustworthy environment. Our results show that the proposed hybrid SVM classifier with a trust parameters approach achieved an accuracy of 96.43% in predicting and eliminating malicious or compromised nodes.
+C1 [Ali, Javed] Saudi Elect Univ, Coll Comp & Informat, Riyadh 11673, Saudi Arabia.
+   [Khan, Mohammad Faisal] Saudi Elect Univ, Coll Sci & Theoret Studies, Dept Basic Sci, Riyadh 11673, Saudi Arabia.
+C3 Saudi Electronic University; Saudi Electronic University
+RP Khan, MF (corresponding author), Saudi Elect Univ, Coll Sci & Theoret Studies, Dept Basic Sci, Riyadh 11673, Saudi Arabia.
+EM j.ali@seu.edu.sa; f.khan@seu.edu.sa
+RI ; Ali, Javed/ABH-1485-2020
+OI Khan, Mohammad Faisal/0000-0001-5053-5028; 
+NR 32
+TC 8
+Z9 9
+U1 4
+U2 14
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD APR
+PY 2023
+VL 15
+IS 8
+AR 6916
+DI 10.3390/su15086916
+PG 18
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA E8EZ9
+UT WOS:000977823800001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT J
+AU Chang, CM
+   Salinas, GT
+   Gamero, TS
+   Schroeder, S
+   Canchanya, MAV
+   Mahnaz, SL
+AF Chang, Carlos M.
+   Salinas, Gianine Tejada
+   Gamero, Teresa Salinas
+   Schroeder, Stella
+   Canchanya, Mario A. Velez
+   Mahnaz, Syeda Lamiya
+TI An Infrastructure Management Humanistic Approach for Smart Cities
+   Development, Evolution, and Sustainability
+SO INFRASTRUCTURES
+LA English
+DT Article
+DE civil infrastructure systems; management humanistic approach; smart
+   city; sustainability; 5-dimensional model; BIM-CIM; digital twin; Peru
+AB Over the next decades, people will continue moving to urban areas all over the world, increasing infrastructure needs to satisfy economic, environmental, and social demands. The connection between civil urban infrastructure and smart cities is strong due to the common goal of fulfilling public service demands. Infrastructure management contributes to the development, evolution, and sustainability of smart cities. The main problem with traditional approaches to the development, evolution, and sustainability of smart cities is the lack of a holistic, integrated vision of infrastructure management. The main objective of this research is to introduce an infrastructure management humanistic approach with a smart city conceptual model that also considers an educational perspective. A mixed research methodology that combines quantitative and qualitative approaches was used, applying inductive-deductive tools. The paper concludes with the development of an infrastructure management framework for smart cities with five dimensions: (1) Environmental, (2) financial-economic, (3) political-governance, (4) social-people, and (5) technological. Two case studies for the cities of Lima and Piura in Peru illustrate how to incorporate this framework into practice. The research products are relevant because they foster an inclusive better quality of life for all citizens by preserving civil infrastructure systems.
+C1 [Chang, Carlos M.; Mahnaz, Syeda Lamiya] Florida Int Univ, Coll Engn & Comp, Engn Ctr, Dept Civil & Environm Engn, Miami, FL 33174 USA.
+   [Salinas, Gianine Tejada] Univ Ricardo Palma, Coll Engn, Lima 15039, Peru.
+   [Gamero, Teresa Salinas] Univ Ricardo Palma, Inst Pensamiento Complejo Edgar Morin, Lima 15039, Peru.
+   [Schroeder, Stella] Univ Piura, Coll Engn, Dept Architecture & Terr, Piura 20009, Peru.
+   [Schroeder, Stella] Univ Bio Bio, Coll Architecture, Dept Construct & Design, Concepcion 4130000, Chile.
+   [Canchanya, Mario A. Velez] Contratistas Gen EIRL, MAVC, Lima 15084, Peru.
+C3 State University System of Florida; Florida International University;
+   Universidad Ricardo Palma; Universidad Ricardo Palma; Universidad de
+   Piura; Universidad del Bio-Bio
+RP Chang, CM (corresponding author), Florida Int Univ, Coll Engn & Comp, Engn Ctr, Dept Civil & Environm Engn, Miami, FL 33174 USA.
+EM cachang@fiu.edu; gianine.tejada@urp.edu.pe; teresa.salinas@urp.edu.pe;
+   stella.schroeder@gmx.de; mariovelez@mavcproyectos.com; smahn002@fiu.edu
+RI ; Schroeder, Stella/HMV-2409-2023
+OI Schroeder, Stella/0000-0001-8591-2719; Vélez, Mario/0000-0002-9943-5586
+FU Universidad Ricardo Palma in Lima, Peru; International Climate
+   Initiative (IKI) of the German Federal Ministry for Economic Affairs and
+   Climate Action (BMWK)
+FX The work presented in this paper was supported by the Universidad
+   Ricardo Palma in Lima, Peru as part of the research project titled:
+   "Smart Cities, Sustainable and Resilient". The case study in Piura,
+   Peril was conducted in collaboration with the Universidad de Piura as
+   part of the Morgenstadt Global Smart Cities Initiative (MGI) project
+   funded by the International Climate Initiative (IKI) of the German
+   Federal Ministry for Economic Affairs and Climate Action (BMWK).
+   Partners of the project: University of Stuttgart, Fraunhofer IAO,
+   University of Piura, Municipalidad Provincial de Piura.
+NR 69
+TC 1
+Z9 4
+U1 1
+U2 26
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2412-3811
+J9 INFRASTRUCTURES-BASE
+JI Infrastructures-Basel
+PD SEP
+PY 2023
+VL 8
+IS 9
+AR 127
+DI 10.3390/infrastructures8090127
+PG 35
+WC Construction & Building Technology; Engineering, Civil; Transportation
+   Science & Technology
+WE Emerging Sources Citation Index (ESCI)
+SC Construction & Building Technology; Engineering; Transportation
+GA T1IH3
+UT WOS:001075587300001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+PT C
+AU Dondjio, I
+AF Dondjio, Irenee
+BE Papadaki, M
+   DaCunha, PR
+   Themistocleous, M
+   Christodoulou, K
+TI The Importance of Blockchain for Ecomobility in Smart Cities: A
+   Systematic Literature Review
+SO INFORMATION SYSTEMS, EMCIS 2022
+SE Lecture Notes in Business Information Processing
+LA English
+DT Proceedings Paper
+CT 19th European, Mediterranean, and Middle Eastern Conference (EMCIS)
+CY DEC 21-22, 2022
+CL ELECTR NETWORK
+DE Ecomobility; Smart Mobility; Blockchain; Smart Cities; Smart Contracts
+ID TECHNOLOGY; MANAGEMENT; SECURITY
+AB By 2050, cities will house at least 70% of the world's population. Already, metropolitan areas are responsible for 70% of all greenhouse gas emissions caused by energy usage. The expanding population of city dwellers has presented new challenges to contemporary urban areas. Congestion and other kinds of inefficient urban movement irritate city people and reduce their quality of life. Cities are reducing carbon dioxide emissions in an attempt to prevent global warming, which necessitates innovative new modes of transportation. Smart cities are innovative problem-solving projects for difficulties that have evolved as a consequence of increasing urbanization and changing environmental circumstances. Today's cities depend largely on people's capacity to travel freely and easily in order to minimize traffic congestion, provide a high quality of life for residents and tourists, and reduce carbon emissions and environmental deterioration. Everything is dependent on an effective and sustainable transportation infrastructure. Blockchain technology is being researched for smart city applications and is used in smart mobility for ridesharing, electric charging, platoon member interactions, and vehicle communication. Although exploratory research on this issue exists, it is spread over different use-cases and applications. This research conducts a thorough analysis of the literature on the implications of blockchain for smart city mobility and transportation, as well as its potential to boost efficiency in these sectors. The goal of this article is to synthesize and summarize existing information on the issue and contribute to closing the knowledge gap by researching how blockchain technology might improve ecomobility by reducing pollution, travel time, and congestion. The results of the literature review are divided into six use-case categories.
+C1 [Dondjio, Irenee] Univ Nicosia, Nicosia, Cyprus.
+C3 University of Nicosia
+RP Dondjio, I (corresponding author), Univ Nicosia, Nicosia, Cyprus.
+EM dondjio.i@unic.ac.cy
+NR 37
+TC 1
+Z9 1
+U1 0
+U2 2
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 1865-1348
+EI 1865-1356
+BN 978-3-031-30693-8; 978-3-031-30694-5
+J9 LECT NOTES BUS INF P
+PY 2023
+VL 464
+BP 165
+EP 184
+DI 10.1007/978-3-031-30694-5_13
+PG 20
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Computer Science, Interdisciplinary Applications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Computer Science
+GA BX6FB
+UT WOS:001308340700013
+DA 2025-11-25
+ER
+
+PT J
+AU Alvi, M
+   Dutta, H
+   Minerva, R
+   Crespi, N
+   Raza, SM
+   Herath, M
+AF Alvi, Maira
+   Dutta, Hrishikesh
+   Minerva, Roberto
+   Crespi, Noel
+   Raza, Syed Mohsan
+   Herath, Manoj
+TI Global perspectives on digital twin smart cities: Innovations,
+   challenges, and pathways to a sustainable urban future
+SO SUSTAINABLE CITIES AND SOCIETY
+LA English
+DT Article
+DE Digital twin; Smart city; Urban planning; Internet of Things (ioT); DT
+   applications
+ID PREDICTION; MANAGEMENT; FRAMEWORK; SECURITY; PRIVACY; HEALTH
+AB The integration of digital twin (DT) technology within smart city frameworks is becoming increasingly significant in today's digital age. As urban areas evolve into smart ecosystems characterized by interconnected devices and data-driven management systems, digital twins provide a dynamic approach to managing these smart cities. This paper delivers an in-depth exploration of the role of digital twins in advancing smart city frameworks, surveying recent research, methodologies, and case studies that highlight their applicability in urban management, including sectors like mobility, healthcare, energy management, and environmental monitoring. Additionally, the paper delves into the foundational concepts of digital twins and digital twin smart cities, presenting a multilayered structure that emphasizes the role of each layer in creating a comprehensive urban digital twin platform. We also examine the ongoing global digital twin projects based on their development maturity, discuss the challenges of deploying these systems, and explores emerging tools such as synthetic sensing for areas with limited sensor infrastructure. By summarizing the state of the art, identifying research gaps, and discussing future directions, this review serves as a foundational reference for researchers and practitioners seeking to harness digital twin technology for more sustainable, efficient, and resilient smart cities.
+C1 [Alvi, Maira; Dutta, Hrishikesh; Minerva, Roberto; Crespi, Noel; Raza, Syed Mohsan; Herath, Manoj] Inst Polytech Paris, SAMOVAR, Telecom SudParis, F-91000 Palaiseau, France.
+C3 IMT - Institut Mines-Telecom; Institut Polytechnique de Paris; Telecom
+   SudParis
+RP Alvi, M (corresponding author), Evry Courcouronnes FR, 9 Rue Charles Fourier, F-91000 Palaiseau, France.
+EM maira.alvi@telecom-sudparis.eu
+RI Dutta, Hrishikesh/HTT-4658-2023; Minerva, Roberto/ABF-1322-2020; Crespi,
+   Noel/ABE-7052-2020; Alvi, Maira/AAP-1824-2021
+OI ALVI, MAIRA/0009-0006-6077-8326; Crespi, Noel/0000-0003-2962-192X;
+   Herath, Hemawanshage Chethinga Manoj/0000-0001-5256-8552; 
+NR 163
+TC 10
+Z9 11
+U1 20
+U2 29
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2210-6707
+EI 2210-6715
+J9 SUSTAIN CITIES SOC
+JI Sust. Cities Soc.
+PD MAY 15
+PY 2025
+VL 126
+AR 106356
+DI 10.1016/j.scs.2025.106356
+EA APR 2025
+PG 18
+WC Construction & Building Technology; Green & Sustainable Science &
+   Technology; Energy & Fuels
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Construction & Building Technology; Science & Technology - Other Topics;
+   Energy & Fuels
+GA 1XR9K
+UT WOS:001476125800001
+OA Green Submitted
+DA 2025-11-25
+ER
+
+PT J
+AU Cenci, DR
+   Beck, CAMR
+   Boff, MM
+AF Cenci, Daniel Rubens
+   Beck, Cesar Augusto Moacyr Rutowitsch
+   Boff, Murilo Manzoni
+TI Smart cities, artificial intelligence and the challenges in the covid-19
+   pandemic: the creation of big data for surveillance, control and
+   socio-spatial segregation of the marginalized population
+SO REVISTA DE DIREITO DA CIDADE-CITY LAW
+LA Portuguese
+DT Article
+DE Smart Cities; Artificial intelligence; Communication and Information
+   Technologies; Socio spatial segregation; Sustainability
+AB This art.icle aims to analyze smart cities, from their meaning to their requirements, analyzing the application of Information and Communication Technologies in urban development so that public services in cities are able to offer better quality of life to their inhabitants, through intelligent management based on limited use of data. In this regard, it is also investigated how cities made use of technologies, notably Artificial Intelligence, and dealt with data processing during the CoVid-19 pandemic, pointing out the challenges facing the adverse targeting of technologies for discriminatory purposes. , surveillance and exclusion of socially marginalized groups in urban areas. This research was carried out with an interdisciplinary methodology, based on the bibliographic review of books, articles and other infographic publications available on the Internet.
+C1 [Cenci, Daniel Rubens] Univ Reg Noroeste Estado Rio Grande do Sul UNIJUI, Ijui, RS, Brazil.
+   [Beck, Cesar Augusto Moacyr Rutowitsch; Boff, Murilo Manzoni] Univ Reg Noroeste Estado Rio Grande do Sul UNIJUI, Direitos Humanos, Ijui, RS, Brazil.
+C3 Universidade Regional do Noroeste do Estado do Rio Grande do Sul -
+   UNIJUI; Universidade Regional do Noroeste do Estado do Rio Grande do Sul
+   - UNIJUI
+RP Cenci, DR (corresponding author), Univ Reg Noroeste Estado Rio Grande do Sul UNIJUI, Ijui, RS, Brazil.
+EM danielr@unijui.edu.br; cesar.rutowitsch@gmail.com;
+   murilo_boff@hotmail.com
+OI Manzoni Boff, Murilo/0000-0002-7715-3916; Beck,
+   Cesar/0000-0002-8625-6503
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 6
+PU UNIV ESTADO RIO JANEIRO
+PI RIO DE JANEIRO RJ
+PA RUA SAO FRANCISCO XAVIER, 524-BLOCO F, RIO DE JANEIRO RJ, 20559-900,
+   BRAZIL
+SN 2317-7721
+J9 REV DIREITO CID
+JI Rev. Direito Cid.
+PY 2023
+VL 15
+IS 4
+BP 1810
+EP 1843
+DI 10.12957/rdc.2023.65722
+PG 34
+WC Urban Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Urban Studies
+GA GZ9M0
+UT WOS:001156621000001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Derlukiewicz, N
+   Szalata, L
+   Mankowska, D
+AF Derlukiewicz, Niki
+   Szalata, Lukasz
+   Mankowska, Dominika
+TI Scaling Up Innovation - Exemplary Initiatives for Sustainable
+   Development in European Smart Cities with a Focus on Smart Mobility
+SO EUROPEAN JOURNAL OF SUSTAINABLE DEVELOPMENT
+LA English
+DT Article
+DE smart city; innovation; sustainable development; urban development;
+   smart mobility
+AB The development of a sustainable economy is the goal of the whole society in the European Union. With over half of the global population residing in urban areas, the significance of building resilient cities cannot be overstated. Cities are at the forefront of driving adaptation and building resilience implementing ambitious strategies and activities to effectively cope, adapt, and transform, considering three pillars of sustainable development: economic growth, environmental management and social inclusion. This study explores the toolbox of best practices - activities and innovations that European cities are implementing to achieve sustainable development goals. In the article, the best practices and innovative approaches that cities are taking toward sustainability were identified. This article explores the key aspects of smart mobility and its potential to reshape urban transportation systems for a more sustainable future. The findings in the paper indicate that European cities are making significant efforts to adopt sustainable practices, including investments in renewable energy, green infrastructure, public transportation, waste management, and sustainable urban planning. The study highlights the importance of the need for inter-sectoral collaborations to achieve SD goals. The insights gained from this study can inform policy-making and assist cities in developing effective strategies for sustainable development
+C1 [Derlukiewicz, Niki] Wroclaw Univ Econ & Business, Wroclaw, Poland.
+   [Szalata, Lukasz] Wroclaw Univ Sci & Technol, Wroclaw, Poland.
+   [Mankowska, Dominika] Eko Biegly Assoc, PL-50155 Wroclaw, Poland.
+C3 Wroclaw University of Economics & Business; Wroclaw University of
+   Science & Technology
+RP Derlukiewicz, N (corresponding author), Wroclaw Univ Econ & Business, Wroclaw, Poland.
+RI ; Szałata, Łukasz/IQT-6163-2023; Derlukiewicz, Niki/S-7820-2018
+OI Szalata, Lukasz/0000-0001-8307-6331; Derlukiewicz,
+   Niki/0000-0002-3967-3048
+NR 2
+TC 4
+Z9 5
+U1 3
+U2 14
+PU EUROPEAN CENTER SUSTAINABLE DEVELOPMENT
+PI ROME
+PA VIA DEI FIORI 34, ROME, 00172, ITALY
+SN 2239-5938
+EI 2239-6101
+J9 EUR J SUSTAIN DEV
+JI Eur. J. Sustain. Dev.
+PY 2023
+VL 12
+IS 3
+BP 229
+EP 246
+DI 10.14207/ejsd.2023.v12n3p229
+PG 18
+WC Environmental Sciences
+WE Emerging Sources Citation Index (ESCI)
+SC Environmental Sciences & Ecology
+GA Z9DL2
+UT WOS:001115004400013
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Gaglione, F
+AF Gaglione, Federica
+TI Policies and practices of transition towards climate-neutral and smart
+   cities
+SO TEMA-JOURNAL OF LAND USE MOBILITY AND ENVIRONMENT
+LA English
+DT Review
+DE Urban sustainability; Smart city; Climate neutrality; Urban Agenda
+ID SUSTAINABLE CITIES; CITY; OPTIMIZATION; TOOLS
+AB Starting from the relationship between urban planning and mobility management, TeMA has gradually expanded the view of the covered topics, always following a rigorous scientific in-depth analysis. This section of the Journal, Review Notes, is a continuous update about emerging topics concerning relationships among urban planning, mobility, and environment, thanks to a collection of short scientific papers written by young researchers. The Review Notes are made up of five parts. Each section examines a specific aspect of the broader information storage within the main interests of the TeMA Journal. In particular: the Town Planning International Rules and Legislation. Section aims at presenting the latest updates in the territorial and urban legislative sphere. The current challenges of the city can be enclosed under a single umbrella called "Smart city" which can be a useful approach to define new forms of organizing the complexity of urban life and in turn implement solutions in urban areas ranging from energy consumption to climate change to achieve environmental sustainability goals. In this direction, this review focuses on the involvement of local authorities in the development of urban strategies that focus on smart city objectives within of the Europe2020 strategy and the climate neutral & smart cities mission.
+C1 [Gaglione, Federica] Univ Sannio, Dept Engn, Benevento, Italy.
+C3 University of Sannio
+RP Gaglione, F (corresponding author), Univ Sannio, Dept Engn, Benevento, Italy.
+EM fgaglione@unisannio.it
+RI Gaglione, Federica/AAV-8736-2021
+NR 22
+TC 2
+Z9 2
+U1 1
+U2 12
+PU UNIV STUDI NAPOLI FEDERICO II, DIPT PIANIFICAZIONE & SCIENZA TERRITORIO
+PI NAPLES
+PA PIAZZALE TECCHIO 80, NAPLES, 80125, ITALY
+SN 1970-9889
+EI 1970-9870
+J9 TEMA
+JI TeMA
+PD APR
+PY 2023
+VL 16
+IS 1
+BP 227
+EP 231
+DI 10.6093/1970-9870/9822
+PG 10
+WC Urban Studies
+WE Emerging Sources Citation Index (ESCI)
+SC Urban Studies
+GA F6FA3
+UT WOS:000983269600014
+DA 2025-11-25
+ER
+
+PT C
+AU Bouhouras, E
+   Kikeni, K
+   Siginos, A
+   Vouitsis, A
+   Voulgari, K
+   Basbas, S
+AF Bouhouras, Efstathios
+   Kikeni, Konstantina
+   Siginos, Athanasios
+   Vouitsis, Apostolos
+   Voulgari, Konstantina
+   Basbas, Socrates
+BE Nathanail, EG
+   Gavanas, N
+   Adamos, G
+TI Is It Necessary to Calculate Passenger Car Equivalent Value for
+   Commercial Vehicles in Urban Areas?
+SO SMART ENERGY FOR SMART TRANSPORT, CSUM2022
+SE Lecture Notes in Intelligent Transportation and Infrastructure
+LA English
+DT Proceedings Paper
+CT 6th Conference on Sustainable Urban Mobility (CSUM) - Smart Energy for
+   Smart Transport
+CY AUG 31-SEP 02, 2022
+CL GREECE
+DE Passenger Car Equivalent value; Urban road freight transport; Commercial
+   vehicles
+ID FREEWAYS
+AB Covid-19 pandemic has set and unfortunately continues to set a new reality for human societies. Inevitably, city logistics and urban road freight transport in general were affected change as well as the decision of many national governments to promote electricity over the old-fashioned internal combustion engines by setting a milestone for this objective by 2030, intensify the necessity of radical and innovative solutions through which urban road freight transport will become sustainable. Although that for many years, many policies, strategies, and measures are implemented world widely, urban road freight transport remains as one of the significant reasons for congestion phenomena and air pollution. It is without question that the local urban road freight transport systems will be examined as part of transportation surveys firstly to identify the current situation and secondly to test possible solutions. In this aspect, the present paper presents the calculation of the passenger equivalent value for commercial vehicles in the city of Thessaloniki based on the Highway Capacity Manual 2010 equations applied on data collected with a recently developed methodology, simpler and without requiring heavy equipment in situ.
+C1 [Bouhouras, Efstathios; Kikeni, Konstantina; Siginos, Athanasios; Vouitsis, Apostolos; Voulgari, Konstantina; Basbas, Socrates] Aristotle Univ Thessaloniki, Sch Rural & Surveying Engn, Fac Engn, Thessaloniki 54124, Greece.
+C3 Aristotle University of Thessaloniki
+RP Bouhouras, E (corresponding author), Aristotle Univ Thessaloniki, Sch Rural & Surveying Engn, Fac Engn, Thessaloniki 54124, Greece.
+EM stbouch@hotmail.com
+RI Basbas, Socrates/ABG-1454-2021; Bouhouras, Efstathios/JPA-0779-2023
+OI Basbas, Socrates/0000-0002-3706-8530; Bouhouras,
+   Efstathios/0000-0002-0762-249X
+NR 25
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER INTERNATIONAL PUBLISHING AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2523-3440
+EI 2523-3459
+BN 978-3-031-23720-1; 978-3-031-23721-8
+J9 LECT N INTELL TRANS
+PY 2023
+BP 1266
+EP 1277
+DI 10.1007/978-3-031-23721-8_102
+PG 12
+WC Green & Sustainable Science & Technology; Transportation Science &
+   Technology
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Science & Technology - Other Topics; Transportation
+GA BV1XY
+UT WOS:001000789400102
+DA 2025-11-25
+ER
+
+PT J
+AU de Sá, CP
+   Pagani, RN
+   Przybysz, AL
+   de Souza, FF
+   Resende, DN
+   Kovaleski, JL
+AF de Sa, Clayton Pereira
+   Pagani, Regina Negri
+   Przybysz, Andre Luiz
+   de Souza, Fabiane Florencio
+   Resende, David Nunes
+   Kovaleski, Joao Luiz
+TI Towards the Concept of Smart Municipality: Agribusiness Model
+   Integrating Rural and Urban Areas for Organic Food Production: A Review
+SO SUSTAINABILITY
+LA English
+DT Review
+DE smart cities; organic food production certification; SDG; family
+   farming; sustainable development
+ID SUSTAINABLE DEVELOPMENT; PURCHASE INTENTION; CITIES; ANTECEDENTS;
+   IMPACTS; TRENDS; TRUST
+AB Smart cities leverage information and communication technologies to enhance urban life quality, essential in densely populated environments requiring comprehensive planning. A critical area in urban settings is food production and delivery, where effective management becomes vital. New technologies can assist, but require models that support innovative production and commercialization methods. This study proposes an integration model between family farming-producers of organic food-and urban areas-consumers of these products. The model focuses on the management of organic food production and delivery to meet urban demands, serving as a tool in the transformation of these areas into smart municipalities. Additionally, this study suggests an alternative certification method for organic food production within family farming. A systematic literature review was conducted using the Methodi Ordinatio methodology. Content analysis of the selected articles identified strategies cities can adopt to promote organic certification, emphasizing transparent governance, public food procurement policies, and participatory certification systems. The proposed model aims to reduce bureaucracy and improve family farmers' income, aligning with several Sustainable Development Goals: SDG 2 (Zero Hunger), SDG 8 (Decent Work and Economic Growth), SDG 11 (Sustainable Cities and Communities), SDG 12 (Responsible Consumption and Production), SDG 15 (Life on Land), and SDG 17 (Partnerships for the Goals).
+C1 [de Sa, Clayton Pereira; Pagani, Regina Negri; Przybysz, Andre Luiz; de Souza, Fabiane Florencio; Kovaleski, Joao Luiz] Fed Univ Technol Parana UTFPR, Postgrad Program Prod Engn PPGEP, BR-84017220 Ponta Grossa, PR, Brazil.
+   [de Sa, Clayton Pereira] Inst Fed Parana IFPR, Dept Adm, BR-85200000 Pitanga, PR, Brazil.
+   [Pagani, Regina Negri] Univ Aveiro, Res Unit Governance Competitiveness & Publ Pol GOV, P-3810193 Aveiro, Portugal.
+   [Resende, David Nunes] Univ Aveiro, Res Unit Governance Competitiveness & Publ Pol GOV, Escola Super Tecnol & Gestao Agueda ESTGA, P-3810193 Aveiro, Portugal.
+C3 Universidade Tecnologica Federal do Parana; Instituto Federal do Parana;
+   Universidade de Aveiro; Universidade de Aveiro
+RP de Sá, CP (corresponding author), Fed Univ Technol Parana UTFPR, Postgrad Program Prod Engn PPGEP, BR-84017220 Ponta Grossa, PR, Brazil.; de Sá, CP (corresponding author), Inst Fed Parana IFPR, Dept Adm, BR-85200000 Pitanga, PR, Brazil.
+EM clayton.sa@ifpr.edu.br
+RI KOVALESKI, JOAO/H-4858-2013; Przybysz, André/W-8358-2019; Przybysz,
+   André Luiz/W-8358-2019; Pagani, Regina/M-2306-2013; Resende,
+   David/W-4715-2017
+OI KOVALESKI, JOAO/0000-0003-4232-8883; Przybysz, André
+   Luiz/0000-0003-1172-5982; Pagani, Regina/0000-0002-2655-6424; Florencio
+   de Souza, Fabiane/0000-0003-0415-590X; pereira de sá,
+   clayton/0000-0002-6997-5469; 
+FU Research Unit on Governance, Competitiveness and Public Policies -
+   national funds through FCT-Fundacao para a Ciencia e a Tecnologia
+   [UIDB/04058/2020, UIDP/04058/2020]
+FX This work was funded by the Research Unit on Governance, Competitiveness
+   and Public Policies (GOVCOPP, University of Aveiro, Portugal)
+   (UIDB/04058/2020) + (UIDP/04058/2020), funded by national funds through
+   FCT-Fundacao para a Ciencia e a Tecnologia.
+NR 137
+TC 1
+Z9 1
+U1 6
+U2 13
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD FEB
+PY 2025
+VL 17
+IS 3
+AR 1015
+DI 10.3390/su17031015
+PG 26
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA W5Z9Z
+UT WOS:001419365300001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Miao, ZN
+   Liao, QL
+AF Miao, Zhinong
+   Liao, Qilong
+TI IoT-Based Traffic Prediction for Smart Cities
+SO IEEE ACCESS
+LA English
+DT Article
+DE Smart cities; Accuracy; Real-time systems; Predictive models; Internet
+   of Things; Adaptation models; Convolutional neural networks;
+   Computational modeling; Feature extraction; Optimization; Convolutional
+   neural networks (CNNs); particle swarm optimization (PSO); traffic
+   prediction; smart cities; real-time traffic management; IoT sensors;
+   machine learning
+ID CLASSIFICATION; SYSTEM
+AB This study explores the integration of Convolutional Neural Networks (CNNs) with Particle Swarm Optimization (PSO) to enhance traffic management in smart cities. The primary objective was to develop a predictive model that improves traffic forecasting accuracy, reduces congestion, and optimizes real-time traffic management. The methodology involved combining CNNs' powerful spatial feature extraction capabilities with PSO's optimization strengths. Traffic data collected from IoT sensors were processed to extract relevant spatial features using CNNs, and PSO was employed to fine-tune the CNN hyperparameters and feature selection. Key findings indicate that the CNN-PSO model significantly improves traffic prediction accuracy, with an average increase from 76.5% to 92.0% across various urban areas. The model demonstrated a 20.0% reduction in average traffic delay and a 25.0% enhancement in traffic flow efficiency. Real-time metrics revealed high prediction accuracy and low processing times, indicating the model's effectiveness in timely traffic forecasting. These results underscore the model's potential for optimizing traffic management systems, reducing congestion, and improving urban mobility. The implications for smart city development are substantial, as the model offers a robust solution for managing complex traffic patterns and enhancing real-time decision-making. The study suggests that integrating advanced machine learning techniques like CNNs and PSO can lead to more efficient and adaptive traffic management solutions, contributing to the development of smarter, more resilient urban environments. Future research could expand on these findings by incorporating additional data sources and testing the model's scalability and real-world applicability.
+C1 [Miao, Zhinong] Fuzhou Polytech, Sch Transportat Engn, Fuzhou 350000, Peoples R China.
+   [Liao, Qilong] Panzhihua Univ, Elect & Informat Engn Sch, Panzhihua 617000, Peoples R China.
+C3 Panzhihua University
+RP Miao, ZN (corresponding author), Fuzhou Polytech, Sch Transportat Engn, Fuzhou 350000, Peoples R China.
+EM fvtimiao@163.com
+FU Fuzhou Science and Technology, Research on Vehicle Attitude Monitoring
+   Device and Its Application [2021-SG-024]; Fuzhou Polytechnic Research on
+   the Construction and Application of Traffic Conflict Field for
+   Autonomous Driving [FZYKJRCQD202102]
+FX This work was supported in part by Fuzhou Science and Technology,
+   Research on Vehicle Attitude Monitoring Device and Its Application under
+   Grant 2021-SG-024; and in part by Fuzhou Polytechnic Research on the
+   Construction and Application of Traffic Conflict Field for Autonomous
+   Driving under Grant FZYKJRCQD202102
+NR 25
+TC 3
+Z9 3
+U1 10
+U2 13
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2025
+VL 13
+BP 52369
+EP 52384
+DI 10.1109/ACCESS.2025.3552276
+PG 16
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA 0TK4K
+UT WOS:001455585800032
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Ullah, A
+   Khan, SH
+   Ullah, I
+   Mahmood, T
+   Nawazish, S
+   Ali, Z
+   Rehman, A
+AF Ullah, Amin
+   Khan, Saddam Hussain
+   Ullah, Irfan
+   Mahmood, Tariq
+   Nawazish, Samra
+   Ali, Zafar
+   Rehman, Amjad
+TI Toward sustainable smart cities: applications, challenges, and future
+   directions
+SO INTERNATIONAL JOURNAL OF DATA SCIENCE AND ANALYTICS
+LA English
+DT Review
+DE Sustainable smart cities; Deep learning; Federated learning; Blockchain;
+   Natural language processing; Large language models
+ID MANAGEMENT; FRAMEWORK
+AB Smart cities stand as pivotal components in the ongoing pursuit of elevating urban living standards, facilitating the rapid expansion of urban areas while efficiently managing resources through sustainable and scalable innovations. In this regard, as emerging technologies like Artificial Intelligence (AI), the Internet of Things (IoT), big data analytics, and fog and edge computing have become increasingly prevalent, smart city applications grapple with various challenges, including the potential for unauthorized disclosure of confidential and sensitive data. The seamless integration of emerging technologies has played a vital role in sustaining the dynamic pace of their development. This paper explores the substantial potential and applications of deep learning (DL), federated learning (FL), IoT, blockchain, natural language processing (NLP), and large language models (LLMs) in optimizing ICT processes within smart cities. The findings of the study suggest that these technologies have the potential to act as foundational elements that technically strengthen the realization and advancement of smart cities and drive innovation within this transformative urban milieu. However, there are certain formidable challenges that DL, FL, IoT, blockchain, NLP, and LLMs face within these contexts with potential future directions. The study has implications for researchers working on developing sustainable smart cities.
+C1 [Ullah, Amin] Bahria Univ, Comp Sci Dept, Lahore Campus, Lahore 54000, Pakistan.
+   [Ullah, Amin; Ali, Zafar] Southeast Univ SEU, Sch Comp Sci & Engn, Nanjing, Peoples R China.
+   [Khan, Saddam Hussain] Univ Engn & Appl Sci UEAS, Dept Comp Syst Engn, Artificial Intelligence Lab, Swat 19060, Pakistan.
+   [Ullah, Irfan] Shaheed Benazir Bhutto Univ, Dept Comp Sci, Sheringal 18050, Pakistan.
+   [Mahmood, Tariq; Rehman, Amjad] CCIS Prince Sultan Univ, Artificial Intelligence & Data Analyt AIDA Lab, Riyadh 11586, Saudi Arabia.
+   [Nawazish, Samra] Informat Technol Univ, Dept Comp Sci, Intelligent Machines Lab, Lahore 54000, Pakistan.
+C3 Bahria University; Southeast University - China
+RP Ullah, A (corresponding author), Bahria Univ, Comp Sci Dept, Lahore Campus, Lahore 54000, Pakistan.; Ullah, A (corresponding author), Southeast Univ SEU, Sch Comp Sci & Engn, Nanjing, Peoples R China.; Mahmood, T (corresponding author), CCIS Prince Sultan Univ, Artificial Intelligence & Data Analyt AIDA Lab, Riyadh 11586, Saudi Arabia.
+EM Aminullah.bulc@bahria.edu.pk; saddamhkhan@ueas.edu.pk;
+   irfan@sbbu.edu.pk; tmsherazi@ue.edu.pk; samra5677@gmail.com;
+   zafarali@seu.edu.cn; arkhan@psu.edu.sa
+RI ; Mahmood, Tariq/AAQ-6709-2020
+OI Mahmood, Tariq/0000-0002-4299-7756; 
+FU AIDA Lab, College of Computer and Information Sciences (CCIS), Prince
+   Sultan University, Riyadh, Saudi Arabia
+FX The authors are also thankful to AIDA Lab, College of Computer and
+   Information Sciences (CCIS), Prince Sultan University, Riyadh, Saudi
+   Arabia, for support.
+NR 117
+TC 2
+Z9 2
+U1 5
+U2 5
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN 2364-415X
+EI 2364-4168
+J9 INT J DATA SCI ANAL
+JI Int. J, Data Sci. Anal.
+PD NOV
+PY 2025
+VL 20
+IS 7
+BP 6227
+EP 6247
+DI 10.1007/s41060-025-00856-2
+EA JUN 2025
+PG 21
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA 7XM8H
+UT WOS:001518321900001
+DA 2025-11-25
+ER
+
+PT J
+AU Kumar, H
+   Tanweer, S
+   Agarwal, P
+   Rao, NS
+AF Kumar, Hemant
+   Tanweer, Safdar
+   Agarwal, Parul
+   Rao, Naseem
+TI Machine learning and artificial intelligence based energy efficient
+   smart cities : A concise survey
+SO JOURNAL OF INFORMATION & OPTIMIZATION SCIENCES
+LA English
+DT Article
+DE Smart cities (SC); Energy efficiency; Artificial neural networks (ANN);
+   Convolutional neural networks (CNN); Recurrent neural networks (RNN)
+ID ANOMALY DETECTION; CONSUMPTION; LOAD
+AB The concept of smart cities has always been influential and impactful for development in urban areas in the twenty-first century. These communities use innovative technologies and data analytics to enhance citizens' well-being, optimize infrastructure and utilities, and foster long-term economic development. Smart cities strive to create a unified and intelligent urban environment by integrating several areas such as transportation, energy, health, education, and governance. Our research included a structured literature assessment using Web of Science and Google Scholar, as well as answering particular smart city research questions. With the growing urban areas and the development of energy efficient smart cities, it is really challenging to incorporate cutting-edge technologies and AI driven solution to have resilient sustainability.
+C1 [Kumar, Hemant; Tanweer, Safdar; Agarwal, Parul; Rao, Naseem] Jamia Hamdard, Dept Comp Sci & Engn, Delhi 110062, India.
+C3 Jamia Hamdard University
+RP Agarwal, P (corresponding author), Jamia Hamdard, Dept Comp Sci & Engn, Delhi 110062, India.
+EM hemantkumar_sch@jamiahamdard.ac.in; safdartanweer@jamiahamdard.ac.in;
+   pagarwal@jamiahamdard.ac.in; naseemrao@jamiahamdard.ac.in
+NR 38
+TC 0
+Z9 0
+U1 2
+U2 2
+PU TARU PUBLICATIONS
+PI NEW DELHI
+PA G-159, PUSHKAR ENCLAVE, PASHCHIM VIHAR, NEW DELHI, 110 063, INDIA
+SN 0252-2667
+EI 2169-0103
+J9 J INFORM OPTIM SCI
+JI J. Inform. Optim. Science
+PY 2025
+VL 46
+IS 3
+BP 657
+EP 668
+DI 10.47974/JIOS-1678
+PG 12
+WC Information Science & Library Science
+WE Emerging Sources Citation Index (ESCI)
+SC Information Science & Library Science
+GA 2JQ8M
+UT WOS:001484246200006
+DA 2025-11-25
+ER
+
+PT C
+AU Caruso, A
+   Galluccio, L
+   Grasso, C
+   Ignaccolo, M
+   Inturri, G
+   Leonardi, P
+   Schembra, G
+   Torrisi, V
+AF Caruso, A.
+   Galluccio, L.
+   Grasso, C.
+   Ignaccolo, M.
+   Inturri, G.
+   Leonardi, P.
+   Schembra, G.
+   Torrisi, V.
+GP IEEE
+TI Advancing Urban Traffic Monitoring in Smart Cities: A Field Experiment
+   with UAV-Based System for Transport Planning and Intelligent Traffic
+   Management
+SO 2025 INTEGRATED COMMUNICATIONS, NAVIGATION AND SURVEILLANCE CONFERENCE,
+   ICNS
+SE Integrated Communications Navigation and Surveillance Conference
+LA English
+DT Proceedings Paper
+CT 2025 Integrated Communications Navigation and Surveillance
+   Conference-ICNS
+CY APR 08-10, 2025
+CL Brussels, BELGIUM
+DE Traffic Monitoring; Unmanned Aerial Vehicles (UAVs); Smart Cities (SCs);
+   Digital Twin of Mobility (DTmob); Microsimulation Models
+AB In Smart Cities (SCs), efficient traffic flow management in congested urban areas is crucial to promote sustainability, liveability, and accessibility. Big data can potentially provide valuable information to be used for mobility management; accordingly, integrating traditional traffic data collection methods to enrich the type of available data is to be pursued. In this perspective, recently the idea of using Unmanned Aerial Vehicles (UAVs) for traffic monitoring due to their flexibility, cost-efficiency, and reliability, emerged. This paper explores the potential of using UAV collected data - such as the one related to vehicle detection, tracking, and trajectory analysis - in the aim of calibrating microsimulation models for transport planning. A case study conducted in Catania, Italy, involved exploiting UAVs for deployment of various traffic detection technologies. The results highlighted the effectiveness of using UAVs, achieving high accuracy and efficiency in monitoring traffic conditions where traditional sensors often face limitations. Use of UAVs also allows continuous trajectory analysis, so enabling for example the detection of prohibited manoeuvres and identifying design strategies to improve road safety. Furthermore, the study demonstrated that a single UAV can effectively monitor large intersection areas, reducing the need for use of multiple more traditional sensors. This research lays the groundwork for a prototype that integrates diverse data sources to create harmonized traffic datasets, contributing to the development of a Digital Twin of Mobility (DTmob). The latter will be a valuable tool to improve traffic monitoring and control systems, supporting resilience, efficiency, and better service provision in SCs.
+C1 [Caruso, A.; Galluccio, L.; Grasso, C.; Schembra, G.] Univ Catania, Dept Elect Elect & Informat Engn DIEEI, Via Santa Sofia 64, I-95123 Catania, Italy.
+   [Caruso, A.; Galluccio, L.; Grasso, C.; Schembra, G.] Univ Catania, CNIT Res Unit, Via Santa Sofia 64, I-95123 Catania, Italy.
+   [Ignaccolo, M.; Inturri, G.; Leonardi, P.; Torrisi, V.] Univ Catania, Dept Civil Engn & Architecture, Via Santa Sofia 64, I-95123 Catania, Italy.
+C3 University of Catania; University of Catania; University of Catania
+RP Caruso, A (corresponding author), Univ Catania, Dept Elect Elect & Informat Engn DIEEI, Via Santa Sofia 64, I-95123 Catania, Italy.; Caruso, A (corresponding author), Univ Catania, CNIT Res Unit, Via Santa Sofia 64, I-95123 Catania, Italy.
+RI Galluccio, Laura/AGN-8954-2022; grasso, christian/AGI-9001-2022;
+   Schembra, Giovanni/AAA-3947-2021; Inturri, Giuseppe/AAC-2682-2020;
+   Caruso, Andrea/OGO-9940-2025; ignaccolo, matteo/A-7445-2011
+OI Caruso, Anea/0009-0004-6486-2184; 
+FU European Union Next Generation EU under the Italian National Recovery
+   and Resilience Plan (NRRP), Mission 4, Component 2, Investment 1.3 [CUP
+   J33C22002880001, CUP E63C22002070006, PE00000001]; NextGenerationEU PRIN
+   2022 [2022MWBFEE, CUP E53D23000770006]; Project UNICT PIACERI "Sicuri:
+   Strade Intelligenti per CondUcenti che impiegano smaRt vehIcles";
+   European Union (NextGeneration EU), through the MUR-PNRR project
+   SAMOTHRACE [ECS00000022]
+FX This work was partially supported by the European Union Next Generation
+   EU under the Italian National Recovery and Resilience Plan (NRRP),
+   Mission 4, Component 2, Investment 1.3, CUP J33C22002880001 and CUP
+   E63C22002070006, partnership on "Telecommunications of the Future"
+   (PE00000001 - program "RESTART"). The research activity of G. Schembra
+   was partially supported by the NextGenerationEU PRIN 2022 Prot. n.
+   2022MWBFEE "6GTWIN", CUP E53D23000770006. The activity by L. Galluccio
+   was supported by Project UNICT PIACERI "Sicuri: Strade Intelligenti per
+   CondUcenti che impiegano smaRt vehIcles". C. Grasso and V. Torrisi were
+   supported by European Union (NextGeneration EU), through the MUR-PNRR
+   project SAMOTHRACE (ECS00000022). Sensor data were provided by the
+   Laboratory of Sustainable Mobility of the University of Catania.
+   Specifically, the laboratory created within the project RE.S.E.T, is a
+   traffic monitoring, estimation and short-term forecasting system,
+   equipped with radar sensor and a central control station for traffic
+   data elaborations.
+NR 31
+TC 0
+Z9 0
+U1 2
+U2 2
+PU IEEE
+PI NEW YORK
+PA 345 E 47TH ST, NEW YORK, NY 10017 USA
+SN 2155-4943
+BN 979-8-3315-3474-5; 979-8-3315-3473-8
+J9 INTEG COMMUN NAVIG
+PY 2025
+DI 10.1109/ICNS65417.2025.10976747
+PG 9
+WC Engineering, Aerospace; Engineering, Electrical & Electronic;
+   Instruments & Instrumentation; Telecommunications
+WE Conference Proceedings Citation Index - Science (CPCI-S)
+SC Engineering; Instruments & Instrumentation; Telecommunications
+GA BY9PD
+UT WOS:001516425900001
+DA 2025-11-25
+ER
+
+PT J
+AU Mutambik, I
+AF Mutambik, Ibrahim
+TI Foresight for Sustainable Last-Mile Delivery: A Delphi-Based Scenario
+   Study for Smart Cities in 2030
+SO SUSTAINABILITY
+LA English
+DT Article
+DE Delphi study; e-commerce; healthcare service optimization; last-mile
+   delivery; smart city planning; technology acceptance model
+ID MANAGEMENT-PRACTICES; SUPPLY CHAIN; FUTURE; IMPACT; TECHNOLOGY;
+   ACCEPTANCE; INNOVATION; COMMERCE; MODEL
+AB This study aimed to investigate the future trajectories of last-mile delivery (LMD), and their implications for sustainable urban logistics and smart city planning. Through a Delphi-based scenario analysis targeting the year 2030, this research draws on inputs from a two-round Delphi study with 52 experts representing logistics, academia, and government. Four key thematic areas were explored: consumer demand and behavior, emerging delivery technologies, innovative delivery services, and regulatory frameworks. The projections were structured using fuzzy c-means clustering, and analyzed through the Technology Acceptance Model (TAM) and Innovation Diffusion Theory (IDT), supporting a systemic understanding of innovation adoption in urban logistics systems. The findings offer strategic insights for municipal planners, policymakers, logistics service providers, and e-commerce stakeholders, helping align infrastructure development and regulatory planning with the evolving needs of last-mile logistics. This approach contributes to advancing resilient, low-emission, and inclusive smart city ecosystems that align with global sustainability goals, particularly those outlined in the UN 2030 Agenda for Sustainable Development.
+C1 [Mutambik, Ibrahim] King Saud Univ, Coll Humanities & Social Sci, Dept Informat Sci, POB 11451, Riyadh, Saudi Arabia.
+C3 King Saud University
+RP Mutambik, I (corresponding author), King Saud Univ, Coll Humanities & Social Sci, Dept Informat Sci, POB 11451, Riyadh, Saudi Arabia.
+EM imutambik@ksu.edu.sa
+RI Mutambik, Ibrahim/HKM-4060-2023
+FU Ongoing Research Funding program; King Saud University, Riyadh, Saudi
+   Arabia;  [ORF-2025-233]
+FX This research was funded by Ongoing Research Funding program
+   (ORF-2025-233), King Saud University, Riyadh, Saudi Arabia.
+NR 135
+TC 0
+Z9 0
+U1 8
+U2 8
+PU MDPI
+PI BASEL
+PA MDPI AG, Grosspeteranlage 5, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD JUL 22
+PY 2025
+VL 17
+IS 15
+AR 6660
+DI 10.3390/su17156660
+PG 30
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 6BZ2X
+UT WOS:001549734200001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU An, J
+   Hong, J
+   Kang, H
+   Yeom, S
+   Jung, D
+   Hong, T
+   Jeong, K
+   Lee, J
+AF An, Jongbaek
+   Hong, Juwon
+   Kang, Hyuna
+   Yeom, Seungkeun
+   Jung, Dahyun
+   Hong, Taehoon
+   Jeong, Kwangbok
+   Lee, Jaewook
+TI The first step towards energy self-sufficiency in smart cities: The
+   present and future of virtual power plant technology
+SO BUILDING AND ENVIRONMENT
+LA English
+DT Article
+DE Virtual power plant; Dispersed renewable energy source; BERTopic
+   algorithm; Smart city; Vehicle to grid; Energy storage system;
+   Systematic review
+ID SCHEDULING OPTIMIZATION MODEL; DEMAND RESPONSE; DISTRIBUTED GENERATION;
+   DISTRIBUTION NETWORKS; ELECTRIC VEHICLES; OPTIMAL OPERATION;
+   STORAGE-SYSTEM; WIND; UNCERTAINTIES; MARKET
+AB Distributed renewable energy sources offer solutions to the global energy crisis, but their limitations in volatility and efficiency necessitate virtual power plants for optimal management. In this study, the BERTopic algorithm was used to objectively and systematically review research trends related to virtual power plants based on data. A total of 336 papers were classified using natural language processing, resulting in the identification of four research topics: Technology integration in the energy sector (82.6 %), Short-term demand prediction (6.4 %), Storage of renewable energy (6.0 %), and Vehicle-to-grid (5.4 %). From 2011 to 2023, the number of studies increased approximately 14-fold compared to 1997 to 2010, when the concept of VPP first emerged. Based on this, a quantitative review was conducted to identify the current barriers to the implementation of commercial and technical virtual power plants. Furthermore, future research directions were suggested to overcome these barriers and implement virtual power plants in urban areas. Proposed strategies include improving energy harvesting to predict energy generation more accurately, optimizing energy storage systems, and validating economic, environmental, and social feasibility, along with technical issues for multiple virtual power plants. This research offers insights into overcoming virtual power plant implementation barriers, contributing to energy self-reliance in smart cities.
+C1 [An, Jongbaek; Hong, Juwon; Kang, Hyuna; Yeom, Seungkeun; Jung, Dahyun] Yonsei Univ, Dept Architecture & Architectural Engn, Seoul 03722, South Korea.
+   [Hong, Taehoon] Yonsei Univ, Dept Architecture & Architectural Engn, Seoul 03722, South Korea.
+   [Jeong, Kwangbok; Lee, Jaewook] Sejong Univ, Deep Learning Architecture Res Ctr, Dept Architectural Engn, 209,Neungdong Ro, Seoul 05006, South Korea.
+C3 Yonsei University; Yonsei University; Sejong University
+RP Hong, T (corresponding author), Yonsei Univ, 50 Yonsei Ro, Seoul 03722, South Korea.
+EM ajb2577@yonsei.ac.kr; juwonae@yonsei.ac.kr; hyuna_kang@yonsei.ac.kr;
+   kevinysk@yonsei.ac.kr; danna23@yonsei.ac.kr; hong7@yonsei.ac.kr;
+   kbjeong7@sejong.ac.kr; jaewook@sejong.ac.kr
+RI Jeong, Kwangbok/ABA-6814-2020
+FU National Research Foundation of Korea (NRF) - Korea government (MIST;
+   Ministry of Science and ICT) [NRF-2021R1A3B1076769]
+FX This work was supported by the National Research Foundation of Korea
+   (NRF) grant funded by the Korea government (MIST; Ministry of Science
+   and ICT) (NRF-2021R1A3B1076769) .
+NR 259
+TC 1
+Z9 1
+U1 19
+U2 19
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-1323
+EI 1873-684X
+J9 BUILD ENVIRON
+JI Build. Environ.
+PD JUN 1
+PY 2025
+VL 277
+AR 112920
+DI 10.1016/j.buildenv.2025.112920
+EA MAR 2025
+PG 20
+WC Construction & Building Technology; Engineering, Environmental;
+   Engineering, Civil
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Construction & Building Technology; Engineering
+GA 2QO7O
+UT WOS:001488946300001
+DA 2025-11-25
+ER
+
+PT J
+AU Li, JL
+   Huang, JY
+   Zhong, PX
+AF Li, Jialing
+   Huang, Jiayi
+   Zhong, Pengxiang
+TI Intelligent energy management systems for buildings in smart cities
+   using PSO-driven optimization and penalty function constraints
+SO INTERNATIONAL JOURNAL OF ARCHITECTURAL COMPUTING
+LA English
+DT Article
+DE particle swarm optimization; intelligent building management; energy
+   saving; penalty function; building automation; optimization algorithm
+ID ALGORITHMS
+AB The growing need for energy conservation and sustainable development in smart urban areas demands the implementation of sophisticated Energy Management Systems (EMS) in modern buildings. This study presents a design for an intelligent EMS that merges Particle Swarm Optimization (PSO) with constraint-driven penalty functions to dynamically optimize energy consumption while maintaining both operational effectiveness and occupant comfort. The system efficiently oversees diverse energy consuming subsystems, including lighting, HVAC, and ventilation, by utilizing real-time data from environmental conditions and human presence, using a distributed wireless sensor network. The hardware setup features smart sensors and controllable nodes that monitor occupancy, temperature, ambient light, and air quality, enabling the coordinated management of energy-demanding systems. Central to the software architecture is a PSO-based control algorithm, augmented with penalty functions to impose crucial constraints, such as thermal comfort, minimum light levels, and ventilation standards. This hybrid optimization structure ensures that every control decision supports both energy conservation goals and human-centered needs. The novelty of the proposed EMS lies in its low-cost deployment, simplified integration with existing infrastructures, and enhanced interoperability across building systems, addressing key limitations of current solutions such as high complexity, inflexible architectures, and poor scalability. Experimental assessments in a simulated smart building setting reveal the system's adaptability, reliability, and prompt responses in real-time. The EMS successfully detected varying occupancy and environmental patterns, finely tuning energy allocation across subsystems. Numerical analyses indicate up to 30% overall energy savings, confirming the efficacy of the PSO-penalty optimization method. The proposed EMS provides a scalable, interoperable, and cost-effective solution, making it apt for integration into current infrastructures and supportive of future-ready smart city environments.
+C1 [Li, Jialing; Zhong, Pengxiang] Hunan City Univ, Coll Architecture & Urban Planning, 518 Yingbin East Rd, Yiyang 413000, Hunan, Peoples R China.
+   [Li, Jialing] Hunan City Univ, Key Lab Digital Urban & Rural Spatial Planning Hun, Yiyang, Peoples R China.
+   [Li, Jialing] Hunan City Univ, Key Lab Urban Planning Informat Technol Hunan Prov, Yiyang, Peoples R China.
+   [Huang, Jiayi] Univ Auckland, Fac Engn & Design, Auckland, New Zealand.
+C3 Hunan City University; Hunan City University; Hunan City University;
+   University of Auckland
+RP Li, JL (corresponding author), Hunan City Univ, Coll Architecture & Urban Planning, 518 Yingbin East Rd, Yiyang 413000, Hunan, Peoples R China.
+EM jialing_li410@163.com
+NR 31
+TC 0
+Z9 0
+U1 3
+U2 3
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 1478-0771
+EI 2048-3988
+J9 INT J ARCHIT COMPUT
+JI Int. J. Archit. Comput.
+PD SEP
+PY 2025
+VL 23
+IS 3
+BP 796
+EP 815
+DI 10.1177/14780771251362414
+EA JUL 2025
+PG 20
+WC Architecture
+WE Emerging Sources Citation Index (ESCI)
+SC Architecture
+GA 7EG7C
+UT WOS:001539330500001
+DA 2025-11-25
+ER
+
+PT J
+AU Costa, DG
+   Peixoto, JPJ
+   Jesus, TC
+   Portugal, P
+   Vasques, F
+   Rangel, E
+   Peixoto, M
+AF Costa, Daniel G.
+   Peixoto, Joao Paulo J.
+   Jesus, Thiago C.
+   Portugal, Paulo
+   Vasques, Francisco
+   Rangel, Elivelton
+   Peixoto, Maycon
+TI A Survey of Emergencies Management Systems in Smart Cities
+SO IEEE ACCESS
+LA English
+DT Article
+DE Emergency services; Smart cities; Licenses; Crisis management; Internet
+   of Things; Indexing; Hazards; Smart cities; emergencies management;
+   Internet of Things; sustainable cities; resilient cities
+ID WIRELESS SENSOR NETWORKS; SOCIAL MEDIA; ARTIFICIAL-INTELLIGENCE; FIRE
+   DETECTION; BIG DATA; NEURAL-NETWORK; EXPERT-SYSTEM; CITY; IOT; DISASTER
+AB The rapid urbanization process in the last century has deeply changed the way we live and interact with each other. As most people now live in urban areas, cities are experiencing growing demands for more efficient and sustainable public services that may improve the perceived quality of life, specially with the anticipated impacts of climatic changes. In this already complex scenario with increasingly overcrowded urban areas, different types of emergency situations may happen anywhere and anytime, with unpredictable costs in human lives and economic losses. In order to cope with unexpected and potentially dangerous emergencies, smart cities initiatives have been developed in different cities, addressing multiple aspects of emergencies detection, alerting, and mitigation. In this context, this article surveys recent smart city solutions for crisis management, proposing definitions for emergencies-oriented systems and classifying them according to the employed technologies and provided services. Additionally, recent developments in the domains of Internet of Things, Artificial Intelligence and Big Data are also highlighted when associated to the management of urban emergencies, potentially paving the way for new developments while classifying and organizing them according to different criteria. Finally, open research challenges will be identified, indicating promising trends and research directions for the coming years.
+C1 [Costa, Daniel G.; Vasques, Francisco] Univ Porto, INEGI, Fac Engn, P-4200465 Porto, Portugal.
+   [Peixoto, Joao Paulo J.] State Univ Feira De Santana, PPGM, BR-44036900 Feira De Santana, BA, Brazil.
+   [Jesus, Thiago C.] State Univ Feira De Santana, Dept Technol, BR-44036900 Feira De Santana, BA, Brazil.
+   [Portugal, Paulo] Univ Porto, INESC TEC, Fac Engn, P-4200465 Porto, Portugal.
+   [Rangel, Elivelton; Peixoto, Maycon] Univ Fed Bahia, Comp Sci Dept, BR-40170110 Salvador, BA, Brazil.
+C3 Universidade do Porto; Universidade Estadual de Feira de Santana;
+   Universidade Estadual de Feira de Santana; INESC TEC; Universidade do
+   Porto; Universidade Federal da Bahia
+RP Costa, DG (corresponding author), Univ Porto, INEGI, Fac Engn, P-4200465 Porto, Portugal.
+EM danielgcosta@fe.up.pt
+RI Peixoto, Maycon/V-4167-2018; Peixoto, João Paulo/KDN-4851-2024; Costa,
+   Daniel/I-4928-2013; Jesus, Thiago/AAC-9588-2021; Vasques,
+   Francisco/B-2494-2013; Portugal, Paulo/H-3286-2013; Peixoto,
+   Maycon/V-4167-2018
+OI Peixoto, Maycon/0000-0002-4851-5228; Costa, Daniel/0000-0003-3988-8476;
+   Vasques, Francisco/0000-0003-3115-0901; C Jesus,
+   Thiago/0000-0001-5299-6856; Just Peixoto, João
+   Paulo/0000-0003-3507-8249; Portugal, Paulo/0000-0002-6386-9753; Oliveira
+   Rangel, Elivelton/0000-0003-3155-7023; Peixoto,
+   Maycon/0000-0002-4851-5228
+FU FCT (Portuguese Foundation for Science and Technology)
+   [EXPL/EEI-COM/1089/2021]; INEGI-LAETA under FCT [UIDB/50022/2020];
+   Fundação para a Ciência e a Tecnologia [EXPL/EEI-COM/1089/2021] Funding
+   Source: FCT
+FX This work was supported in part by the FCT (Portuguese Foundation for
+   Science and Technology) under Grant EXPL/EEI-COM/1089/2021, and in part
+   by INEGI-LAETA under FCT Project UIDB/50022/2020.
+NR 247
+TC 51
+Z9 55
+U1 13
+U2 137
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2022
+VL 10
+BP 61843
+EP 61872
+DI 10.1109/ACCESS.2022.3180033
+PG 30
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science; Engineering; Telecommunications
+GA 2D4UF
+UT WOS:000811543500001
+OA gold
+DA 2025-11-25
+ER
+
+PT J
+AU Gayialis, SP
+   Kechagias, EP
+   Konstantakopoulos, GD
+AF Gayialis, Sotiris P.
+   Kechagias, Evripidis P.
+   Konstantakopoulos, Grigorios D.
+TI A city logistics system for freight transportation: integrating
+   information technology and operational research
+SO OPERATIONAL RESEARCH
+LA English
+DT Article
+DE Distribution; Logistics; City logistics; Cloud-based information system;
+   Urban freight transportation; Vehicle routing and scheduling
+ID VEHICLE-ROUTING PROBLEM; TIME WINDOW; ALGORITHM; ARCHITECTURE
+AB City logistics comprise the delivery and picking of goods in urban areas, affecting the performance of businesses and quality of life in cities. The systems that support city logistics for freight transportation have a great research interest for academics, and it is a hot topic for businesses. Research issues like delivery with time windows, traffic congestion, route optimization, and dynamic routing are of great importance in the literature of city logistics. However, that research activity often does not meet practical solutions, and there is a gap between operational research (OR) and business practices in freight transportation. This article presents the development of an information system that supports the efficient delivery of goods within urban areas. The system utilizes a set of OR algorithms enabled by information technologies (IT) to support logistics operations effectively. It mainly deals with optimizing vehicle routes and schedules, while considering the delivery time windows, the specific requirements of customers, the characteristics of the street network, the need for dynamic routing and rerouting, and traffic congestion issues in cities. The article presents the system's architecture, its development methodology, its basic functionality, the developed algorithms, as well as the adopted information technologies. It concludes with validating the system with real-life business data and the conclusions from the entire effort.
+C1 [Gayialis, Sotiris P.; Kechagias, Evripidis P.; Konstantakopoulos, Grigorios D.] Natl Tech Univ Athens, Sch Mech Engn, Sect Ind Management & Operat Res, Athens 15780, Greece.
+C3 National Technical University of Athens
+RP Gayialis, SP (corresponding author), Natl Tech Univ Athens, Sch Mech Engn, Sect Ind Management & Operat Res, Athens 15780, Greece.
+EM sotga@mail.ntua.gr; eurikechagias@mail.ntua.gr; gkonpoulos@mail.ntua.gr
+RI Kechagias, Evripidis/JDW-1728-2023; Konstantakopoulos,
+   Grigorios/AAS-1612-2020; Gayialis, Sotiris/AAE-2814-2019
+OI Gayialis, Sotiris/0000-0002-7524-0215; 
+NR 52
+TC 26
+Z9 30
+U1 9
+U2 99
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 1109-2858
+EI 1866-1505
+J9 OPER RES-GER
+JI Oper. Res.
+PD NOV
+PY 2022
+VL 22
+IS 5
+BP 5953
+EP 5982
+DI 10.1007/s12351-022-00695-0
+EA MAR 2022
+PG 30
+WC Operations Research & Management Science
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Operations Research & Management Science
+GA 5M4ZU
+UT WOS:000762867500001
+DA 2025-11-25
+ER
+
+PT J
+AU Yereseme, AK
+   Surendra, HJ
+   Kuntoji, G
+AF Yereseme, Archana K.
+   Surendra, H. J.
+   Kuntoji, Geetha
+TI Sustainable integrated urban flood management strategies for planning of
+   smart cities: a review
+SO SUSTAINABLE WATER RESOURCES MANAGEMENT
+LA English
+DT Review
+DE Urban flood management; Climate change; Water sensitive city;
+   Water-smart city; Water stress
+ID MODEL; CITY
+AB Accelerated urbanization, changes in climate and rapid increase in urban population have several impacts on the urban hydrological cycle. Severe water stress and urban flooding are evident in urban cities and hence, smart cities, which are water-sensitive are the need of the hour. Extreme climate events and frequent urban flash floods, effect the performance and development of smart cities. Sustainable integrated urban flood management strategies are considered to be crucial in planning and development of smart cities. High rainfall intensity-short duration flash floods occur frequently in high-density-core urban areas causing disruption of social life, economic activities and infrastructural damages. Urban floods have become disastrous, due to random and unplanned urbanization, inefficient drainage systems and lack of real-time monitoring technologies. Urban floods are also accompanied with huge flood runoff which can be routed, stored and used for other smart city applications. This study highlights the various sustainable integrated urban flood management strategies and technologies in development of water-smart city. Framework for managing urban floods and planning of smart cities using smart source control systems, digital automations, remote-sensing applications and real-time technologies are reviewed. As a part of case study, current urban flood management strategies in Indian smart cities are discussed.
+C1 [Yereseme, Archana K.] BMS Inst Technol & Management, Dept Civil Engn, Bengaluru, India.
+   [Surendra, H. J.] ATRIA Inst Technol, Dept Civil Engn, Bengaluru, India.
+   [Kuntoji, Geetha] BMS Coll Engn, Dept Civil Engn, Bengaluru, India.
+C3 BMS College of Engineering
+RP Surendra, HJ (corresponding author), ATRIA Inst Technol, Dept Civil Engn, Bengaluru, India.
+EM archanak@bmsit.in; surendra@atria.edu; geetha.civ@bmsce.ac.in
+RI ; SURENDRA, H/K-1858-2019; Kumar, Archana/AAD-1688-2022
+OI Kumar, Archana/0000-0003-3619-6570; KUNTOJI, GEETHA/0000-0003-1293-6052
+NR 22
+TC 30
+Z9 33
+U1 7
+U2 81
+PU SPRINGER INT PUBL AG
+PI CHAM
+PA GEWERBESTRASSE 11, CHAM, CH-6330, SWITZERLAND
+SN 2363-5037
+EI 2363-5045
+J9 SUST WAT RESOUR MAN
+JI Sustain. Wat. Resour. Manag.
+PD JUN
+PY 2022
+VL 8
+IS 3
+AR 85
+DI 10.1007/s40899-022-00666-5
+PG 15
+WC Water Resources
+WE Emerging Sources Citation Index (ESCI)
+SC Water Resources
+GA 0Z0UG
+UT WOS:000790795500002
+DA 2025-11-25
+ER
+
+PT J
+AU Xidias, E
+   Zacharia, P
+   Nearchou, A
+AF Xidias, Elias
+   Zacharia, Paraskevi
+   Nearchou, Andreas
+TI Intelligent fleet management of autonomous vehicles for city logistics
+SO APPLIED INTELLIGENCE
+LA English
+DT Article
+DE Transportation; Fuzziness; Evolutionary systems; Motion planning;
+   Vehicle routing; Logistics
+ID ROUTING PROBLEM; DELIVERY; IMPACT; DEPOT
+AB Consideration is given to the management of a fleet of autonomous vehicles (AVs) designed to support freight delivery in urban areas. The fleet of AVs is assumed operating within the general framework of an Intelligent Transportation System (ITS). Creating the technologies necessary for such ITS raises many important and complex problems related to research areas such as automated reasoning, perception, and control among others. Two of them, namely, AVs' routing and AVs' motion planning, are the main themes of this work. In this paper, we propose a novel approach for their formation and composition in the context of an ITS. Routing and motion planning decisions for AVs are assessed considering the latest traffic conditions existing on the road network. Since these conditions are usually vague and therefore difficult to be measured accurately, fuzzy logic concepts are incorporated into ITS to simulate the uncertainty in traffic networks. Solutions to the fuzzy routing and fuzzy motion planning for AVs are finally derived from a hybrid approach that combines the A-star algorithm with two modified genetic algorithms. Simulated experiments over the city of Patras (Greece) show the efficiency of the developed approach.
+C1 [Xidias, Elias] Univ Aegean, Dept Prod & Syst Design Engn, Mitilini, Greece.
+   [Zacharia, Paraskevi] Univ West Attica, Dept Ind Design & Prod Engn, Aigaleo, Greece.
+   [Nearchou, Andreas] Univ Patras, Dept Business Adm, Patras, Greece.
+C3 University of Aegean; University of West Attica; University of Patras
+RP Xidias, E (corresponding author), Univ Aegean, Dept Prod & Syst Design Engn, Mitilini, Greece.
+EM xidias@aegean.gr
+RI Nearchou, Andreas/B-9059-2014; Xidias, Elias/AAS-2876-2021
+OI Xidias, Elias/0000-0002-6228-4577; 
+NR 40
+TC 16
+Z9 18
+U1 1
+U2 11
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0924-669X
+EI 1573-7497
+J9 APPL INTELL
+JI Appl. Intell.
+PD DEC
+PY 2022
+VL 52
+IS 15
+SI SI
+BP 18030
+EP 18048
+DI 10.1007/s10489-022-03535-y
+EA APR 2022
+PG 19
+WC Computer Science, Artificial Intelligence
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 6I5WN
+UT WOS:000779613400005
+DA 2025-11-25
+ER
+
+PT J
+AU Kristiadi, Y
+   Sari, RF
+   Herdiansyah, H
+   Hasibuan, HS
+   Lim, TH
+AF Kristiadi, Yusuf
+   Sari, Riri Fitri
+   Herdiansyah, Herdis
+   Hasibuan, Hayati Sari
+   Lim, Tiong Hoo
+TI Developing DPSIR Framework for Managing Climate Change in Urban Areas: A
+   Case Study in Jakarta, Indonesia
+SO SUSTAINABILITY
+LA English
+DT Article
+DE framework strategy managing climate change; smart city; DPSIR; entropy;
+   PLS-SEM
+ID PATTERN; CITIES
+AB From an environmentally conscious and ecological perspective, the sustainability of cities within the effects of climate change are closely related to the wise use of resources and modifications in the ecological status of the environment. In terms of the ecological environment, the sustainability of smart cities entails meeting present and future societal demands for the environment of the water, land, and air, among others. Environmental and the ecological concerns that arise from rapid climate change and monetary developments are shown in the inconsistency between ecological assets, environmental pollution, and the destruction of nature. In this study, the authors aim to develop a strategy to deal with climate change in urban areas using Remote Sensing and the Driver-Pressure-State-Impact-Response (DPSIR) Framework with a case study in Jakarta Smart City. The DPSIR framework, which will be developed and implemented in the city of Jakarta, is a smarter and more sustainable framework that is evaluated through a systematic evaluation of sustainability with quantitative research using the entropy weight method and Partial Least Square-Structural Equation Modeling (PLS-SEM). These methods evaluate 58 representative elements of environments at the urban level, including the shortcomings of earlier research such as data availability, spatial and temporal constraints, and several related ecological indicators, such as soil pH, wind speed, air quality index as well as land changes in the spatial (spatiotemporal) time series. The results of the study show that in the metropolitan city of Jakarta, the Drivers that are related to climate change are the rate of population growth and the rate of industrial growth which, although increases people's income and GRDP in Jakarta; it also creates Pressures, namely an increase in the amount of water consumption and in the amount of wastewater. Based on these pressures, the environmental conditions (State) of Jakarta city have undergone several environmental changes, such as loss of water supply, changes in wind speed, changes in rainfall, and increasing concentrations of the Air Pollutant Standard Index. The Impact of these three elements resulted in the increase in household and industrial water consumption, an increase in annual electricity consumption, and deteriorating air quality. Hence, the Response to these four interrelated causal variables is that the Jakarta Provincial Government must increase annual funds for the construction of urban community facilities, increase the production capacity of clean water supply, build environment-friendly wastewater treatment facilities, increase the capacity of waste processing infrastructure and transportation fleets, and educate people to use water wisely to reduce the level of water use.
+C1 [Kristiadi, Yusuf; Herdiansyah, Herdis; Hasibuan, Hayati Sari] Univ Indonesia, Sch Environm Sci, Central Jakarta 10430, Indonesia.
+   [Sari, Riri Fitri] Univ Indonesia, Fac Engn, Depok 16424, Indonesia.
+   [Lim, Tiong Hoo] Univ Teknol Brunei, Fac Engn, Tungku Highway, BE-1410 Bandar Seri Begawan, Brunei.
+C3 University of Indonesia; University of Indonesia; University of
+   Technology Brunei
+RP Kristiadi, Y (corresponding author), Univ Indonesia, Sch Environm Sci, Central Jakarta 10430, Indonesia.
+EM yusuf.kristiadi@ui.ac.id
+RI ; Sari, Riri/P-6792-2019; Herdiansyah, Herdis/K-3075-2019
+OI Kristiadi, Yusuf/0000-0002-8308-2165; Hasibuan,
+   Hayati/0000-0002-5728-2120; Sari, Riri Fitri/0000-0002-8841-8078;
+   Herdiansyah, Herdis/0000-0003-2684-3551; Lim, Tiong
+   Hoo/0000-0002-2170-2111
+FU Universitas Indonesia [NKB-340/UN2.RST/HKP.05.00/2022]
+FX This work is supported by Universitas Indonesia under PUTI Pascasarjana
+   Grant with contract number NKB-340/UN2.RST/HKP.05.00/2022.
+NR 53
+TC 15
+Z9 17
+U1 0
+U2 33
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD DEC
+PY 2022
+VL 14
+IS 23
+AR 15773
+DI 10.3390/su142315773
+PG 30
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA 6Y7HW
+UT WOS:000897262800001
+OA Green Submitted, gold
+DA 2025-11-25
+ER
+
+EF

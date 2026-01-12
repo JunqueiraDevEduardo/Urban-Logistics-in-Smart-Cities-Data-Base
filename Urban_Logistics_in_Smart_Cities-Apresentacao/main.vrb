@@ -1,0 +1,17 @@
+\frametitle{Considerações para o dia da apresentação}
+
+\setlstep{0.3cm}{0cm}{0cm}
+\begin{itemize}
+	\item Estar presente com a antecedência necessária para preparar a apresentação.
+	\item Abrir o PDF da apresentação com o Adobe Acrobat Reader, Foxit Reader, entre outros.
+	\begin{itemize}
+		\item Evitar usar leitores de PDFs de \textit{browsers}.
+	\end{itemize}
+	\item Colocar em modo de ecrã inteiro, e.g.:
+	\begin{itemize}
+		\item Adobe Acrobat Reader: \verb|CTRL + L|
+		\item Foxit Reader: \verb|F11|
+	\end{itemize}
+	\item Deve ter consigo uma cópia do relatório para a fase de discussão.
+\end{itemize}
+

@@ -1,0 +1,1550 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2026.1.5)  12 JAN 2026 13:52
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/workspaces/VSCode-LaTeX-Container/Urban_Logistics_in_Smart_Cities-Relatorio/main.tex
+(/workspaces/VSCode-LaTeX-Container/Urban_Logistics_in_Smart_Cities-Relatorio/main.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(./DEEclass.cls
+Document Class: DEEclass DEEclass v1.0 DEE@ISEP
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box52
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+) (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count198
+\c@chapter=\count199
+\c@section=\count266
+\c@subsection=\count267
+\c@subsubsection=\count268
+\c@paragraph=\count269
+\c@subparagraph=\count270
+\c@figure=\count271
+\c@table=\count272
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count273
+\U@D=\dimen142
+\l@unhyphenated=\language10
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count274
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuguese.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Making " an active character on input line 143.
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/pt/babel-portuguese.tex
+Package babel Info: Importing font and identification data for portuguese
+(babel)             from babel-pt.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2024/10/24 v3.43 KOMA-Script package (file load hooks)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2024/10/24 v3.43 KOMA-Script package (using LaTeX hooks)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2024/10/24 v3.43 KOMA-Script package (logo)
+))) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
+) (/usr/share/texlive/texmf-dist/tex/latex/scrhack/scrhack.sty
+Package: scrhack 2024-09-04 v3.42 scrhack emulation package
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count275
+\LTcapwidth=\dimen143
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count276
+\LT@rows=\count277
+\c@LT@tables=\count278
+\c@LT@chunks=\count279
+\LT@p@ftn=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen146
+\lightrulewidth=\dimen147
+\cmidrulewidth=\dimen148
+\belowrulesep=\dimen149
+\belowbottomsep=\dimen150
+\aboverulesep=\dimen151
+\abovetopsep=\dimen152
+\cmidrulesep=\dimen153
+\cmidrulekern=\dimen154
+\defaultaddspace=\dimen155
+\@cmidla=\count280
+\@cmidlb=\count281
+\@aboverulesep=\dimen156
+\@belowrulesep=\dimen157
+\@thisruleclass=\count282
+\@lastruleclass=\count283
+\@thisrulewidth=\dimen158
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen159
+\captionmargin=\dimen160
+\caption@leftmargin=\dimen161
+\caption@rightmargin=\dimen162
+\caption@width=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count284
+\c@continuedfloat=\count285
+Package caption Info: longtable package is loaded.
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)) (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count286
+\csq@gtype=\count287
+\csq@glevel=\count288
+\csq@qlevel=\count289
+\csq@maxlvl=\count290
+\csq@tshold=\count291
+\csq@ltx@everypar=\toks21
+ (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling multilingual quotes.
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count292
+) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen167
+\Hy@linkcounter=\count293
+\Hy@pagecounter=\count294
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count295
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count296
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen168
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count297
+\Field@Width=\dimen169
+\Fld@charsize=\dimen170
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip55
+)
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 202.
+Package hyperref Info: Option `breaklinks' set `true' on input line 202.
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count303
+\calc@Bcount=\count304
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count305
+\calc@Cskip=\skip58
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count306
+\lst@gtempboxa=\box58
+\lst@token=\toks22
+\lst@length=\count307
+\lst@currlwidth=\dimen173
+\lst@column=\count308
+\lst@pos=\count309
+\lst@lostspace=\dimen174
+\lst@width=\dimen175
+\lst@newlines=\count310
+\lst@lineno=\count311
+\lst@maxwidth=\dimen176
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/09/23 1.10c (Carsten Heinz)
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
+\c@lstnumber=\count312
+\lst@skipnumbers=\count313
+\lst@framebox=\box59
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/09/23 1.10c listings configuration
+))
+Package: listings 2024/09/23 1.10c (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/datetime2/datetime2.sty
+Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
+ (/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2025/03/04 v1.6.5 (NLCT) Track Languages
+ (/usr/share/texlive/texmf-dist/tex/generic/tracklang/tracklang.tex)) (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count314
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/latex/datetime2-portuges/datetime2-portuges.ldf
+File: datetime2-portuges.ldf 2018/08/21 v1.1
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/latex/datetime2-portuges/datetime2-portuges-ascii.ldf
+File: datetime2-portuges-ascii.ldf 2018/08/21 v1.1
+)) (/usr/share/texlive/texmf-dist/tex/latex/datetime2/datetime2-calc.sty
+Package: datetime2-calc 2021/03/21 v1.5.7 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks27
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfcalendar.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen177
+\pgfutil@tempdimb=\dimen178
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box60
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.code.tex
+File: pgfcalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+\pgfcalendarcurrentjulian=\count315
+\pgf@cal@easter@Y=\count316
+\pgf@cal@easter@G=\count317
+\pgf@cal@easter@C=\count318
+\pgf@cal@easter@X=\count319
+\pgf@cal@easter@Z=\count320
+\pgf@cal@easter@D=\count321
+\pgf@cal@easter@E=\count322
+\pgf@cal@easter@N=\count323
+\pgf@cal@easter@M=\count324
+\pgf@cal@easter@julianday=\count325
+))
+\@dtm@julianday=\count326
+)) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2025-02-27 v3.4.6 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count327
+\l__siunitx_number_exponent_fixed_int=\count328
+\l__siunitx_number_min_decimal_int=\count329
+\l__siunitx_number_min_integer_int=\count330
+\l__siunitx_number_round_precision_int=\count331
+\l__siunitx_number_lower_threshold_int=\count332
+\l__siunitx_number_upper_threshold_int=\count333
+\l__siunitx_number_group_first_int=\count334
+\l__siunitx_number_group_size_int=\count335
+\l__siunitx_number_group_minimum_int=\count336
+\l__siunitx_angle_tmp_dim=\dimen179
+\l__siunitx_angle_marker_box=\box61
+\l__siunitx_angle_unit_box=\box62
+\l__siunitx_compound_count_int=\count337
+ (/usr/share/texlive/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen180
+))
+\l__siunitx_table_tmp_box=\box63
+\l__siunitx_table_tmp_dim=\dimen181
+\l__siunitx_table_column_width_dim=\dimen182
+\l__siunitx_table_integer_box=\box64
+\l__siunitx_table_decimal_box=\box65
+\l__siunitx_table_uncert_box=\box66
+\l__siunitx_table_before_box=\box67
+\l__siunitx_table_after_box=\box68
+\l__siunitx_table_before_dim=\dimen183
+\l__siunitx_table_carry_dim=\dimen184
+\l__siunitx_unit_tmp_int=\count338
+\l__siunitx_unit_position_int=\count339
+\l__siunitx_unit_total_int=\count340
+ (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen185
+\ar@mcellbox=\box69
+\extrarowheight=\dimen186
+\NC@list=\toks30
+\extratabsurround=\skip59
+\backup@length=\skip60
+\ar@cellbox=\box70
+)) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2025/03/03 v4.56 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks31
+\@glsmrest=\toks32
+) (/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+) (|kpsewhich --var-value=TEXMF_OUTPUT_DIRECTORY) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+LaTeX Info: Redefining \translate on input line 184.
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-portuges.ldf
+File: glossaries-portuges.ldf 2014/11/23 v1.0
+ (/usr/share/texlive/texmf-dist/tex/latex/glossaries-portuges/glossaries-portuges-utf8.ldf)) (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2025/03/05 v3.0.1 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen187
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count341
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count342
+\leftroot@=\count343
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count344
+\DOTSCASE@=\count345
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box71
+\strutbox@=\box72
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen188
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count346
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count347
+\dotsspace@=\muskip18
+\c@parentequation=\count348
+\dspbrk@lvl=\count349
+\tag@help=\toks33
+\row@=\count350
+\column@=\count351
+\maxfields@=\count352
+\andhelp@=\toks34
+\eqnshift@=\dimen189
+\alignsep@=\dimen190
+\tagshift@=\dimen191
+\tagwidth@=\dimen192
+\totwidth@=\dimen193
+\lineht@=\dimen194
+\@envbody=\toks35
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-l3fp.def
+File: datatool-l3fp.def 2025/03/05 v3.0.1 (NLCT)
+)
+\@dtl@toks=\toks37
+\@dtl@tmpcount=\count353
+\dtl@tmplength=\skip64
+\l__datatool_measure_box=\box73
+\dtl@sortresult=\count354
+ (/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-utf8.ldf
+File: datatool-utf8.ldf 2025/03/05 v3.0.1 (NLCT)
+)
+\@dtl@datatype=\count355
+\l__datatool_tmpa_int=\count356
+\l__datatool_tmpb_int=\count357
+\l__datatool_tmpc_int=\count358
+\l__datatool_tmpd_int=\count359
+\l__datatool_count_int=\count360
+\l__datatool_tmp_datatype_int=\count361
+\l__datatool_tmpa_dim=\dimen195
+\l__datatool_tmpb_dim=\dimen196
+\c_datatool_unknown_int=\count362
+\l__datatool_year_int=\count363
+\l__datatool_month_int=\count364
+\l__datatool_day_int=\count365
+\l__datatool_hour_int=\count366
+\l__datatool_minute_int=\count367
+\l__datatool_second_int=\count368
+\l__datatool_tzhour_int=\count369
+\l__datatool_tzminute_int=\count370
+\l__datatool_julian_int=\count371
+\l__datatool_local_julian_int=\count372
+\l__datatool_prefix_int=\count373
+\l__datatool_suffix_int=\count374
+\@dtl@foreach@level=\count375
+
+
+Package tracklang Warning: No `datatool' support for dialect `portuguese'  on input line 9897.
+
+\dtl@codeA=\count376
+\dtl@codeB=\count377
+)
+\gls@level=\count378
+\@gls@tmpb=\toks38
+\gls@tmplen=\skip65
+\glskeylisttok=\toks39
+\glslabeltok=\toks40
+\glsshorttok=\toks41
+\glslongtok=\toks42
+ (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.sty
+Package: glossary-hypernav 2025/03/03 v4.56 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2025/03/03 v4.56 (NLCT)
+\glslistdottedwidth=\skip66
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2025/03/03 v4.56 (NLCT)
+\glsdescwidth=\skip67
+\glspagelistwidth=\skip68
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2025/03/03 v4.56 (NLCT)
+ (/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2024/07/20 v4.2c the supertabular environment
+\c@tracingst=\count379
+\ST@wd=\dimen197
+\ST@rightskip=\skip69
+\ST@leftskip=\skip70
+\ST@parfillskip=\skip71
+\ST@pageleft=\dimen198
+\ST@headht=\dimen199
+\ST@tailht=\dimen256
+\ST@pagesofar=\dimen257
+\ST@pboxht=\dimen258
+\ST@rowht=\dimen259
+\ST@prevht=\dimen260
+\ST@toadd=\dimen261
+\ST@dimen=\dimen262
+\ST@pbox=\box74
+)) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2025/03/03 v4.56 (NLCT)
+\glstreeindent=\skip72
+)) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip73
+\enit@outerparindent=\dimen263
+\enit@toks=\toks43
+\enit@inbox=\box75
+\enit@count@id=\count380
+\enitdp@description=\count381
+) (/usr/share/texlive/texmf-dist/tex/latex/notoccite/notoccite.sty
+Package: notoccite 2000/07/20
+) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count382
+\c@@ppsavesec=\count383
+\c@@ppsaveapp=\count384
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+ (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count385
+\c@ALG@rem=\count386
+\c@ALG@nested=\count387
+\ALG@tlm=\skip74
+\ALG@thistlm=\skip75
+\c@ALG@Lnr=\count388
+\c@ALG@blocknr=\count389
+\c@ALG@storecount=\count390
+\c@ALG@tmpcounter=\count391
+\ALG@tmplength=\skip76
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count392
+\float@exts=\toks44
+\float@box=\box76
+\@float@everytoks=\toks45
+\@floatcapt=\box77
+) (/usr/share/texlive/texmf-dist/tex/latex/floatbytocbasic/floatbytocbasic.sty
+Package: floatbytocbasic 2023-08-16 v1.0 improved float package using tocbasic
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2024/10/24 v3.43 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip77
+\scr@dte@tocline@numbox=\box78
+) (/usr/share/texlive/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+))
+Package tocbasic Info: setting babel extension for `loa' on input line 95.
+\@float@every@algorithm=\toks46
+\c@algorithm=\count393
+)
+\c@theorem=\count394
+\c@corollary=\count395
+\c@lemma=\count396
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2023-11-26 v1.44 Bibliographical back referencing
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/usr/share/texlive/texmf-dist/tex/latex/setspaceenhanced/setspaceenhanced.sty
+Package: setspaceenhanced 2024-11-12 v1.04 improved setspace package
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count397
+\Gm@cntv=\count398
+\c@Gm@tempcnt=\count399
+\Gm@bindingoffset=\dimen264
+\Gm@wd@mp=\dimen265
+\Gm@odd@mp=\dimen266
+\Gm@even@mp=\dimen267
+\Gm@layoutwidth=\dimen268
+\Gm@layoutheight=\dimen269
+\Gm@layouthoffset=\dimen270
+\Gm@layoutvoffset=\dimen271
+\Gm@dimlist=\toks47
+) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2024/10/24 v3.43 KOMA-Script package (end user interface for scrlayer)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2024/10/24 v3.43 KOMA-Script package (defining layers and page styles)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2024/10/24 v3.43 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+)
+\footheight=\skip78
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 2182.
+)
+Package scrbase Info: Unknown processing state.
+(scrbase)             Processing option `markcase=used'
+(scrbase)             of member `.scrlayer-scrpage.sty' of family
+(scrbase)             `KOMA' doesn't set
+(scrbase)             a valid state. This will be interpreted
+(scrbase)             as \FamilyKeyStateProcessed on input line 649.
+)
+\myheight=\skip79
+\mydepth=\skip80
+)
+
+LaTeX Warning: \include should only be used after \begin{document} on input line 10.
+
+(./preamble.tex (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip81
+\multirow@cntb=\count400
+\multirow@dima=\skip82
+\bigstrutjot=\dimen272
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count401
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count402
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/lscapeenhanced/lscapeenhanced.sty
+Package: lscapeenhanced 2024-04-16 v1.0 improved lscape package
+Package lscapeenhanced Info: \landscape patched to make \textheight change optional on input line 72.
+\@lscapeenhanced@textheight=\skip83
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks48
+\verbatim@line=\toks49
+\verbatim@in@stream=\read3
+) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count403
+\l__lipsum_a_int=\count404
+\l__lipsum_b_int=\count405
+ (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+runsystem(makeindex -s main.ist -t main.glg -o main.gls main.glo)...executed safely (allowed).
+
+runsystem(makeindex -s main.ist -t main.alg -o main.acr main.acn)...executed safely (allowed).
+
+runsystem(makeindex -s main.ist -t main.slg -o main.syi main.syg)...executed safely (allowed).
+
+\glswrite=\write3
+\glo@main@file=\write4
+\openout4 = `main.glo'.
+
+Package glossaries Info: Writing glossary file main.glo on input line 46.
+\glo@acronym@file=\write5
+\openout5 = `main.acn'.
+
+Package glossaries Info: Writing glossary file main.acn on input line 46.
+\glo@symbolslist@file=\write6
+\openout6 = `main.syg'.
+
+Package glossaries Info: Writing glossary file main.syg on input line 46.
+ (./front/0_acronyms.tex))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 29.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (./main.aux (./front/title.aux) (./front/4_frontmatterlists.aux) (./front/abstract.aux) (./front/0_acronyms.aux) (./front/abstract_eng.aux (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing data for english
+(babel)             from babel-en.ini. Reported on input line 3.
+) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count406
+\scratchdimen=\dimen273
+\scratchbox=\box79
+\nofMPsegments=\count407
+\nofMParguments=\count408
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count409
+\MPscratchDim=\dimen274
+\MPnumerator=\count410
+\makeMPintoPDFobject=\count411
+\everyMPtoPDFconversion=\toks51
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 29.
+ (./main.out) (./main.out)
+\@outlinefile=\write7
+\openout7 = `main.out'.
+
+\c@lstlisting=\count412
+Package tocbasic Info: setting babel extension for `lol' on input line 29.
+Package translations Info: no dictionary file `translations-basic-dictionary-portuges.trsl' found. on input line 29.
+ (./main.glsdefs)
+Package scrbase Info: activating portuguese \reftocname on input line 29.
+Package scrbase Info: activating portuguese \degree on input line 29.
+Package scrbase Info: activating portuguese \darea on input line 29.
+Package scrbase Info: activating portuguese \disclamer on input line 29.
+Package scrbase Info: activating portuguese \studentlabel on input line 29.
+Package scrbase Info: activating portuguese \nblabel on input line 29.
+Package scrbase Info: activating portuguese \advisorlabel on input line 29.
+Package scrbase Info: activating portuguese \coadvisorlabel on input line 29.
+Package scrbase Info: activating portuguese \supervisorlabel on input line 29.
+Package scrbase Info: activating portuguese \companylabel on input line 29.
+Package scrbase Info: activating portuguese \acknowledgementname on input line 29.
+Package scrbase Info: activating portuguese \abstraclabel on input line 29.
+Package scrbase Info: activating portuguese \keywordslabel on input line 29.
+Package scrbase Info: activating portuguese \listalgorithmname on input line 29.
+Package scrbase Info: activating portuguese \glossname on input line 29.
+Package scrbase Info: activating portuguese \acronymsname on input line 29.
+Package scrbase Info: activating portuguese \symbolsname on input line 29.
+Package scrbase Info: activating portuguese \symbolsSymbol on input line 29.
+Package scrbase Info: activating portuguese \symbolsDescription on input line 29.
+Package scrbase Info: activating portuguese \symbolsUnits on input line 29.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 5.69046pt
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 463.78003pt, 71.13188pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=463.78003pt
+* \textheight=745.46222pt
+* \oddsidemargin=-9.67403pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-68.3183pt
+* \headheight=18.85364pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=106.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\openout2 = `front/title.aux'.
+
+(./front/title.tex
+<front/isep_wordmark_expanded_vintage.pdf, id=120, 6097.78125pt x 745.35966pt>
+File: front/isep_wordmark_expanded_vintage.pdf Graphic file (type pdf)
+<use front/isep_wordmark_expanded_vintage.pdf>
+Package pdftex.def Info: front/isep_wordmark_expanded_vintage.pdf  used on input line 3.
+(pdftex.def)             Requested size: 170.71652pt x 20.85855pt.
+
+
+[1
+
+\openout3 = `main.ist'.
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc} <./front/isep_wordmark_expanded_vintage.pdf>]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4.
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4.
+ (/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 4.
+ (/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 4.
+ (/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 4.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+ (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+File: front/isep_wordmark_expanded_vintage.pdf Graphic file (type pdf)
+<use front/isep_wordmark_expanded_vintage.pdf>
+Package pdftex.def Info: front/isep_wordmark_expanded_vintage.pdf  used on input line 4.
+(pdftex.def)             Requested size: 170.71652pt x 20.85855pt.
+)
+
+[2{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
+\openout2 = `front/4_frontmatterlists.aux'.
+
+ (./front/4_frontmatterlists.tex (./main.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 8.
+)
+\tf@toc=\write8
+\openout8 = `main.toc'.
+
+ (./main.acr
+
+[3
+
+
+
+
+]
+
+[4
+
+]
+
+[5
+
+])
+
+[6] (./main.lof)
+\tf@lof=\write9
+\openout9 = `main.lof'.
+
+
+
+[7
+
+] (./main.lot)
+\tf@lot=\write10
+\openout10 = `main.lot'.
+
+)
+
+[8
+
+]
+\openout2 = `front/abstract.aux'.
+
+ (./front/abstract.tex
+--------------------
+ Resumo
+--------------------
+)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40 \include{front/abstract}
+                             %Abstract [1
+
+
+
+
+]
+\openout2 = `front/0_acronyms.aux'.
+
+ (./front/0_acronyms.tex
+\@gls@deffile=\write11
+\openout11 = `main.glsdefs'.
+
+
+
+Package glossaries Warning: Entry `isep' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 6.
+
+
+Package glossaries Warning: Entry `meec' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 8.
+
+
+Package glossaries Warning: Entry `dee' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 10.
+
+
+Package glossaries Warning: Entry `as' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 11.
+
+
+Package glossaries Warning: Entry `query' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 12.
+
+
+Package glossaries Warning: Entry `logis' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 14.
+
+
+Package glossaries Warning: Entry `moodle' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 16.
+
+
+Package glossaries Warning: Entry `uc' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 17.
+
+
+Package glossaries Warning: Entry `fig' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 18.
+
+
+Package glossaries Warning: Entry `wos' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 19.
+
+
+Package glossaries Warning: Entry `ine' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 20.
+
+
+Package glossaries Warning: Entry `excel' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 21.
+
+
+Package glossaries Warning: Entry `txt' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 22.
+
+
+Package glossaries Warning: Entry `csv' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 23.
+
+
+Package glossaries Warning: Entry `hindex' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 25.
+
+
+Package glossaries Warning: Entry `github' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 28.
+
+
+Package glossaries Warning: Entry `vosviewer' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 30.
+
+
+Package glossaries Warning: Entry `iec' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 33.
+
+
+Package glossaries Warning: Entry `iso' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 34.
+
+
+Package glossaries Warning: Entry `itu' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 35.
+
+
+Package glossaries Warning: Entry `ieee' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 36.
+
+
+Package glossaries Warning: Entry `ejor' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 38.
+
+
+Package glossaries Warning: Entry `iot' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 39.
+
+
+Package glossaries Warning: Entry `bigdata' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 40.
+
+
+Package glossaries Warning: Entry `ai' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 41.
+
+
+Package glossaries Warning: Entry `ml' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 42.
+
+
+Package glossaries Warning: Entry `dl' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 43.
+
+
+Package glossaries Warning: Entry `5g' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 44.
+
+
+Package glossaries Warning: Entry `va' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 46.
+
+
+Package glossaries Warning: Entry `egc' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 48.
+
+
+Package glossaries Warning: Entry `co2' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 50.
+
+
+Package glossaries Warning: Entry `ue' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 52.
+
+
+Package glossaries Warning: Entry `smile' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 55.
+
+
+Package glossaries Warning: Entry `dbscan' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 57.
+
+
+Package glossaries Warning: Entry `bce' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 58.
+
+
+Package glossaries Warning: Entry `ersc' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 60.
+
+
+Package glossaries Warning: Entry `ipvc' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 62.
+
+
+Package glossaries Warning: Entry `citylab' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 64.
+
+
+Package glossaries Warning: Entry `bct' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 66.
+
+
+Package glossaries Warning: Entry `kpi' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 68.
+
+
+Package glossaries Warning: Entry `civitas' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 70.
+
+
+Package glossaries Warning: Entry `enoll' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 72.
+
+
+Package glossaries Warning: Entry `prr' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 74.
+
+
+Package glossaries Warning: Entry `amp' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 76.
+
+
+Package glossaries Warning: Entry `eur' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 78.
+
+
+Package glossaries Warning: Entry `api' has already been defined in the preamble (in which case remove the duplicate definition) or you have just updated to glossaries.sty v4.47 (in which case delete `main.glsdefs') on input line 80.
+
+)
+\openout2 = `front/abstract_eng.aux'.
+
+ (./front/abstract_eng.tex
+--------------------
+ Abstract
+--------------------
+)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.47 \include{front/abstract_eng}
+                                  [2
+
+
+
+
+
+
+
+
+]
+\openout2 = `chapters/chapter1.aux'.
+
+ (./chapters/chapter1.tex
+Cap\'{\i }tulo 1.
+
+
+[1
+
+
+
+
+]
+
+[2]
+Overfull \hbox (22.90332pt too wide) in paragraph at lines 91--92
+[]\T1/lmr/m/n/10.95 Os ma-pas \T1/lmr/m/it/10.95 Co-occurrence \T1/lmr/m/n/10.95 per-mi-tem iden-ti-fi-car re-la-ções en-tre ocor-rên-cias de palavras-chave/\T1/lmr/m/it/10.95 keywords
+ []
+
+)
+
+[3]
+\openout2 = `chapters/chapter2.aux'.
+
+ (./chapters/chapter2.tex
+Cap\'{\i }tulo 2.
+
+
+[4
+
+
+
+
+]
+
+[5]
+<figures/LKM/review_all.png, id=497, 2762.32pt x 1541.76pt>
+File: figures/LKM/review_all.png Graphic file (type png)
+<use figures/LKM/review_all.png>
+Package pdftex.def Info: figures/LKM/review_all.png  used on input line 80.
+(pdftex.def)             Requested size: 510.16086pt x 284.7271pt.
+
+Overfull \hbox (46.38083pt too wide) in paragraph at lines 80--81
+ [][] 
+ []
+
+
+
+[6 <./figures/LKM/review_all.png>]
+
+[7]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 125.
+
+
+
+[8]
+
+[9]
+<figures/Artigo4-metodologia-entregas-cacifo.png, id=600, 498.663pt x 278.84175pt>
+File: figures/Artigo4-metodologia-entregas-cacifo.png Graphic file (type png)
+<use figures/Artigo4-metodologia-entregas-cacifo.png>
+Package pdftex.def Info: figures/Artigo4-metodologia-entregas-cacifo.png  used on input line 187.
+(pdftex.def)             Requested size: 579.72504pt x 324.1927pt.
+
+Overfull \hbox (115.945pt too wide) in paragraph at lines 187--188
+ [][] 
+ []
+
+
+
+[10]
+
+[11 <./figures/Artigo4-metodologia-entregas-cacifo.png>]
+<figures/smile.png, id=630, 1444.64719pt x 609.77812pt>
+File: figures/smile.png Graphic file (type png)
+<use figures/smile.png>
+Package pdftex.def Info: figures/smile.png  used on input line 209.
+(pdftex.def)             Requested size: 579.72504pt x 244.6978pt.
+
+Overfull \hbox (115.945pt too wide) in paragraph at lines 209--210
+ [][] 
+ []
+
+
+
+[12 <./figures/smile.png>]
+<figures/greenleaf_1_2500_2500.jpeg, id=662, 973.38657pt x 647.41875pt>
+File: figures/greenleaf_1_2500_2500.jpeg Graphic file (type jpg)
+<use figures/greenleaf_1_2500_2500.jpeg>
+Package pdftex.def Info: figures/greenleaf_1_2500_2500.jpeg  used on input line 246.
+(pdftex.def)             Requested size: 533.3442pt x 354.73788pt.
+
+Overfull \hbox (69.56416pt too wide) in paragraph at lines 246--247
+ [][] 
+ []
+
+
+
+[13]
+<figures/article7.drawio.pdf, id=680, 421.575pt x 597.19106pt>
+File: figures/article7.drawio.pdf Graphic file (type pdf)
+<use figures/article7.drawio.pdf>
+Package pdftex.def Info: figures/article7.drawio.pdf  used on input line 265.
+(pdftex.def)             Requested size: 463.78003pt x 656.99422pt.
+
+
+[14 <./figures/greenleaf_1_2500_2500.jpeg>])
+
+[15 <./figures/article7.drawio.pdf>]
+\openout2 = `chapters/chapter3.aux'.
+
+ (./chapters/chapter3.tex
+Cap\'{\i }tulo 3.
+<figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png, id=729, 889.52325pt x 487.8225pt>
+File: figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png Graphic file (type png)
+<use figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png>
+Package pdftex.def Info: figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png  used on input line 19.
+(pdftex.def)             Requested size: 463.78003pt x 254.34651pt.
+
+
+[16
+
+
+
+
+]
+<figures/setorescominfraestruturascriticas.jpg, id=741, 665.8476pt x 670.6656pt>
+File: figures/setorescominfraestruturascriticas.jpg Graphic file (type jpg)
+<use figures/setorescominfraestruturascriticas.jpg>
+Package pdftex.def Info: figures/setorescominfraestruturascriticas.jpg  used on input line 27.
+(pdftex.def)             Requested size: 371.02544pt x 373.70767pt.
+
+
+[17 <./figures/caso-de-estudo/Living Labs Areas de AtuaÃ§Ã£o.png> <./figures/setorescominfraestruturascriticas.jpg>])
+
+[18]
+\openout2 = `chapters/chapter4.aux'.
+
+ (./chapters/chapter4.tex
+Cap\'{\i }tulo 4.
+)
+
+[19
+
+
+
+
+]
+\openout2 = `chapters/chapter5.aux'.
+
+ (./chapters/chapter5.tex
+Cap\'{\i }tulo 5.
+<figures/perfil/Perfil_Eduardo.png, id=770, 342.27875pt x 337.26pt>
+File: figures/perfil/Perfil_Eduardo.png Graphic file (type png)
+<use figures/perfil/Perfil_Eduardo.png>
+Package pdftex.def Info: figures/perfil/Perfil_Eduardo.png  used on input line 9.
+(pdftex.def)             Requested size: 139.13542pt x 137.09901pt.
+)
+
+[20
+
+
+
+
+ <./figures/perfil/Perfil_Eduardo.png>] (./main.bbl (./main.brf)
+\tf@brf=\write12
+\openout12 = `main.brf'.
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 12--12
+[]\T1/lmr/m/n/10.95 E. Jun-queira, ``Github - jun-quei-ra-de-ve-du-ardo urban-logistics-in-smart-cities-data-base.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\T1/lmr/m/n/10.95 https://github.com/JunqueiraDevEduardo/Urban-Logistics-in-Smart-Cities-Data-Base.git.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]\T1/lmr/m/n/10.95 VOSviewer, ``Re-sul-tado da aná-lise bi-bli-o-mé-trica com vos-vi-ewer.''
+ []
+
+
+
+[21
+
+
+
+]
+Underfull \hbox (badness 2717) in paragraph at lines 45--45
+[]\T1/lmr/m/n/10.95 E. Jun-queira, ``No-te-bo-o-klm - logis-projeto-smart lo-gis-tics: Urban-logistics-in-smart-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\T1/lmr/m/n/10.95 cities-data-base.'' https://notebooklm.google.com/notebook/eb27afdf-3c76-417b-98f0-
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 45--45
+\T1/lmr/m/n/10.95 3ad6684ec4a6?artifactId=e140c83b-fb49-4895-860c-87dda03122c3.  \T1/lmr/m/n/9 [Ci-tado nas pá-gi-nas []vii[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\T1/lmr/m/n/10.95 I. E. Com-mis-sion, ``Smart ci-ties, in-ter-na-ti-o-nal elec-tro-te-ch-ni-cal com-mis-sion.''
+ []
+
+
+Overfull \hbox (48.24876pt too wide) in paragraph at lines 55--55
+[]\T1/lmr/m/n/10.95 ``Freight trans-port to la ro-chelle.'' https://www.instantfreight.ai/roadfreighttransport/france/larochelle.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\T1/lmr/m/n/10.95 F. Va-len-ci-a-port, ``Smile - smart green in-no-va-tive ur-ban lo-gis-tics
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\T1/lmr/m/n/10.95 for energy ef-fi-ci-ent me-di-ter-ra-nean ci-ties - fun-da-ción va-len-ci-a-port.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\T1/lmr/m/n/10.95 https://www.fundacion.valenciaport.com/en/project/smile-smart-green-innovative-urban-
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 67--67
+[]\T1/lmr/m/n/10.95 CM Águeda, ``Be-Á-gueda - mo-bi-li-dade sus-ten-tá-vel em bi-ci-cleta.'' https://www.cm-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/lmr/m/n/10.95 CM Águeda, ``Eu-ro-pean green leaf 2026.'' https://www.cm-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+\T1/lmr/m/n/10.95 agueda.pt/viver/comunicacao/noticias-agueda/noticia/agueda-vence-premio-european-
+ []
+
+)
+
+[22]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 66.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 81.
+
+<figures/appendixA/visualization-web-of-science-category.jpg, id=877, 1967.35pt x 963.6pt>
+File: figures/appendixA/visualization-web-of-science-category.jpg Graphic file (type jpg)
+<use figures/appendixA/visualization-web-of-science-category.jpg>
+Package pdftex.def Info: figures/appendixA/visualization-web-of-science-category.jpg  used on input line 87.
+(pdftex.def)             Requested size: 565.8122pt x 277.12842pt.
+
+Overfull \hbox (102.03217pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
+<figures/appendixA/visualizationpublication-years.jpg, id=882, 1967.35pt x 963.6pt>
+File: figures/appendixA/visualizationpublication-years.jpg Graphic file (type jpg)
+<use figures/appendixA/visualizationpublication-years.jpg>
+Package pdftex.def Info: figures/appendixA/visualizationpublication-years.jpg  used on input line 94.
+(pdftex.def)             Requested size: 579.72504pt x 283.95076pt.
+
+Overfull \hbox (115.945pt too wide) in paragraph at lines 94--95
+ [][] 
+ []
+
+
+
+[23
+
+
+ <./figures/appendixA/visualization-web-of-science-category.jpg>]
+
+[24 <./figures/appendixA/visualizationpublication-years.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\gls' on input line 100.
+
+<figures/Co-authorship/test1.png, id=900, 3015.265pt x 2142.0025pt>
+File: figures/Co-authorship/test1.png Graphic file (type png)
+<use figures/Co-authorship/test1.png>
+Package pdftex.def Info: figures/Co-authorship/test1.png  used on input line 106.
+(pdftex.def)             Requested size: 602.91545pt x 428.29486pt.
+
+Overfull \hbox (139.13542pt too wide) in paragraph at lines 106--107
+ [][] 
+ []
+
+<figures/Co-ocurrence/teste2-52keywords.png, id=909, 3015.265pt x 2142.0025pt>
+File: figures/Co-ocurrence/teste2-52keywords.png Graphic file (type png)
+<use figures/Co-ocurrence/teste2-52keywords.png>
+Package pdftex.def Info: figures/Co-ocurrence/teste2-52keywords.png  used on input line 113.
+(pdftex.def)             Requested size: 602.91545pt x 428.29486pt.
+
+Overfull \hbox (139.13542pt too wide) in paragraph at lines 113--114
+ [][] 
+ []
+
+
+
+[25 <./figures/Co-authorship/test1.png
+
+pdfTeX warning: pdflatex (file ./figures/Co-authorship/test1.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+<figures/Co-ocurrence/VOSviewer-screenshot-final-test.png, id=922, 1927.2pt x 1050.92625pt>
+File: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png Graphic file (type png)
+<use figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>
+Package pdftex.def Info: figures/Co-ocurrence/VOSviewer-screenshot-final-test.png  used on input line 120.
+(pdftex.def)             Requested size: 533.3442pt x 290.82568pt.
+
+Overfull \hbox (69.56416pt too wide) in paragraph at lines 120--121
+ [][] 
+ []
+
+
+
+[26 <./figures/Co-ocurrence/teste2-52keywords.png
+
+pdfTeX warning: pdflatex (file ./figures/Co-ocurrence/teste2-52keywords.png): large interlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+
+[27 <./figures/Co-ocurrence/VOSviewer-screenshot-final-test.png>] (./main.aux (./front/title.aux) (./front/4_frontmatterlists.aux) (./front/abstract.aux) (./front/0_acronyms.aux) (./front/abstract_eng.aux) (./chapters/chapter1.aux) (./chapters/chapter2.aux) (./chapters/chapter3.aux) (./chapters/chapter4.aux) (./chapters/chapter5.aux))
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2020/03/25>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D97836E605DB4D5AB07C104EBD85D938;5176.
+Package rerunfilecheck Info: File `main.brf' has not changed.
+(rerunfilecheck)             Checksum: 7AEA81AF4054785950829B98C712C7E8;5728.
+ ) 
+Here is how much of TeX's memory you used:
+ 36454 strings out of 475044
+ 778001 string characters out of 5763162
+ 1329671 words of memory out of 5000000
+ 58720 multiletter control sequences out of 15000+600000
+ 661914 words of font info for 93 fonts, out of 8000000 for 9000
+ 83 hyphenation exceptions out of 8191
+ 101i,20n,103p,2483b,1425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (37 pages, 12548649 bytes).
+PDF statistics:
+ 1035 PDF objects out of 1200 (max. 8388607)
+ 901 compressed objects within 10 object streams
+ 163 named destinations out of 1000 (max. 500000)
+ 303 words of extra memory for PDF output out of 10000 (max. 10000000)
+

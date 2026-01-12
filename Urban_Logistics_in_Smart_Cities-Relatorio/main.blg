@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2025/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: front/title.aux
+A level-1 auxiliary file: front/4_frontmatterlists.aux
+A level-1 auxiliary file: front/abstract.aux
+A level-1 auxiliary file: front/0_acronyms.aux
+A level-1 auxiliary file: front/abstract_eng.aux
+A level-1 auxiliary file: chapters/chapter1.aux
+A level-1 auxiliary file: chapters/chapter2.aux
+A level-1 auxiliary file: chapters/chapter3.aux
+A level-1 auxiliary file: chapters/chapter4.aux
+A level-1 auxiliary file: chapters/chapter5.aux
+The style file: ieeetr.bst
+Database file #1: sampleRefs.bib
+You've used 25 entries,
+            1876 wiz_defined-function locations,
+            641 strings with 9224 characters,
+and the built_in function-call counts, 4605 in all, are:
+= -- 427
+> -- 183
+< -- 0
++ -- 75
+- -- 50
+* -- 281
+:= -- 664
+add.period$ -- 30
+call.type$ -- 25
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 25
+duplicate$ -- 194
+empty$ -- 511
+format.name$ -- 50
+if$ -- 1145
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 10
+newline$ -- 83
+num.names$ -- 24
+pop$ -- 107
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 172
+stack$ -- 0
+substring$ -- 156
+swap$ -- 61
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 36
+width$ -- 27
+write$ -- 219

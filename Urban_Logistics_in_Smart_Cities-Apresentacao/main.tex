@@ -1,0 +1,248 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Template for DEE@ISEP Presentations, for MEEC, LETI and MEEC
+% developed by Vitor M. R. Cunha - v1.0, Mar 2024
+% Suggestions and comments are welcomed (vrc at isep dot ipp dot pt).
+%
+% Template provided as is, NO SUPPORT will be given.
+% NO questions related to Beamer (or LaTeX) will be answered, go to
+% https://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf, or search the web.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CLASS SETTINGS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[
+aspectratio=169,	% Comment for 4:3 aspect ratio
+MEEC,				% Use this option to select your DEE degree, options: MEEC, LETI
+portuguese,			% Select document language, options: portuguese, english
+%handout			% Uncomment to make the PDF WITHOUT overlays, e.g., for PDF submission before the presentation
+]{DEEclassP}
+
+% Use the 'preamble.tex' file (root folder) do add packages and macros. Keep your main.tex file clean.
+\input{preamble}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PRESENTATION INFORMATION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title{\textit{Urban Logistics in Smart Cities}\\Logística Urbana em Cidades Inteligentes}	% Presentation title
+\author[Eduardo Junqueira]{Eduardo Miguel Moreira Junqueira, 1251561@isep.ipp.pt \cite{JunqueiraDevEduardoRepositório}.
+\\Orientação científica por: António Amaral, sal@isep.ipp.pt}
+\studentnumber{1251561}									% Your student number
+\predate{Janeiro 2026} 					% Presentation date, comment this line for automatic date (today)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+%Rodrigo fala aqui
+\begin{frame}[noframenumbering,plain]
+	\titlepage %10 segundos
+\end{frame}
+%Rodrigo fala aqui
+\begin{frame}{Sumário}%10 segundos
+	\tableofcontents
+	\printglossary[type=\acronymtype]
+	\input{0_acronyms.tex} % Include acronyms file
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section{Breve Introdução}% 3 minuto
+\begin{frame}{Contextualização}
+Cidade Inteligente, logística urbana, mobilidade, sustentabilidade, tecnologias, inovação, normas técnicas, otmização, são alguns dos termos mais relevantes neste estudo.
+Cada vez mais, as cidades enfrentam desafios relacionados com o crescimento populacional, a urbanização acelerada e a necessidade de soluções logísticas eficientes para garantir o bem-estar dos cidadãos.
+
+Aproximadamente 70\% dos cidadãos da \gls{ue} vivem em áreas urbanas, onde os efeitos das emissões de gases de efeito estufa provenientes do transporte rodoviário, ferroviário, aéreo e marítimo,  entre outros, representam um quarto das emissões totais da \gls{ue} \cite{CIVITAS_2025}.
+
+A \gls{ue} tem vindo a cofinanciar diversos projetos e iniciativas que visam melhorar a logística urbana nas cidades inteligentes.
+
+\end{frame}
+
+\begin{frame}{Metodologia}
+Ferramentas utilizadas para a primeira fase deste trabalho foram:
+\begin{itemize}
+	\item \textbf{\gls{wos}};
+	\item \textbf{\gls{vosviewer}};
+	\item \textbf{\gls{excel}};
+\end{itemize}
+Para uma análise bibliométrica inicial, foram recolhidos artigos científicos baseados em \textit{keywords} relevantes ao tema, o agrupamento das mesmas formou a \gls{query} utilizada na pesquisa.
+
+A \gls{query} utilizada foi:
+
+ ("urban logistics*" OR "urban areas*") AND ("smart cities*" OR "city logistics*" OR "smart logistics*") AND (sustainab* OR efficien* OR innovat*) AND ("transportation*" OR "economics*" OR "management*") \cite{JunqueiraDevEduardoRepositório}.
+\end{frame}
+
+\begin{frame}{Reultados da \gls{query}}
+Esta análise passou por três fases importantes \cite{JunqueiraDevEduardoRepositório}:
+\begin{enumerate}
+	\item \textbf{Filtragem Inicial:} Ferramenta \gls{wos} permitiu a análise inicial de resultados por categorias, anos de publicação, autores entre outros.
+	\item \textbf{Exportação \gls{txt} e \gls{csv}:} Os resultados foram exportados para serem analisados posteriormente na análise bibliométrica.
+	\item \textbf{Análise Bibliométrica:} A ferramenta \gls{vosviewer} permitiu a criação de mapas de co-citação e co-ocorrência de palavras-chave. A análise foi restrita apenas para 22 palavras-chave e 7 autores principais.
+\end{enumerate}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Da Metodologia á Revisão da Literatura}% 7 minutos
+
+\begin{frame}{Análise Bibliométrica \gls{vosviewer}}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.65\textwidth]{figures/VOSviewer-screenshot-final-test.png}
+	\caption{\textit{Map Co-occurrence} final \gls{vosviewer} com base no \gls{txt} exportado do \gls{wos}, destacando apenas 22 \textit{keywords} de filtro \cite{VosViewerResult2025}.}
+	\label{fig:map_co_occurrence}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}{Análise Bibliométrica \gls{excel} - Continuação}
+
+	Primeiramente o  ficheiro \gls{excel} nomeado de \textit{"query-all-536-Urban-Logistics-in-Smart-Cities"}, foi utilizado para analisar os dados todos exportados do \gls{wos} dos 536 resultados, para uma análise mais detalhada dos mesmos.
+
+Em seguida, o ficheiro \gls{excel} nomeado: \textit{"1-Bibliometric-KPIs-Assessment-Urban-Logistics-in-Smart-Cities"}, foi criado para analisar os principais \textit{article}, \textit{source} e \textit{author} com base em filtros \gls{kpi}.
+
+Após a análise, foram selecionados os principais 7 artigos para a revisão da literatura.
+
+Por fim, o ficheiro \gls{excel} nomeado: \textit{"2-Bibliography-Analysis-Urban-Logistics-in-Smart-Cities"}, foi criado para analisar os artigos separadamente para a Revisão da Literatura.
+
+
+	\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Apreciação Crítica - Principais Artigos}
+
+\begin{frame}{\textbf{Artigo I:"A Review of Technical Standards for Smart Cities"\cite{article}.}}
+
+Cada vez mais, as cidades de um país precisam de normas técnicas globais para implementar soluções inteligentes de forma eficiente e segura.
+A desinformação e falta de normas principalmente em países e cidades ainda em desenvolvimento e menos capital finânciero, é um obstáculo para a implementação de soluções inteligentes.
+
+Desta maneira, entidades globais como a \gls{iec}, \gls{iso}, \gls{itu} e \gls{ieee} têm vindo a desenvolver normas técnicas que abrangem diversos domínios das cidades inteligentes, tais como infraestruturas, transportes, energia, água, saúde, segurança, educação e governação \cite{article}.
+
+\textbf{De destacar que:} cidades sem normas enfrentam: custos elevados na importação de produtos, \textit{vendor lock-in} de empresas do setor privado e falta de cofinanciamento internacional.
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{\textbf{Artigo II:"AI-Driven Optimization of Urban Logistics in Smart Cities"\cite{su162411265}.}}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.3\textwidth]{figures/setorescominfraestruturascriticas.jpg}
+	\caption{Infraestruturas críticas em diferentes setores, citado em: \cite{articleadd}.}
+	\label{fig:ai-driven-optimization}
+\end{figure}
+Tecologias como AI, ML, DL, BC, IoT,VA entre outras estão presentes nestes setores  \cite{su162411265}.
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{\textbf{Artigo III:"Collaborative urban transportation: Recent advances in theory and practice"\cite{CLEOPHAS2019801}}}
+	A colaboração vertical e horizontal  são duas vertentes para reduzir o congestionamento urbano, impacto ambiental melhorar logísticas tradicionais.
+
+	\textbf{Na vertical}, todos partilham entregas entre si para reduzir rotas e custos de transportes.
+	\textbf{Na horizontal}, empresas do mesmo setor colaboram entre si para otimizar recursos e rotas, tornando mais eficiente para determinados tipos de entregas.
+
+	A cidade de La Rochelle em França,  é um exemplo prático de colaboração vertical para entregas de última-milha \cite{CLEOPHAS2019801}.
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{\textbf{Artigo IV:"Shortening the Last Mile in Urban Areas: E-Grocery ..."\cite{article2}.}}
+	Este artigo foca-se em \gls{egc}, com destaque para o conceito de \textit{Urban Logistics Hubs}.
+
+	Estes \textit{Hubs}, são pontos estratégicos localizados em áreas urbanas redistribuídos e recolhidos pelos compradores ou entregues por veículos elétricos nomeados de \gls{bce} \cite{article2}.
+	\begin{figure}[H]
+	    \centering
+	    \includegraphics[width=0.26\textwidth]{figures/distribuicaoegrocery.drawio.png}
+		\caption{Conceito de \textit{Urban Logistics Hub} para \gls{egc}, citado em: \cite{JunqueiraDevEduardoRepositório}.}
+	    \label{fig:urban_logistics_hub}
+	\end{figure}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{\textbf{Artigo V:"Designing new models for energy efficiency ... Spanish case"\cite{NAVARRO2016314}}}
+	O projeto \gls{smile} é um exemplo prático de logística urbana inteligente implementado em Valência.
+		\begin{figure}[H]
+	    \centering
+	    \includegraphics[width=0.65\textwidth]{figures/smile.png}
+		\caption{Infraestutura e coordenação projeto, citado em: \cite{NAVARRO2016314}.}
+	    \label{fig:urban_logistics_smile}
+	\end{figure}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{\textbf{Artigo VI"Fulfilment of last-mile: .... Portugal case"\cite{Correia02062024}.}}
+No país em que vivemos, sabemos que existe uma dificuldade em implementar logística urbana eficiente.
+Por motivos económicos, governamentais, cooperação entre \textit{stakeholders} e projetos-piloto que não são aprovados pelos Municípios \cite{Correia02062024}.
+
+Existe Munícipios dos quais 94\% não são capazes de implementar logística urbana de forma autónoma, necessitam de cooperação entre empresas públicas e privadas \cite{Correia02062024}.
+O cofinanciamento da \gls{ue} é um fator importante para a implementação destas soluções. Portugal 2030 tem seis prioridades das quais \cite{Portugal2030_2023}:
+\begin{enumerate}
+	\item Portugal + inteligente;
+	\item Portugal + verde;
+	\item Portugal + conectado;
+	\item Portugal + social;
+	\item Portugal + próximo dos cidadãos;
+	\item Protugal + transição justa;
+	\end{enumerate}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{\textbf{Artigo VII:"Interaction with City Logistics Stakeholders .... Polish case"\cite{en15114103}}}
+Este artigo foca-se na interação entre \textit{stakeholders} em diversas províncias da Polónia.
+Províncias estas que vem em desenvolvimento constante perante um pós período de gerra civil até 1989 e a implementação de logística está ainda em crescimento \cite{en15114103}.
+
+Um estudo realizado a diferentes regiões administrativas revela que as partes interessadas que pretendem implementar logística urbana inteligente e o nível médio de cooperação com \textit{stakeholders}, foi recolhida a informação de que >75\% das cidades estava ausente desta cooperação com os \textit{stakeholders}, pois 85\% da economia das mesmas estava em um circuito fechado, chamado \textit{vendor lock-in} \cite{en15114103}.
+
+\textbf{De destacar que:} a ausência de \textit{stakeholders} ativos compromete a implementação de soluções inteligentes e limita a escalabilidade dos projetos-piloto.
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Resumo dos 7 Artigos}
+
+\begin{table}[H]
+\centering
+\footnotesize
+\begin{tabular}{|p{0.45cm}|p{1.7cm}|p{1.45cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.6cm}|p{1.9cm}|}
+\hline
+ & \textbf{Artigo I} & \textbf{Artigo II} & \textbf{Artigo III} & \textbf{Artigo IV} & \textbf{Artigo V} & \textbf{Artigo VI} & \textbf{Artigo VII} \\
+\hline
+Foco & Normas Projetos-Piloto & AI & Colaboração Transporte & E-Grocery & Modelos no Transporte & Munícipios Portugal & Cidades da Polónia \\
+\hline
+Imp. & \textit{IEC, ISO,ITU, IEEE} & \textit{AI, IoT, ML, DL, BCT, AV} & Colaboração vertical e horizontal  & \textit{BCE, Hubs, lockers} & \textit{SMILE}, última-milha & Algoritmo-\textit{Clustering}  & \textit{Stakeholders} \\
+\hline
+Caso & Global & Global & La Rochelle & Hanover & Valência & Águeda e Porto & Polónia \\
+\hline
+Vant & Mesma linguagem & Controlo Aplicação & Colaboração & Eficiente & Modelo SMILE & Análise de dados históricos & Qualidade de Vida \\
+\hline
+Desv & Diferentes Tecnologias & Privacidade de dados & Partilha de Dados & Custo infraestrutura & Escabilidade & Falta de recursos & Falta de logística \\
+\hline
+\end{tabular}
+\caption{Análise comparativa final - Apreciação crítica}
+\end{table}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Caso de Estudo \textit{Living Labs '}}%5 minutos
+
+
+\begin{frame}{}
+
+
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Conclusões e Trabalhos Futuros}%2 minuto
+\begin{frame}{De notar que: }
+	Este tema de Logística permitiu obter mais conhecimento a nível teórico das várias soluções que estão e serão implementadas em um futuro próximo nas cidades inteligentes.
+	A normas serão cada vez mais necessárias e a certificação das mesmas em cada país também.
+	A colaboração entre \textit{stakeholders} é um fator crítico de sucesso para a implementação.
+	A integração de \textit{Living Labs '} é o núcleo central para testar todas estas soluções em ambientes reais.
+	As insfraestruturas críticas nas cidades devem ser tidas em consideração para implementar soluções inteligentes.
+
+	Todo este trabalho de investigação teórico em relação a esta temática em estudo está público no repusitório do \gls{github} do autor Eduardo Junqueira \cite{JunqueiraDevEduardoRepositório}.
+
+\end{frame}
+
+%17 minutos no total!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Print the bibliographic references, comment this frame if not needed
+\section*{\bibname}
+%\begin{frame}[t]
+\begin{frame}[t,allowframebreaks]		% Use this line and comment previous if references list takes more than one slide
+	\makereferecesframe{sampleRefs}		% Use the .bib from your report
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
+%Revisto por Eduardo 12/01/26
