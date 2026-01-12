@@ -4,18 +4,13 @@ Final Query:
 
 Link VOSviwer da query em cima: https://tinyurl.com/23fbn4ay
 
-Link Excel da query 536 resultados com a escolha dos artigos!
-
-Cada pessoa vai ter de ter 7 artigos! 3 x 7 = 21 artigos 
-
-
 Eduardo 7 artigos: 
-Artigo 1:Designing new models for energy efficiency in urban freight transport for smart cities and its application to the Spanish case.
-Artigo 2:Interaction with City Logistics Stakeholders as a Factor of the Development of Polish Cities on the Way to Becoming Smart Cities.
-Artigo 3:Shortening the Last Mile in Urban Areas: Optimizing a Smart Logistics Concept for E-Grocery Operations.
-Artigo 4:AI-Driven Optimization of Urban Logistics in Smart Cities: Integrating Autonomous Vehicles and IoT for Efficient Delivery Systems.
-Artigo 5:Fulfilment of last-mile urban logistics for sustainable and inclusive smart cities: a case study conducted in Portugal.
-Artigo 6:Collaborative urban transportation: Recent advances in theory and practice.
-Artigo 7:A Review of Technical Standards for Smart Cities.
+Artigo I:}  "A Review of Technical Standards for Smart Cities"\cite{article}.
+Artigo II:} "AI-Driven Optimization of Urban Logistics in Smart Cities: Integrating Autonomous Vehicles and IoT for Efficient Delivery Systems"\cite{su162411265}.
+Artigo III:} "Collaborative urban transportation: Recent advances in theory and practice"\cite{CLEOPHAS2019801}.
+Artigo IV:} "Shortening the Last Mile in Urban Areas: Optimizing a Smart Logistics Concept for E-Grocery Operations"\cite{article2}.
+Artigo V:} "Designing new models for energy efficiency in urban freight transport for smart cities and its application to the Spanish case"\cite{NAVARRO2016314}.
+Artigo VI:} "Fulfilment of last-mile urban logistics for sustainable and inclusive smart cities: a case study conducted in Portugal"\cite{Correia02062024}.
+Artigo VII:} "Interaction with City Logistics Stakeholders as a Factor of the Development of Polish Cities on the Way to Becoming Smart Cities"\cite{en15114103}.
 
--Caso de estudos  moodle pdf Mobilidade_e_Transformação_Orquestrada.pdf -Urban Cities Smart Cities e video explicativo feito peelo NotebookLM
+-Caso de estudos  moodle pdf Mobilidade_e_Transformação_Orquestrada.pdf 
